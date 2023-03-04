@@ -7,10 +7,16 @@ The purpose is to present an incomplete but heavily comprehensive list of the si
 ## Abbreviations
 
 TDNT
-: Theological Dictionary of the New Testament known as Big Kittels.
+: Theological Dictionary of the New Testament, known as Big Kittels.
 
- LSJ 
- : A Greek-English Lexicon known as Liddell & Scott.
+LSJ 
+: A Greek-English Lexicon, known as Liddell & Scott, may be cited as Liddell.
+
+TGL
+: Thayers' Greek-English Lexicon of the NT, may be cited as Thayer.
+
+BDAG
+: Greek NT Lexicon by Gingrich and eventually Danker, may be cited by those names.
 
 ## Vices
 
@@ -512,3 +518,7 @@ The following sins mentioned in Gal. 5:19–21; Eph. 5:5; 1 Cor. 6:9–10; Rev. 
 Kittel, Gerhard, and Gerhard Friedrich, eds. _Theological Dictionary of the New Testament._ Translated by Geoffrey W. Bromiley. 10 vols. Grand Rapids: Eerdmans, 1964–1976.
 
 Henry George Liddell. Robert Scott. _A Greek-English Lexicon._ revised and augmented throughout by. Sir Henry Stuart Jones. with the assistance of. Roderick McKenzie. Oxford. Clarendon Press. 1940.
+
+Thayer, Joseph. _Greek-English Lexicon of the New Testament._ 4th ed. T. & T. Clark, Edinburgh, 1896.
+
+Danker, Frederick W., Walter Bauer, William F. Arndt, and F. Wilbur Gingrich. _Greek-English Lexicon of the New Testament and Other Early Christian Literature._ 3rd ed. Chicago: University of Chicago Press, 2000.
