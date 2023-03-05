@@ -18,33 +18,51 @@ TGL
 BDAG
 : Greek NT Lexicon by Gingrich and eventually Danker, may be cited by those names.
 
+L.
+: Accordings and citations from LSJ.
+
+T.
+: Accordings and citations of Thayer from TGL.
+
+G. 
+: Accordings and citations of Gingrich from BDAG.
+
+D.
+: Accordings anc citations of Danker from BDAG.
+
 ## Vices
 
 The vices described in the entries in the following list are compiled from: Gal. 5:19–21; Mat. 15:19; Mar. 7:21; Rom. 1:29–31; 1 Tim. 1:9–10, 2:8–10, 3:3–11, 3:13; Eph. 4:31, 5:3–5; 2 Tim. 3:2–3; 1 Cor. 5:10–11, 6:9–10; 2 Cor. 12:20–21; Tit. 1:7, 2:3, 3:3, 3:9; Col. 3:5, 3:8–9; Heb. 12:15, 12:16, 13:4; 1 Pet. 2:1, 4:3; Acts 15:20, 15:29, 21:25; Rev. 9:20–21, 21:8, 21:27, 22:15;
 
-**Xyz**,
+**Unrighteousness**,
 ἀδικία (_adikia_):
 Rom. 1:29;
+The word stems from _ἄδικος_, described in TDNT (1:149–157) by Schrenk as a “violator of law,” understood as an opposition against _law_, _rule_, and _customs_. It conceives lawlessness as _legal injustice_, _partiality in judgment_, _unjust rule_, _dishonesty in business_, and _unlawful actions_, which lead to _incompetence_, what is _unjustifiable_, _harm_, and _injury_. It perceives as _calumnious_ and _inimical_, but simply it violates what is _socially acceptable_, _opposes the ethical_, and is _uncivilized_. The CD defines righteousness as “morally correct behavior, or a feeling that you are behaving in a morally correct way.”
 
-**Xyz**,
+**Blood**,
 αἷμα (_haima_):
 Acts 15:20, 29, 21:25; 
+Behm (TDNT 1:172) says that the core physiological meaning is _blood_. Liddell also points to _streams of blood_, _bloodshed_, and _blood-relationship_. Gingrich adds _bloody deeds_, the blood of animals used for _cultic purposes_ or _purification_. All in contrast to the shed blood of Jesus Christ for our sins and salvific use. Thus Christians are to abstain and keep from bloody use except for slaughter in meat production by pouring it straight out the drain and nothing else. Because the life is in the blood and dedicated for the use at the altar, thus it is prohibited to eat it in Lev. 17:11-14. The CD defines _blood_ as “the red liquid that is sent around the body by the heart, and carries oxygen and important substances to organs and tissue, and removes waste products.”
 
-**Xyz**,
+**Sectarianism**,
 αἵρεσις (_hairesis_):
 Gal. 5:20;
+Danker describes it as a choice of association based on shared principles or beliefs, ordinarily of a subgroup with views or beliefs that deviate in certain respects from those of a larger party. Usually, there are religious or schismatic sects that rise in heresy and cause divisions in the Body of Christ contrary to the gospel. Schlier (TDNT 1:181) adds that αἵρεσις denotes names for both _teachings_ and _schools_. For a group to exist the required aspects are usually a comprehensive gathering in the group, a self-chosen authority of a teacher, and an authoritarian doctrine that is well-disputable compared to the Word of God. Thayer inclines that the verb form αἱρέω denotes _the act of taking capture_, _the storming of a city_. From that, it’s conclusive that unnecessary divisions in a group are about making a coup based on disputably misunderstood teachings. CD defines _sectarianism_ as “very strong support for the religious or political group that you are a member of, which can cause problems between different groups.”
 
-**Xyz**,
+**Sordid gain**,
 αἰσχροκερδής (_aischrokerdēs_):
-1 Tim, 3:8; Tit. 1:7;
+1 Tim. 3:8; Tit. 1:7;
+Stems from two words: αἰσχρός _sordid_, and κέρδος, which according to Schlier (TDNT 3:672) means _to gain_, _advantage_, _profit_, also _crafty counsels_ and _cunning_. Further, Liddell states: _sordidly greedy for gain_, and Thayer states: _from eagerness for base gain_. In TDNT, it is clear that it is not limited strictly to the economic sphere but rather _gain_ in general. CD defines sordid _gain_ as “to get something that is useful, that gives you an advantage, or that is in some way positive, especially over a period of time.” Also, _see sordid_. Simply shameful gain sordidly.
 
-**Xyz**,
+**Sordid calumny**,
 αἰσχρολογία (_aischrologia_):
 Col. 3:8;
+Stems from two words: αἰσχρός _sordid_, and λόγος which according to Debrunner (TDNT 4:73) aims for _assembling_, _reckoning_, _account_, _review_, and _narrative_. Delling (TDNT 4:4) describes the contrast of καταλαλιά which is: "evil report" and "calumny" as "malicious or unthinking gossip." Thereby sordid accusations or evil thought-through slander cunningly planted. CD defines sordid _calumny_ as "(the act of making) a statement about someone that is not true and is intended to damage the reputation of that person." Also, _see sordid_. Simply shameful calumny sordidly.
 
-**Xyz**,
+**Sordid**,
 αἰσχρότης (_aischrotēs_):
 Eph. 5:4;
+Stems from αἰσχρός, which according to Bultmann (TDNT 1:190) means _that which is disgraceful_ also with a strong connotation of <u>shame</u>. Further, Danker defines αἰσχρότης as _shameful conduct_.  CD defines _sordid_ as "morally ugly, so that being involved makes you feel dirty," but also _sordidness_ as "the quality of being dirty and unpleasant," and as "the quality of being morally wrong and shocking."
 
 **Xyz**,
 ἀκαθαρσία (_akatharsia_):
@@ -519,6 +537,6 @@ Kittel, Gerhard, and Gerhard Friedrich, eds. _Theological Dictionary of the New 
 
 Henry George Liddell. Robert Scott. _A Greek-English Lexicon._ revised and augmented throughout by. Sir Henry Stuart Jones. with the assistance of. Roderick McKenzie. Oxford. Clarendon Press. 1940.
 
-Thayer, Joseph. _Greek-English Lexicon of the New Testament._ 4th ed. T. & T. Clark, Edinburgh, 1896.
+Thayer, Joseph. _Greek-English Lexicon of the New Testament._ 4th ed. Edinburgh. T. & T. Clark. 1896.
 
 Danker, Frederick W., Walter Bauer, William F. Arndt, and F. Wilbur Gingrich. _Greek-English Lexicon of the New Testament and Other Early Christian Literature._ 3rd ed. Chicago: University of Chicago Press, 2000.
