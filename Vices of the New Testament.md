@@ -37,7 +37,7 @@ The vices described in the entries in the following list are compiled from: Gal.
 **Unrighteousness**,
 ἀδικία (_adikia_):
 Rom. 1:29;
-The word stems from _ἄδικος_, described in TDNT (1:149–157) by Schrenk as a “violator of law,” understood as an opposition against _law_, _rule_, and _customs_. It conceives lawlessness as _legal injustice_, _partiality in judgment_, _unjust rule_, _dishonesty in business_, and _unlawful actions_, which lead to _incompetence_, what is _unjustifiable_, _harm_, and _injury_. It perceives as _calumnious_ and _inimical_, but simply it violates what is _socially acceptable_, _opposes the ethical_, and is _uncivilized_. The CD defines righteousness as “morally correct behavior, or a feeling that you are behaving in a morally correct way.”
+The word stems from _ἄδικος_, described in TDNT (1:149–57) by Schrenk as a “violator of law,” understood as an opposition against _law_, _rule_, and _customs_. It conceives lawlessness as _legal injustice_, _partiality in judgment_, _unjust rule_, _dishonesty in business_, and _unlawful actions_, which lead to _incompetence_, what is _unjustifiable_, _harm_, and _injury_. It perceives as _calumnious_ and _inimical_, but simply it violates what is _socially acceptable_, _opposes the ethical_, and is _uncivilized_. The CD defines righteousness as “morally correct behavior, or a feeling that you are behaving in a morally correct way.”
 
 **Blood**,
 αἷμα (_haima_):
@@ -64,17 +64,15 @@ Stems from two words: αἰσχρός _sordid_, and λόγος which according 
 Eph. 5:4;
 Stems from αἰσχρός, which according to Bultmann (TDNT 1:190) means _that which is disgraceful_ also with a strong connotation of <u>shame</u>. Further, Danker defines αἰσχρότης as _shameful conduct_.  CD defines _sordid_ as "morally ugly, so that being involved makes you feel dirty," but also _sordidness_ as "the quality of being dirty and unpleasant," and as "the quality of being morally wrong and shocking."
 
-**Xyz**,
-ἀκαθαρσία (_akatharsia_):
-Gal. 5:19; Eph. 5:3; 2 Cor. 12:21; Col. 3:5;
+**Ravagery**,
+ἀκαθαρσία, ἀκάθαρτος, (_akatharsia_, _akathartos_):
+Gal. 5:19; Eph. 5:3; 2 Cor. 12:21; Col. 3:5; Eph. 5:5;
+LXX denotes those terms in the context of impurity on the outside, usually from: certain animals and similar, corpses, bodily issues, semen, menstruation and other types of discharges from the body. Ordinarily, it has been described in bible translations using words such as: impure, unclean, and abominable. Totally, every sort of uncleanliness in Genesis, Exodus, Leviticus, Numbers, and Deuteronomy is associated with outward filth as _contagious_. Being contagious in the OT law is not a sin. However, it is a sin (Lev 5:2) not to keep track of contamination under mosaic law. Jesus, however, declares all food clean (Mat. 15:16–20), and thereby there is no cultic impurity within ἀκαθαρσία. However, concurrently Jesus declares that it is what goes out from the heart through the mouth that defiles man, among others ἀκαθαρσία. Peter is given the revelation in Acts 10:28 to not call anyone contagious as impure to the Jews. It is said that ἀκάθαρτος is about being unclean, but systematically through the NT, it mentions unclean spirits as contagious. ἀκαθαρσία on the other hand is used systematically with ravage and other filthy conduct. Technically, the kind of filth that goes out from the heart through the mouth – which causes ravage in the social and economical sphere – and is thereby associated with backbiting and severe revenge, with similar conduct. DC defines _ravage_ as "to cause great damage to something or someone."
 
-**Xyz**,
-ἀκάθαρτος (_akathartos_):
-Eph. 5:5;
-
-**Xyz**,
+**Uproar**,
 ἀκαταστασία (_akatastasia_):
 2 Cor. 12:20;
+Both Lidell, Thayer, and Gingrich agree that the semantic values of _unruliness_, _unrest_, _disorder_, _disturbance_, _instability_,  _confusion_, _tumult_, and _turmoil_ agrees in an acquainted manner as defined in CD, which defines _uproar_ as "a situation in which a lot of people complain about something angrily or make a lot of noise."
 
 **Xyz**,
 ἀκρατής (_akratēs_):
@@ -192,13 +190,13 @@ Rev 21:8;
 βέβηλος (_bebēlos_):
 1 Tim. 1:9; Heb. 12:16;
 
-**Xyz**,
-βλασφημία (_blasphēmia_):
-Mat. 15:19; Mar. 7:22; Eph 4:31; Col 3:8;
+**Blasphemy**,
+βλασφημία, βλάσφημος (_blasphēmia_, _blasphēmos_):
+Mat. 15:19; Mar. 7:22; Eph 4:31; Col 3:8; 1 Tim. 3:13; 2 Tim. 3:2;
+The word group, according to Beyer (TDNT 1:621–25), means "abusive speech," "word of evil sound," "The word means further the strongest form of 'personal mockery and calumniation,'" but weaker than X. CD defines _mockery_ as "the act of mocking someone or something," and _blaspheme_ as "to use offensive words or make statements that show no respect for God or religion." It's usually translated as _blasphemy_ when used against God but as _mockery_ when against humans.
 
-**Xyz**,
-βλάσφημος (_blasphēmos_):
-1 Tim. 3:13; 2 Tim. 3:2;
+**Mockery**,
+see _blasphemy_, rather used against humans than God.
 
 **Xyz**,
 γονεύς ἀπειθής (_goneus apeithēs_):
@@ -304,13 +302,10 @@ Rom. 1:29; Eph. 4:31; Tit. 3:3; Col. 3:8; 1 Pet. 2:1;
 κακοήθεια (_kakoētheia_):
 Rom. 1:29;
 
-**Xyz**,
-καταλαλιά (_katalalia_):
-2 Cor. 12:20; 1 Pet. 2:1;
-
-**Xyz**,
-κατάλαλος (_katalalos_):
-Rom. 1:30;
+**Slander**,
+καταλαλιά, κατάλαλος (_katalalia_, _katalalos_):
+2 Cor. 12:20; 1 Pet. 2:1; Rom. 1:30;
+This word group, according to Kittel (TDNT 4:4), stands in contrast to _sordid calumny_ as _unthinking gossip_ as the big difference. Except that it is "to importune someone with speeches," "to prattle something to someone," and also "to speak against, to accuse, someone," but is most likely common everyday slander. CD defines _slander_ as "statements that someone makes about another person that are not true and that harm their reputation, or the crime of making these statements."
 
 **Xyz**,
 κλέμμα (_klemma_):
@@ -336,9 +331,10 @@ Eph. 4:31;
 κῶμος (_kōmos_):
 Gal. 5:21; 1 Pet. 4:3;
 
-**Xyz**,
+**Defamatory**,
 λοίδορος (_loidoros_):
-1 Cor. 5:11; 1 Cor. 6:10;
+1 Cor. 5:11, 6:10;
+According to Hanse (TDNT 4:293-4), it may include _reproach_, _insult_, _revile_, and even _blaspheme_. However, _defamation_ takes over where _mockery_ ends and denotes "The idea that abuse which injures the reputation is a preliminary form of murder...," thereby it is a form of persecution that the reviler practices, and which believers are said not to hang around this type of persons. CD defines _defamatory_ as "damaging the reputation of a person or group by saying or writing bad things about them that are not true." Simply the one who persecutes by defamatory means.
 
 **Xyz**,
 μαλακός (_malakos_):
