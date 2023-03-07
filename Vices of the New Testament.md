@@ -18,6 +18,9 @@ TGL
 BDAG
 : Greek NT Lexicon by Gingrich and eventually Danker, may be cited by those names.
 
+CD
+: Any edition of  Cambridge Dictionary, usually online without viewed date.
+
 L.
 : Accordings and citations from LSJ.
 
@@ -67,28 +70,27 @@ Stems from αἰσχρός, which according to Bultmann (TDNT 1:190) means _tha
 **Ravagery**,
 ἀκαθαρσία, ἀκάθαρτος, (_akatharsia_, _akathartos_):
 Gal. 5:19; Eph. 5:3; 2 Cor. 12:21; Col. 3:5; Eph. 5:5;
-LXX denotes those terms in the context of impurity on the outside, usually from: certain animals and similar, corpses, bodily issues, semen, menstruation and other types of discharges from the body. Ordinarily, it has been described in bible translations using words such as: impure, unclean, and abominable. Totally, every sort of uncleanliness in Genesis, Exodus, Leviticus, Numbers, and Deuteronomy is associated with outward filth as _contagious_. Being contagious in the OT law is not a sin. However, it is a sin (Lev 5:2) not to keep track of contamination under mosaic law. Jesus, however, declares all food clean (Mat. 15:16–20), and thereby there is no cultic impurity within ἀκαθαρσία. However, concurrently Jesus declares that it is what goes out from the heart through the mouth that defiles man, among others ἀκαθαρσία. Peter is given the revelation in Acts 10:28 to not call anyone contagious as impure to the Jews. It is said that ἀκάθαρτος is about being unclean, but systematically through the NT, it mentions unclean spirits as contagious. ἀκαθαρσία on the other hand is used systematically with ravage and other filthy conduct. Technically, the kind of filth that goes out from the heart through the mouth – which causes ravage in the social and economical sphere – and is thereby associated with backbiting and severe revenge, with similar conduct. DC defines _ravage_ as "to cause great damage to something or someone."
+LXX denotes those terms in the context of impurity on the outside, usually from: certain animals and similar, corpses, bodily issues, semen, menstruation and other types of discharges from the body. Ordinarily, it has been described in bible translations using words such as: impure, unclean, and abominable. Totally, every sort of uncleanliness in the Pentateuch is associated with outward filth as _contagious_. Being contagious in the OT law is not a sin. However, it is a sin (Lev. 5:2) not to keep track of contamination under mosaic law. Jesus, however, declares all food clean (Mat. 15:16–20), and thereby there is no cultic impurity within ἀκαθαρσία. However, concurrently Jesus declares that it is what goes out from the heart through the mouth that defiles man, among others ἀκαθαρσία. Peter is given the revelation (Acts 10:28) to not call anyone contagious as in impure to the Jews. It is said that ἀκάθαρτος is about being unclean, but systematically through the NT, it mentions unclean spirits as contagious. ἀκαθαρσία on the other hand is used systematically with ravage and other filthy conduct. Technically, the kind of filth that goes out from the heart through the mouth – which causes ravage in the social and economical sphere – and is thereby associated with backbiting and severe revenge, with similar conduct. DC defines _ravage_ as "to cause great damage to something or someone."
 
 **Uproar**,
 ἀκαταστασία (_akatastasia_):
 2 Cor. 12:20;
 Both Lidell, Thayer, and Gingrich agree that the semantic values of _unruliness_, _unrest_, _disorder_, _disturbance_, _instability_,  _confusion_, _tumult_, and _turmoil_ agrees in an acquainted manner as defined in CD, which defines _uproar_ as "a situation in which a lot of people complain about something angrily or make a lot of noise."
 
-**Xyz**,
+**Dissipated**,
 ἀκρατής (_akratēs_):
 2 Tim. 3:3;
+Liddell, Thayer, and Gingrich are confluent in the following terms: _immoderate_, _without self-control_, _intemperate_, _dissolute_. CD defines _dissipated_ as "spending too much time enjoying physical pleasures and harmful activities such as drinking a lot of alcohol."
 
-**Xyz**,
+**Wannabe**,
 ἀλαζών (_alazōn_):
 Rom. 1:30; 2 Tim. 3:2;
+According to Delling (TDNT 1:226), it denotes the following thing, "makes more of himself," "ascribing to himself either more and better things than he has, or even what he does not possess at all," "promises what he can not perform."  Often in the Greek world, the orator, philosopher, poet, magician, doctor, cook, and officer are called this. Liddell says _vagabond_, _false pretender_, _impostor_, _quack_, _swaggering_. Thayer and Danker add _braggart_ and _boaster_ with L. Most terms don't confluence semantically with what D. describes, or only in part. CD defines _wannabe_ as "a person who wants to be like someone else, esp. someone famous, or who wants to be thought of as famous," but also defines _pretentious_ as "trying to appear or sound more important or clever than you are, especially in matters of art and literature," and "trying to give the appearance of great importance, esp. in a way that is obvious," also _pretender_ as "a person who states they have a right to the high position that someone else has, although other people disagree with this."
 
-**Xyz**,
-ἀλίσγημα εἴδωλον (_alisgēma eidōlon_):
-Acts 15:20;
-
-**Xyz**,
+**Sinner**,
 ἁμαρτωλός (_hamartōlos_):
 1 Tim. 1:9;
+According to Rengstorf (TDNT 1:317), ἁμαρτωλός denotes the core connotation as ἁμαρτία which is “not hitting,” “missing,” “the man who misses something,” and ἁμαρτωλός specifically "sinner," “when he misses something.” Except that there is no satisfying or distinguishing utility to explain such properly. Here we must explicitly rely on the context of 1 Tim. 1:9. The context says that the mosaic law is for those sinners but can impossibly refer to sinners of the mosaic law itself. Therefore only the Law of Christ (1 Cor. 9:21, Gal. 6:2) in the NT can be applicable (Mat. 22:35–40, John 13:24). When failing to do so, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not turn away from it.
 
 **Xyz**,
 ἀνδραποδιστής (_andrapodistēs_):
@@ -110,17 +112,19 @@ Rom 1:31;
 ἀνόητος (_anoētos_):
 Tit. 3:3;
 
-**Xyz**,
+**Lawless**,
 ἄνομος (_anomos_):
 1 Tim. 1:9;
+According to Gutbrod (TDNT 4:1086), the meaning is “having no law.” In 1 Cor. 9:21, Paul instructs: “I become lawless unto the lawless – I am not without God’s law but legal in Christ – to gain those without any law (NA28; my translation).” Technically even if Paul gained those without law by adapting to them, he never overlooked the Law of Christ. The big problem arises when someone disregards the worldly and the divine law simultaneously and thus becomes truly lawless. When people do so, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not become lawful.
 
 **Xyz**,
 ἀνόσιος (_anosios_):
 1 Tim. 1:9; 2 Tim. 3:2;
 
-**Xyz**,
+**Rebellious**,
 ἀνυπότακτος (_anypotaktos_):
 1 Tim. 1:9;
+According to Delling (TDNT 8:47), it denotes “not subject,” “free,” and “not subjected to specific (here geographical) ideas.” It means exactly “‘not subjecting’ oneself to sound teaching or its proponents (Tit. 1:9–10).” Also, in context “‘not submissive’ either in practice or principle. Here too, as in current usage, it has the sense of ‘rebellious’ or ‘refractory’ against God’s will (1 Tim. 1:9).” According to CD, _refractory_ is “not affected by a treatment, change, or process.” Also, _rebellious_ is defined as “If a group of people are rebellious, they oppose the ideas of the people in authority and plan to change the system, often using force.” When people rebel, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not submit.
 
 **Xyz**,
 ἀπειθής (_apeithēs_):
@@ -193,7 +197,7 @@ Rev 21:8;
 **Blasphemy**,
 βλασφημία, βλάσφημος (_blasphēmia_, _blasphēmos_):
 Mat. 15:19; Mar. 7:22; Eph 4:31; Col 3:8; 1 Tim. 3:13; 2 Tim. 3:2;
-The word group, according to Beyer (TDNT 1:621–25), means "abusive speech," "word of evil sound," "The word means further the strongest form of 'personal mockery and calumniation,'" but weaker than X. CD defines _mockery_ as "the act of mocking someone or something," and _blaspheme_ as "to use offensive words or make statements that show no respect for God or religion." It's usually translated as _blasphemy_ when used against God but as _mockery_ when against humans.
+The word group, according to Beyer (TDNT 1:621–25), means "abusive speech," "word of evil sound," "The word means further the strongest form of 'personal mockery and calumniation,'" but weaker than _defamatory_. CD defines _mockery_ as "the act of mocking someone or something," and _blaspheme_ as "to use offensive words or make statements that show no respect for God or religion." It's usually translated as _blasphemy_ when used against God but as _mockery_ when against humans.
 
 **Mockery**,
 see _blasphemy_, rather used against humans than God.
@@ -245,6 +249,10 @@ Gal 5:20; 1 Pet. 4:3;
 **Xyz**,
 εἴδωλον (_eidōlon_):
 Acts 15:20; Rev. 9:20;
+
+**Xyz**,
+ἀλίσγημα εἴδωλον (_alisgēma eidōlon_):
+Acts 15:20;
 
 **Xyz**,
 ἐπιθυμία (_epithymia_):
@@ -523,6 +531,9 @@ Rev. 21:27, 22:15;
 **Xyz**,
 ψιθυριστής (_psithyristēs_):
 Rom. 1:29;
+
+## Grace Exclusion
+The following sins mentioned in 1 Tim. 1:9–10 will make you fall from grace in under the mosaic jurisdiction if not turned away from.
 
 ## Heavenly Exclusion
 The following sins mentioned in Gal. 5:19–21; Eph. 5:5; 1 Cor. 6:9–10; Rev. 21:8, 27, 22:15; will exclude you from entering heaven if you live by them at the moment of fatality. Therefore get rid of them out of your life immediately, and promise yourself to never come by them again.
