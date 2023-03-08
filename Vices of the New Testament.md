@@ -19,7 +19,7 @@ BDAG
 : Greek NT Lexicon by Gingrich and eventually Danker, may be cited by those names.
 
 CD
-: Any edition of  Cambridge Dictionary, usually online without viewed date.
+: Any edition of Cambridge Dictionary, usually online without viewed date.
 
 L.
 : Accordings and citations from LSJ.
@@ -96,9 +96,10 @@ According to Rengstorf (TDNT 1:317), ἁμαρτωλός denotes the core connot
 ἀνδραποδιστής (_andrapodistēs_):
 1 Tim. 1:10;
 
-**Xyz**,
+**Husband-murderer**,
 ἀνδροφόνος (_androphonos_):
 1 Tim 1:9;
+Liddell describes "[1)] man-slaying ... [2)] of women, murdering husbands." Manslayer is a crime of the worst sort. May the person doing this – if a woman – repent, and may her children forgive her. If a wife kills her husband, they should fall out of the Grace of God unto the jurisdiction of the mosaic law. Not until fully repented from it, including proven sound before the congregational elders.
 
 **Xyz**,
 ἀνελεήμων (_aneleēmōn_):
@@ -117,9 +118,10 @@ Tit. 3:3;
 1 Tim. 1:9;
 According to Gutbrod (TDNT 4:1086), the meaning is “having no law.” In 1 Cor. 9:21, Paul instructs: “I become lawless unto the lawless – I am not without God’s law but legal in Christ – to gain those without any law (NA28; my translation).” Technically even if Paul gained those without law by adapting to them, he never overlooked the Law of Christ. The big problem arises when someone disregards the worldly and the divine law simultaneously and thus becomes truly lawless. When people do so, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not become lawful.
 
-**Xyz**,
+**Impious**,
 ἀνόσιος (_anosios_):
 1 Tim. 1:9; 2 Tim. 3:2;
+According to Hauck (TDNT 5:492), mentions "...it occurs twice in the Past. for 'impious' persons who impiously reject sacred obligations. ... but in 2 Tim. 3:2 the sequence ... suggests the sense of 'impious,' 'devoid of piety.'" It seems that the difference to _irreverent_ is rather the skipping or negligence of basic NT biblical obligations to one's relatives and family prescribed by Jesus as expected in Christian conduct. CD defined _piety_ as "a strong belief in God or a religion, shown by your worship and behavior." When failing to do so, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not turn away from it.
 
 **Rebellious**,
 ἀνυπότακτος (_anypotaktos_):
@@ -142,9 +144,10 @@ Rev. 21:8;
 ἀρσενοκοίτης (_arsenokoitēs_):
 1 Tim. 1:10; 1 Cor. 6:9;
 
-**Xyz**,
+**Irreverent**,
 ἀσεβής (_asebēs_):
 1 Tim. 1:9;
+According to Foerster (TDNT 7:185–7), for the pagans, irreverence meant "In Athenian trials for _asebia_ non-belief in the gods in which the _polis_ believes is called _adikein_ ... all private cults are to be forbidden under the law of _asebia_... As long as the ancient _polis_ endured _asebia_, the failure to worship the city gods, was a breach of its order. Taking part in the national cult was _eusebeia_, refusal to do so _asebeia_. To the end of antiquity, then, an important part of _eusebeia_ or _asebeia_ was participation in the national cult or refusal to do this." Also, for the pagans, "As _eusebeia_ developed from reverence for the gods and the orders protected by them to worship of the gods, so _asebeia_ developed from a lack of reverence for the gods  to neglect of the cultus." For the Jews, irreverence could be "With _asebes_ there is never any more precise indication of obj. This does not mean that only God is the direct object of _aseb-_. A first pt. to notice is that _aseb-_ never denotes a mere attitude but always action, conduct. Hence _asebeia_ can often be put in the plur. as issue of specific acts. If the obj. is indicated only with the verb _asebeo_, this is the more surprising in that the group is not used only for cultic or particularly religious acts. A false witness speaks _asebeia_ ... _asebes_ means one who is guilty in the judgement ... _asebeo_ means transgression of judicial directions." CD defines _irreverent_ as "lacking the expected respect for official, important, or holy things." Biblically _irreverent_ means conduct against God that is not worthy to call worship, because their hands do not conduct what their tongues confess (Jam 1: 22–25). When failing to do so, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not turn away from it.
 
 **Xyz**,
 ἀσέλγεια (_aselgeia_):
@@ -190,9 +193,10 @@ Rev. 21:27;
 βδελύσσω (_bdelyssō_):
 Rev 21:8;
 
-**Xyz**,
+**Worldly**,
 βέβηλος (_bebēlos_):
 1 Tim. 1:9; Heb. 12:16;
+According to Hauck (TDNT 1:604–5), it means "the place which may be entered by anyone ... 'accessible.' It corresponds exactly to the Lat. _profanus_." Further, it denotes "it is used of persons  in the sense of 'unsanctified' or 'profane.'" Profane is the use of the world for a vessel that is supposed to be clean and used for holy purposes, therefore it's not allowed to use it for worldly purposes but for holy use in the world. Further from TDNT is "as applied to persons, _bebelos_ in Hb. 12:16 (alongside _pornos_ [whoremaster]) ... denotes profane men who are far from God; their unholiness includes ethical deficiency in accordance with the NT approach." CD defines _worldly_ as "experienced in the ways of the world," and as "relating to or consisting of physical things and ordinary life rather than spiritual things." When in worldly use, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not turn away from it.
 
 **Blasphemy**,
 βλασφημία, βλάσφημος (_blasphēmia_, _blasphēmos_):
@@ -360,9 +364,10 @@ Gal. 5:21;
 μέθυσος (_methysos_):
 1 Cor. 5:11, 6:10;
 
-**Xyz**,
+**Mother-murderer**,
 μητρολῴας (_mētrolōas_):
 1 Tim. 1:9;
+Liddell describes "striking one's mother, a matricide." CD describes _matricide_ as "a crime in which a person kills their mother." If anyone kills their mother, they have committed murder. If anyone kills their parent, they should fall out of the Grace of God unto the jurisdiction of the mosaic law. Not until fully repented of the thing, including proven sound before the congregational elders.
 
 **Xyz**,
 μοιχεία (_moicheia_):
@@ -408,9 +413,10 @@ Col. 3:5;
 πάροινος (_paroinos_):
 1 Tim. 3:3; Tit. 1:7;
 
-**Xyz**,
+**Father-murderer**,
 πατρολῴας (_patrolōas_):
-1 Tim. 1:9;
+1 Tim. 1:9; 
+Liddell describes "one who slays his father, a parricide." CD describes _patricide_ as "the crime of killing your own father." If anyone kills their father, they have committed murder. If anyone kills their parent, they should fall out of the Grace of God unto the jurisdiction of the mosaic law. Not until fully repented of the thing, including proven sound before the congregational elders.
 
 **Xyz**,
 πικρία (_pikria_):
@@ -439,6 +445,11 @@ Mar. 7:22; Rom. 1:29;
 **Xyz**,
 πορνεία (_porneia_):
 Gal. 5:19; Mat. 15:19; Mar. 7:21; Eph 5:3; 2 Cor. 12:21; Col. 3:5; Acts 15:20, 21:25; Rev. 9:21;
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornix
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornicatio2
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornicator
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornicor
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornicatrix
 
 **Xyz**,
 πόρνος (_pornos_):
@@ -547,3 +558,5 @@ Henry George Liddell. Robert Scott. _A Greek-English Lexicon._ revised and augme
 Thayer, Joseph. _Greek-English Lexicon of the New Testament._ 4th ed. Edinburgh. T. & T. Clark. 1896.
 
 Danker, Frederick W., Walter Bauer, William F. Arndt, and F. Wilbur Gingrich. _Greek-English Lexicon of the New Testament and Other Early Christian Literature._ 3rd ed. Chicago: University of Chicago Press, 2000.
+
+A Latin Dictionary. Founded on Andrews' edition of Freund's Latin dictionary. revised, enlarged, and in great part rewritten by. Charlton T. Lewis, Ph.D. and. Charles Short, LL.D. Oxford. Clarendon Press. 1879.
