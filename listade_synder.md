@@ -330,3 +330,5 @@ Know ye not that the unrighteous shall not inherit the kingdom of God? (1 Cor. 6
 * Rev 22:15 --- ποιέω ψεῦδος (poieō pseudos):
 
 "may enter in through the gates into the city. For without are" (Rev. 22:14-15 KJV)
+
+* Rom 13:13

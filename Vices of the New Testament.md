@@ -92,9 +92,16 @@ According to Delling (TDNT 1:226), it denotes the following thing, "makes more o
 1 Tim. 1:9;
 According to Rengstorf (TDNT 1:317), ἁμαρτωλός denotes the core connotation as ἁμαρτία which is “not hitting,” “missing,” “the man who misses something,” and ἁμαρτωλός specifically "sinner," “when he misses something.” Except that there is no satisfying or distinguishing utility to explain such properly. Here we must explicitly rely on the context of 1 Tim. 1:9. The context says that the mosaic law is for those sinners but can impossibly refer to sinners of the mosaic law itself. Therefore only the Law of Christ (1 Cor. 9:21, Gal. 6:2) in the NT can be applicable (Mat. 22:35–40, John 13:24). When failing to do so, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not turn away from it.
 
-**Xyz**,
+**Oppressor**,
 ἀνδραποδιστής (_andrapodistēs_):
 1 Tim. 1:10;
+According to Liddell and Gingrich, both say _kidnapper_ and _slave-dealer_, Thayer goes further and explains "(from ἀνδραποδίζω, and this from τό ἀνδράποδον – from ἀνήρ and πούς – a slave, a man taken in war and sold into slavery), a _slave-dealer_, _kidnapper_, _man-stealer_, i. e. as well one who unjustly reduces free men to slavery, as one who steals the slaves of others and sells them." CD defines _oppressor_ as "someone who treats people in an unfair and cruel way and prevents them from having opportunities and freedom." Further, _kidnapper_ as "someone who takes a person away illegally by force, usually in order to demand money in exchange for releasing them." Finally, _trafficker_ as "a person who buys and sells goods or people illegally." If anyone oppresses, kidnaps, or traffics somebody, they should fall out of the Grace of God unto the jurisdiction of the mosaic law. Not until fully repented of the oppression, including proven sound before the congregational elders.
+
+**Kidnapper**,
+see _oppressor_, secondary meaning of _andrapodistēs_.
+
+**Trafficker**,
+see _oppressor_, tertiary meaning of _andrapodistēs_.
 
 **Husband-murderer**,
 ἀνδροφόνος (_androphonos_):
@@ -140,9 +147,10 @@ Rev. 21:8;
 ἅρπαξ (_harpax_):
 1 Cor. 5:10, 11, 6:10;
 
-**Xyz**,
+**Gay-partner**,
 ἀρσενοκοίτης (_arsenokoitēs_):
 1 Tim. 1:10; 1 Cor. 6:9;
+Thayer connotes "(ἄρσην a male; κοίτη a bed), one who lies with a male as with a female, a sodomite." Technically this is about man-gay sex, but it seems that it can interpret differently if the combining words are more deeply understood. See _nests (multiple)_ to connote the word κοίτη as singular, generally about cohabiting. Generally speaking, it is two men, a husband being sexually cohabited by a male, technically gay partnership. CD defines _civil partnership_ as "in the UK, a legal relationship between two people of the same sex that gives them the same rights as people who are married." Also, _partner_ as "the person you are married to or living with as if married to them, or the person you are having a sexual relationship with."
 
 **Irreverent**,
 ἀσεβής (_asebēs_):
@@ -335,6 +343,11 @@ Mat. 15:19; Mar. 7:21;
 κοινός (_koinos_):
 Rev. 21:27;
 
+**Nests (multiple), polygamy**,
+κοίταις (_koitais_, plural):
+Rom 13:13;
+κοίτη in singular according to Liddell means among others: _bedstead_, _marriage-bed_, _of one dead_, _lair_ of a wild beast, a _nest_ of a bird, of the spider, of the fish, _pen_, _fold_ for cattle, _act of going to bed_, _of sexual connection_. A very related word of Liddell is κοῖτος which means: _resting-place_, _bed of birds_, _stall_, _fold_, _pen_.  κοίτη itself should not be mistaken for sinful conduct but is used regarding many righteous men and women in the bible, even if not married. It is conclusive that κοίτη originally was about the nightly protection in the era of the stone-age. Animals and people pursued a nightly place to live and defend. Some animals live in pairs and build a common κοίτη. The same thing with humans a man and woman cooperate for nightly protection, and around that place, builds or furnish what they call home. Technically it’s a shared bed around which the whole household builds up. Think of it from the point of view of a birdnest, two birds builds a nest in which they mate, lay eggs, raises chicks, and sleep in it, everything contrary to other animals that do not have a monogamous relationship with their peers. In 2 Sam. 11:13, Uriah goes back to his _nest_ to sleep for the second time – the LXX uses the word κοίτη here. In Gen. 49:4, Reuben did climb his father Israel's _nest_ by sleeping with his wife. Rom. 9:10 says "not only but except even Rebecca out of one _nest_ conceived, with our father Isaac (NA28; my translation)." Technically κοίτη as _nest_ is in itself normal human conduct. However, with many cohabitations – wedded or not – it’s sinful polygamy. CD defines _nest as_ "to build a nest, or live in a nest," and "a structure or other place where creatures, esp. birds, give birth or leave their eggs to develop." Also, CD defines _polygamy_ as "the custom or condition of being married to more than one person at the same time."
+
 **Xyz**,
 κραυγή (_kraugē_):
 Eph. 4:31;
@@ -346,7 +359,7 @@ Gal. 5:21; 1 Pet. 4:3;
 **Defamatory**,
 λοίδορος (_loidoros_):
 1 Cor. 5:11, 6:10;
-According to Hanse (TDNT 4:293-4), it may include _reproach_, _insult_, _revile_, and even _blaspheme_. However, _defamation_ takes over where _mockery_ ends and denotes "The idea that abuse which injures the reputation is a preliminary form of murder...," thereby it is a form of persecution that the reviler practices, and which believers are said not to hang around this type of persons. CD defines _defamatory_ as "damaging the reputation of a person or group by saying or writing bad things about them that are not true." Simply the one who persecutes by defamatory means.
+According to Hanse (TDNT 4:293–4), it may include _reproach_, _insult_, _revile_, and even _blaspheme_. However, _defamation_ takes over where _mockery_ ends and denotes "The idea that abuse which injures the reputation is a preliminary form of murder...," thereby it is a form of persecution that the reviler practices, and which believers are said not to hang around this type of persons. CD defines _defamatory_ as "damaging the reputation of a person or group by saying or writing bad things about them that are not true." Simply the one who persecutes by defamatory means.
 
 **Xyz**,
 μαλακός (_malakos_):
@@ -442,18 +455,21 @@ Acts 15:20, 29, 21:25;
 πονηρία (_ponēria_):
 Mar. 7:22; Rom. 1:29;
 
-**Xyz**,
+**Prostitution**,
 πορνεία (_porneia_):
 Gal. 5:19; Mat. 15:19; Mar. 7:21; Eph 5:3; 2 Cor. 12:21; Col. 3:5; Acts 15:20, 21:25; Rev. 9:21;
-http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornix
-http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornicatio2
-http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornicator
-http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornicor
-http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DF%3Aentry+group%3D24%3Aentry%3Dfornicatrix
+According to Hauck/Schulz (TDNT 6:580), "_porne_ from _pernemi_ 'to sell,' esp. of slaves, means lit. 'harlot for hire,' 'prostitute'; Gk. harlots were usually bought slaves ... _pornos_ ... 'whoremonger' who has intercourse with prostitutes then specifically one who lets himself be used for money, 'male prostitute' ... _porneia_ ... rare in class Gk., 'fornication' ... _moicheuo_ is narrower than _porneia_ and refers solely to adultery." According to Liddell the following words beginning with πορν- means: πορνεία _prostitution_, πορνεῖον _brothel_, πορνεύω "_prostitute_, mostly in Pass., of a woman, _prostitute herself, be or become a prostitute_," πόρνη "_harlot_, _prostitute_," πορνικός "_of or for harlots_, ... the tax _paid by brothel-keepers_," πορνοβοσκέω "_keep a brothel_," πορνοβοσκία "_trade of a brothel-keeper_," πορνοβοσκός _brothel-keeper_, πορνοφίλας or πορνο-φίλης "_loving-harlots_," πορνο-διδάσκαλος "_teacher of fornication_", πορνο-γέννητος "_born of harlots_," πορνο-γράφος "_wiritng of harlots_," πορνο-κοπέω "_to be a whoremonger_," πορνο-κοπία _whoremongering_, πορνο-κόπος "_one who has commerce with prostitutes_, _fornicator_," πορνο-μανής "_mad after prostitutes_," πόρνος "_catamite_, _sodomite_, _fornicator_," πορνο-τελώνης "_farmer of the_ [brothel], _tax-gatherer_." A lot of bible translations use the word _fornication_ which stems from the Latin. Lewis & Short says: fornix "_a brothel, bagnio, stew_, situated in underground vaults," fornĭcātĭo "_whoredom_, _fornication_," fornĭcātor _fornicator_, fornĭcor "_to commit whoredom_ or _fornication_," fornĭcātrix "_a fornicatress, prostitute." It is clear that _fornication_ comes from _prostitution_, and everything related to πορν- is brothel activity and nothing else. Therefore it should be obvious that πορνεία is the activity of a man paying for the performance of prostitutive acts and nothing else. Prostitution has come to be a derogatory term for those not practicing brothel activity but those that refuse religious _sexual asceticism_ and similar. CD defines _prostitution_ as "the business of having sex for money." (It seems like CD has removed the act of buying a prostitute from the dictionary.)
 
-**Xyz**,
+**Sex-purchase**,
+see _prostitution_.
+
+**Male-sex-buyer**,
 πόρνος (_pornos_):
 1 Tim. 1:10; Eph. 5:5; 1 Cor. 5:10, 11, 6:9; Heb. 12:16, 13:4;
+According to Hauck/Schulz (TDNT 6:580), "_pornos_ ... 'whoremonger' who has intercourse with prostitutes then specifically one who lets himself be used for money, 'male prostitute'" There is no word in CD regarding male sexual immoral conduct. When men purchase sex, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not turn away and repent for it.
+
+**Male-prostitute**,
+see _male-sex-buyer_, secondary meaning of _pornos_.
 
 **Xyz**,
 πότος (_potos_):
@@ -531,9 +547,10 @@ Mat. 15:19;
 ψεῦδος (_pseudos_):
 Rev. 21:27, 22:15;
 
-**Xyz**,
+**Liar**,
 ψεύστης (_pseustēs_):
 1 Tim. 1:10;
+In John 14:6, we need to know that Jesus claims to be the truth with capital T. In John 8:44, The Devil is the father of lies with capital L. Technically, the term ψεύστης is used only 10 times in the NT, mostly by John and secondly by Paul. It is only used in contrast between the  truth of God and the lies of the Devil. All truthfulness is in regard to the Kingdom of God and Jesus with the Gospel. Conzelmann (TDNT 9:594) denotes the correct use of ψεύστης in profane greek as _liar_. But the meaning thereof is far away from protestant and catholic state religious connotation, instead, C. describes "Lying cannot be viewed merely as the opposite of truth. Basic to the general and philosophical use of the word group is the twofold sense, namely, objective and subjective appearance, untruth as non-breaking and error as false judgment of reality. The norm of the ethical assessment of lying is the firm bond between _aletheia_ and _dike_. At issue is the divinely protected order of the world." Further, C. states "Hence the worst lie is perjury ... Subj. values enter in here. Lying esp. direct lying against others i.e., 'calumniation' _diabole_, is alien to the good man ... It deprives honor and is an assault on human dignity ... The aristocratic order demands esp. that one should not deceive those to whom one owes respect, ... On the other hand the gods deceive (_dolos_) men." CD describes _lie_ as "to say or write something that is not true in order to deceive someone," and _liar_ as "someone who tells lies." When lying, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not stop it.
 
 **Xyz**,
 ψιθυρισμός (_psithyrismos_):
