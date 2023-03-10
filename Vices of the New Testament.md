@@ -35,7 +35,7 @@ D.
 
 ## Vices
 
-The vices described in the entries in the following list are compiled from: Gal. 5:19–21; Mat. 15:19; Mar. 7:21; Rom. 1:29–31; 1 Tim. 1:9–10, 2:8–10, 3:3–11, 3:13; Eph. 4:31, 5:3–5; 2 Tim. 3:2–3; 1 Cor. 5:10–11, 6:9–10; 2 Cor. 12:20–21; Tit. 1:7, 2:3, 3:3, 3:9; Col. 3:5, 3:8–9; Heb. 12:15, 12:16, 13:4; 1 Pet. 2:1, 4:3; Acts 15:20, 15:29, 21:25; Rev. 9:20–21, 21:8, 21:27, 22:15;
+The vices described in the entries in the following list are compiled from: Gal. 5:19–21; Mat. 15:19; Mar. 7:21; Rom. 1:29–31, 13:13; 1 Tim. 1:9–10, 2:8–10, 3:3–11, 3:13; Eph. 4:31, 5:3–5; 2 Tim. 3:2–3; 1 Cor. 5:10–11, 6:9–10; 2 Cor. 12:20–21; Tit. 1:7, 2:3, 3:3, 3:9; Col. 3:5, 3:8–9; Heb. 12:15, 12:16, 13:4; 1 Pet. 2:1, 4:3; Acts 15:20, 15:29, 21:25; Rev. 9:20–21, 21:8, 21:27, 22:15;
 
 **Unrighteousness**,
 ἀδικία (_adikia_):
@@ -67,10 +67,15 @@ Stems from two words: αἰσχρός _sordid_, and λόγος which according 
 Eph. 5:4;
 Stems from αἰσχρός, which according to Bultmann (TDNT 1:190) means _that which is disgraceful_ also with a strong connotation of <u>shame</u>. Further, Danker defines αἰσχρότης as _shameful conduct_.  CD defines _sordid_ as "morally ugly, so that being involved makes you feel dirty," but also _sordidness_ as "the quality of being dirty and unpleasant," and as "the quality of being morally wrong and shocking."
 
-**Ravagery**,
-ἀκαθαρσία, ἀκάθαρτος, (_akatharsia_, _akathartos_):
-Gal. 5:19; Eph. 5:3; 2 Cor. 12:21; Col. 3:5; Eph. 5:5;
-LXX denotes those terms in the context of impurity on the outside, usually from: certain animals and similar, corpses, bodily issues, semen, menstruation and other types of discharges from the body. Ordinarily, it has been described in bible translations using words such as: impure, unclean, and abominable. Totally, every sort of uncleanliness in the Pentateuch is associated with outward filth as _contagious_. Being contagious in the OT law is not a sin. However, it is a sin (Lev. 5:2) not to keep track of contamination under mosaic law. Jesus, however, declares all food clean (Mat. 15:16–20), and thereby there is no cultic impurity within ἀκαθαρσία. However, concurrently Jesus declares that it is what goes out from the heart through the mouth that defiles man, among others ἀκαθαρσία. Peter is given the revelation (Acts 10:28) to not call anyone contagious as in impure to the Jews. It is said that ἀκάθαρτος is about being unclean, but systematically through the NT, it mentions unclean spirits as contagious. ἀκαθαρσία on the other hand is used systematically with ravage and other filthy conduct. Technically, the kind of filth that goes out from the heart through the mouth – which causes ravage in the social and economical sphere – and is thereby associated with backbiting and severe revenge, with similar conduct. DC defines _ravage_ as "to cause great damage to something or someone."
+**Foul (conduct)**,
+ἀκαθαρσία, (_akatharsia_):
+Gal. 5:19; Eph. 5:3; 2 Cor. 12:21; Col. 3:5;
+In LXX the term is about the hazardous and contagious but in the Pentateuch only about bio-hazards, also in the TDNT, Hauck describes the New Testament version of filth in terms that denotes the purification through sanctification. (TDNT 3:428) "uses the words of moral impurity which excludes man from fellowship with God (opposite _hagios_). Paul adopts _akatharsia_ from Judaism as a general description of the absolute alienation from God in which heathenism finds itself. But for him the term no longer has ritual significance." Liddell denotes filth as _uncleanliness_, the _foulness_ of wound, _dirt_, _filth_, in a moral sense _depravity_. Danker agrees with _filth_, _dirt_, and _moral depravity_. It's clearly about filthy/foul conduct, especially in the sphere of economics and social affairs, and may extend somewhat into the sexual arena, even as demonically influenced but mostly as a willful choice of lifestyle. CD defines _foul_ as "extremely unpleasant," and "to pollute something or make it dirty," including "to commit a foul against another player."
+
+**Foul (state)**,
+ἀκάθαρτος, (_akathartos_):
+Eph. 5:5;
+LXX mentions foul spirit in context (Zec. 13:2) of cleansing the land of God together with the false prophets, foul spirits are mentioned 23 times in the NT, the spirits that make people foul if invited through a vile lifestyle. According to 2 Cor. 6:14–18, we should not touch the foul but be received by the Lord, all connected to idolatry and association with Belial. The foulness has the be cleansed, presumably by casting out foul spirits and ending the vile lifestyle. Also see _foul (conduct)_.
 
 **Uproar**,
 ἀκαταστασία (_akatastasia_):
@@ -108,17 +113,20 @@ see _oppressor_, tertiary meaning of _andrapodistēs_.
 1 Tim 1:9;
 Liddell describes "[1)] man-slaying ... [2)] of women, murdering husbands." Manslayer is a crime of the worst sort. May the person doing this – if a woman – repent, and may her children forgive her. If a wife kills her husband, they should fall out of the Grace of God unto the jurisdiction of the mosaic law. Not until fully repented from it, including proven sound before the congregational elders.
 
-**Xyz**,
+**Unmerciful**,
 ἀνελεήμων (_aneleēmōn_):
 Rom 1:31;
+Both Liddell and Thayer  agree in the meaning _merciless_, _without mercy_, while Gingrich and Bultmann (TDNT 2:487) connotes _unmerciful_. It seems that _merciful_ purposes for active merciful conduct while merciless points at lack of compassion related to cruel conduct. While _unmerciful_ aims to hold back merciful conduct, thereby skipping over the poor and needy. CD defines _merciful_ as "someone who is merciful is willing to be kind to and forgive people who are in their power."
 
-**Xyz**,
+**Vicious**,
 ἀνήμερος (_anēmeros_):
 2 Tim 3:3;
+Both Liddell, Thayer, and Gingrich agree in the meaning _not tame_, _wild_, and _savage_. However, Danker proposes _ferocious_ and _vicious_. CD describes _untamed_ as "left in a natural or wild state." And _vicious_ as "(of an act) intending to hurt badly, or (of a person or animal) likely to be violent."
 
-**Xyz**,
+**Deranged**,
 ἀνόητος (_anoētos_):
 Tit. 3:3;
+According to Behm (TDNT 4:961), is being "'unthought of', 'unsuspected,' 'unintelligible'... this word is predominantly act. 'unwise,' 'irrational,' 'foolish' ... both intellectually and ethically, of persons lacking in understanding or judgment ... whose folly is manifested in their acts, ... but also of subjects, human thoughts, utterances etc." CD describes _deranged_ as "completely unable to think clearly or behave in a controlled way, especially because of mental illness." Also, defines _nut job_ as "someone who is crazy, silly, or strange."
 
 **Lawless**,
 ἄνομος (_anomos_):
@@ -135,9 +143,15 @@ According to Hauck (TDNT 5:492), mentions "...it occurs twice in the Past. for '
 1 Tim. 1:9;
 According to Delling (TDNT 8:47), it denotes “not subject,” “free,” and “not subjected to specific (here geographical) ideas.” It means exactly “‘not subjecting’ oneself to sound teaching or its proponents (Tit. 1:9–10).” Also, in context “‘not submissive’ either in practice or principle. Here too, as in current usage, it has the sense of ‘rebellious’ or ‘refractory’ against God’s will (1 Tim. 1:9).” According to CD, _refractory_ is “not affected by a treatment, change, or process.” Also, _rebellious_ is defined as “If a group of people are rebellious, they oppose the ideas of the people in authority and plan to change the system, often using force.” When people rebel, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not submit.
 
-**Xyz**,
+**Disobedient**,
 ἀπειθής (_apeithēs_):
-Rom. 1:30; 2 Tim. 3:2; Tit. 3:3;
+Tit. 3:3;
+Said term with its noun form ἀπείθεια and verb form ἀπειθέω in the New Testament is correct to say only contrary to the obedience of God, Christ, the Gospel and the stated will of God. According to Bultmann TDNT (6:10), "in the sense 'disobedient' is found in Gk. from the time of Thucyd. (earlier still in the sense 'unworthy of belief')." CD defines _disobedient_ as "refusing to do what someone in authority tells you to do."
+
+**Disobedient to parents**,
+γονεύς ἀπειθής (_goneus apeithēs_):
+Rom. 1:30; 2 Tim. 3:2;
+See _disobedient_, specific context in relation to parents.
 
 **Xyz**,
 ἄπιστος (_apistos_):
@@ -270,9 +284,10 @@ Acts 15:20;
 ἐπιθυμία (_epithymia_):
 Tit. 3:3; Col. 3:5; 1 Pet. 4:3;
 
-**Xyz**,
+**Perjured**,
 ἐπίορκος (_epiorkos_):
 1 Tim. 1:10;
+According to J. Schneider (TDNT 5:466), it states "to commit perjury," as well as "to swear falsely." When it comes to perjury, J. S. states "1 Tim. 1:8 ff. deals with the relation of the Christian and the Law. To the righteous man, i.e. the justified man set in a new life, the requirement of the Law does not apply. Only where sins arise, which are enumerated in a catalog of vices in v. 9 and v. 10, are the strictness and severity of the Law relevant. Perjurers are among the enemies of the Law and the gainsayers." According to Jesus, we are supposed (Mat. 5:33–37) not to swear at all, instead let yes be yes and no be no, accordingly also at liberty to remain silent, not engage or avoid. CD describes _perjured_ as "false, in a way that involves perjury (= telling lies in court)." When doing so, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not turn away from it.
 
 **Xyz**,
 ἐριθεία (_eritheia_):
@@ -323,9 +338,14 @@ Rom. 1:29; Eph. 4:31; Tit. 3:3; Col. 3:8; 1 Pet. 2:1;
 Rom. 1:29;
 
 **Slander**,
-καταλαλιά, κατάλαλος (_katalalia_, _katalalos_):
-2 Cor. 12:20; 1 Pet. 2:1; Rom. 1:30;
+καταλαλιά (_katalalia_):
+2 Cor. 12:20; 1 Pet. 2:1;
 This word group, according to Kittel (TDNT 4:4), stands in contrast to _sordid calumny_ as _unthinking gossip_ as the big difference. Except that it is "to importune someone with speeches," "to prattle something to someone," and also "to speak against, to accuse, someone," but is most likely common everyday slander. CD defines _slander_ as "statements that someone makes about another person that are not true and that harm their reputation, or the crime of making these statements."
+
+**Slanderer**,
+κατάλαλος (_katalalos_):
+Rom. 1:30;
+See _slander_.
 
 **Xyz**,
 κλέμμα (_klemma_):
@@ -343,10 +363,13 @@ Mat. 15:19; Mar. 7:21;
 κοινός (_koinos_):
 Rev. 21:27;
 
-**Nests (multiple), polygamy**,
+**Nests (multiple)**,
 κοίταις (_koitais_, plural):
 Rom 13:13;
 κοίτη in singular according to Liddell means among others: _bedstead_, _marriage-bed_, _of one dead_, _lair_ of a wild beast, a _nest_ of a bird, of the spider, of the fish, _pen_, _fold_ for cattle, _act of going to bed_, _of sexual connection_. A very related word of Liddell is κοῖτος which means: _resting-place_, _bed of birds_, _stall_, _fold_, _pen_.  κοίτη itself should not be mistaken for sinful conduct but is used regarding many righteous men and women in the bible, even if not married. It is conclusive that κοίτη originally was about the nightly protection in the era of the stone-age. Animals and people pursued a nightly place to live and defend. Some animals live in pairs and build a common κοίτη. The same thing with humans a man and woman cooperate for nightly protection, and around that place, builds or furnish what they call home. Technically it’s a shared bed around which the whole household builds up. Think of it from the point of view of a birdnest, two birds builds a nest in which they mate, lay eggs, raises chicks, and sleep in it, everything contrary to other animals that do not have a monogamous relationship with their peers. In 2 Sam. 11:13, Uriah goes back to his _nest_ to sleep for the second time – the LXX uses the word κοίτη here. In Gen. 49:4, Reuben did climb his father Israel's _nest_ by sleeping with his wife. Rom. 9:10 says "not only but except even Rebecca out of one _nest_ conceived, with our father Isaac (NA28; my translation)." Technically κοίτη as _nest_ is in itself normal human conduct. However, with many cohabitations – wedded or not – it’s sinful polygamy. CD defines _nest as_ "to build a nest, or live in a nest," and "a structure or other place where creatures, esp. birds, give birth or leave their eggs to develop." Also, CD defines _polygamy_ as "the custom or condition of being married to more than one person at the same time."
+
+**Polygamy**,
+see _nests (multiple)_.
 
 **Xyz**,
 κραυγή (_kraugē_):
@@ -562,6 +585,8 @@ Rom. 1:29;
 
 ## Grace Exclusion
 The following sins mentioned in 1 Tim. 1:9–10 will make you fall from grace in under the mosaic jurisdiction if not turned away from.
+
+ἄνομος (_anomos_) lawless, ἀνυπότακτος (_anypotaktos_) rebellious, ἀσεβής (_asebēs_) irreverent, ἁμαρτωλός (_hamartōlos_) sinner, ἀνόσιος (_anosios_) impious, βέβηλος (_bebēlos_) worldly, πατρολῴας (_patrolōas_) father-murderer, μητρολῴας (_mētrolōas_) mother-murderer, ἀνδροφόνος (_androphonos_) husband-murderer, πόρνος (_pornos_) i. male-sex-buyer ii. male-prostitute, ἀρσενοκοίτης (_arsenokoitēs_) gay-partner, ἀνδραποδιστής (_andrapodistēs_) i. oppressor ii. kidnapper iii. trafficker, ψεύστης (_pseustēs_) liar, ἐπίορκος (_epiorkos_) perjured.
 
 ## Heavenly Exclusion
 The following sins mentioned in Gal. 5:19–21; Eph. 5:5; 1 Cor. 6:9–10; Rev. 21:8, 27, 22:15; will exclude you from entering heaven if you live by them at the moment of fatality. Therefore get rid of them out of your life immediately, and promise yourself to never come by them again.
