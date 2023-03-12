@@ -123,10 +123,10 @@ Both Liddell and Thayer  agree in the meaning _merciless_, _without mercy_, whil
 2 Tim 3:3;
 Both Liddell, Thayer, and Gingrich agree in the meaning _not tame_, _wild_, and _savage_. However, Danker proposes _ferocious_ and _vicious_. CD describes _untamed_ as "left in a natural or wild state." And _vicious_ as "(of an act) intending to hurt badly, or (of a person or animal) likely to be violent."
 
-**Deranged**,
+**Lunacy**,
 ἀνόητος (_anoētos_):
 Tit. 3:3;
-According to Behm (TDNT 4:961), is being "'unthought of', 'unsuspected,' 'unintelligible'... this word is predominantly act. 'unwise,' 'irrational,' 'foolish' ... both intellectually and ethically, of persons lacking in understanding or judgment ... whose folly is manifested in their acts, ... but also of subjects, human thoughts, utterances etc." CD describes _deranged_ as "completely unable to think clearly or behave in a controlled way, especially because of mental illness." Also, defines _nut job_ as "someone who is crazy, silly, or strange."
+According to Behm (TDNT 4:961), is being "'unthought of', 'unsuspected,' 'unintelligible'... this word is predominantly act. 'unwise,' 'irrational,' 'foolish' ... both intellectually and ethically, of persons lacking in understanding or judgment ... whose folly is manifested in their acts, ... but also of subjects, human thoughts, utterances etc." CD describes _deranged_ as "completely unable to think clearly or behave in a controlled way, especially because of mental illness." Specifically, defines _lunacy_ as "stupid behaviour that will have bad results," and "extreme foolishness or mental illness"
 
 **Lawless**,
 ἄνομος (_anomos_):
@@ -188,25 +188,30 @@ Liddell denotes "a keeping out of treaty or covenant with others ... admitting o
 Rom. 1:31; 2 Tim 3:3;
 Liddell, Thayer, and Gingrich closely agree on _without natural affection_, both T. and Danker support the family sphere. Also, L. in στοργή adds "esp. of parents and children ... rarely sexual love." CD describes _unaffectionate_ as "not showing feelings of liking or loving someone."
 
-**Xyz**,
+**Miscomprehension**,
 ἀσύνετος (_asynetos_):
 Rom. 1:31;
+According to Conzelmann (TDNT 7:), it denotes "The adj. _sunetos_ (similarly _asunetos_) means act. 'understanding' ... pass. 'understandable' ... Like the verb and noun it need closer definition ... The charge of lack of understanding may have moral tinge, " The said term is negative as in lack of understanding. CD defines _miscomprehension_ as "failure to understand something, or an idea that is wrong because it is based on a lack of understanding."
 
-**Xyz**,
+**Uncommitted**,
 ἀσύνθετος (_asynthetos_):
 Rom. 1:31;
+From Liddell, first we want to understand συντίθημι (A.III), which in a social context denotes "commit to a person's care, deliver to him for his own use or that of others," we also want an understanding of  σύγκειμαι (A.III) that socially connotes "to be agreed on by two parties, ... according to what had been agreed on with him." Technically the opposite speaks about two parties being in a covenant, which may also care for each other. Then L. says about ἀσύνθετος _uncompounded_ and _bound by no covenant_, _faithless_. Thayers generally agree in all. Gingrich adds _faithless_,  _untrustworthy_, and _undutiful_. About someone that can not blend with someone else in agreement or covenant because of no affection or affiliation with each other – they don’t like each other – and it’s obvious. Predominantly used in the Greek bible between husbands and wives, never in between humans and God, compared to _unfaithful_, ἄπιστος. CD describes _disconnected_ as "separate from someone or something else, and not fitting well together or understanding each other." And, describes _uncommitted_ as "having made no promise to support any particular group, plan, belief, or action." Also, describes _unattached_ as "not feeling connected to a person, group, or idea."
 
-**Xyz**,
+**Arrogant**,
 αὐθάδης (_authadēs_):
 Tit. 1:7;
+According to Bauernfeind (TDNT 1:508–9), it denotes "The critical judgement ... of the egocentric attitude, which as such necessarily leads to arrogance," denotes further "In the two passages in which _authades_ occurs in the NT the reference is to human impulse violating obedience to the divine command. In both cases it is religious leaders who are exposed to this danger or succumb to it." CD describes _arrogance_ as "the quality of being unpleasantly proud and behaving as if you are more important than, or know more than, other people." 
 
-**Xyz**,
+**Selfish triumph**,
 ἀφιλάγαθος (_aphilagathos_):
 2 Tim. 3:3;
+First, we describe the opposite φιλάγαθος, according to Grundmann (TDNT 1:18) describes "Aristotle calls _philagathos_ the man who, in contrast to the _philautos_ who is _phaulos_, places his ego under the good." The said term is denoted according to G. "This word is distinguished from _philautos_ (the opposite of  _philagathos_),  the term which introduces the description, in the sense  that it says of _philautoi_ that as men who know only themselves they seem to have no knowledge of live or piety. It is part of the NT description of the last time that in it lovelessness celebrates its triumph." Usually translated as _no love of good_. However, it could be settings oneself above the love of excellence, which is ego over what is good. People look away from the common good for their selfish desire. CD defines _selfish_ as "caring only about what you want or need without any thought for the needs or wishes of other people." And _triumph_ as "to have a very great success or victory."
 
-**Xyz**,
+**Foolishness**,
 ἀφροσύνη (_aphrosynē_):
 Mar. 7:22;
+According to Bertram (TDNT 9:22-35), firstly ἀφρων means _without understanding_, _befooled_, _mad_, _out of one's mind_, _lack of understanding_, and secondly ἀφροσύνη means _to be irrational_, _youthful folly_. There are two main understandings, the religious and the worldly. In the religious understanding, a person who commits acts or sins in a way that may cut him off from God is foolish. On the other hand, worldly foolishness is very grave and which acts leads to lynching. CD describes _foolishness_ as "the quality of being unwise, stupid, or not showing good judgment." Also, _madness_ as "stupid or dangerous behaviour."
 
 **Xyz**,
 ἀχάριστος (_acharistos_):
