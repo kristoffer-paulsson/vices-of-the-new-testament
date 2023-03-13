@@ -213,17 +213,21 @@ First, we describe the opposite φιλάγαθος, according to Grundmann (TDN
 Mar. 7:22;
 According to Bertram (TDNT 9:22-35), firstly ἀφρων means _without understanding_, _befooled_, _mad_, _out of one's mind_, _lack of understanding_, and secondly ἀφροσύνη means _to be irrational_, _youthful folly_. There are two main understandings, the religious and the worldly. In the religious understanding, a person who commits acts or sins in a way that may cut him off from God is foolish. On the other hand, worldly foolishness is very grave and which acts leads to lynching. CD describes _foolishness_ as "the quality of being unwise, stupid, or not showing good judgment." Also, _madness_ as "stupid or dangerous behaviour."
 
-**Xyz**,
+**Ungrateful**,
 ἀχάριστος (_acharistos_):
 2 Tim. 3:2;
+All Liddell, Thayer, Gingrich connotes _ungrateful_, both L. and T. also say _ungracious_. Opposite to χαρίσιος which L. also denotes as _of thanksgiving_, _free gift_. Finally χαρίσ from  L. means . " on the part of the doer, grace, kindness, goodwill, ... more freq. on the part of the receiver, sense of favor received, thankfulness, gratitude."
+CD defines _gracious_ as "behaving in a pleasant, polite, calm way," But _ungrateful_ as "not showing or expressing thanks, esp. when it is expected or deserved."
 
-**Xyz**,
+**Abomination**,
 βδέλυγμα (_bdelygma_):
 Rev. 21:27;
+Liddell, Thayer, and Gingrich agree on _abomination_. In the NT this term is only about the Antichrist as the "abomination of desolation," and about all the evil deeds of "the great whore of Babylon." Regarding those performing those deeds in an end-times context. CD describes _abomination_ as "something that you dislike and disapprove of."
 
-**Xyz**,
+**Abominable**,
 βδελύσσω (_bdelyssō_):
 Rev 21:8;
+Liddell, Thayer, and Gingrich agree on _abominable_. In the NT this term is only regarding idolatry. CD describes _abominable_ as "very bad or unpleasant."
 
 **Worldly**,
 βέβηλος (_bebēlos_):
@@ -238,17 +242,15 @@ The word group, according to Beyer (TDNT 1:621–25), means "abusive speech," "w
 **Mockery**,
 see _blasphemy_, rather used against humans than God.
 
-**Xyz**,
-γονεύς ἀπειθής (_goneus apeithēs_):
-Rom. 1:30; 2 Tim. 3:2;
-
-**Xyz**,
-δαιμόνιον (_daimonion_):
+**Demon worship**,
+προσκυνέω ὁ δαιμόνιον (_daimonion_):
 Rev. 9:20;
+According to Foerster (TDNT 2:1–20), "[A.2] It is first used a. to denote 'gods,' and may still be used in the sense in Hellenism. More specifically, it is used b. for 'lesser dieties.' This is Plato's allusion when he defines _daimones_ as _theoi_... Since _daimon_ is more general than _theos_, it is used c. when an 'unknown superhuman factor' is at work ... Again, especially in the tragic dramatists, it denotes d. 'anything that overtakes man,' such as destiny, or death, or any good or evil fortune ... It can also be use generally for 'fate,' ... From this sense it is only a step to e. that of a 'protective deity' watching over a man's life, or certain portions of it. ... By the time of the Orphics this has led to the coining of the words _eudaimon_ and _kakodaimon_... In Stoicism  _daimon_  then became f. a term for the 'divinely related element in man." Further, [A.3] "In the more detailed development of the doctrine that demons are intermediary beings, regard is had to popular belief at three specific points. [#1] First, it is noteworthy that demons are brought into special connection with those parts of the cultus  and religion which are closest to animism, i.e., with magic incantations. ... there emerges already a distinction between the higher forms of religion and the lower and more popular forms with which demons or evil demons are connected. In the developed form of this conception demons are forces which seek to divert from true worship. ... [#2] Secondly, it is to be noted that the demons as rulers of human destiny are specifically connected with misfortune and distress. [#3] Thirdly, many philosophical systems have assimilated the doctrine of demons possessing men. Extraordinarily conditions are popularly ascribed to indwelling deities, especially in the tragic dramatists and e.g. Hippocrates. This was called _daimonan_ or _daimonizesthai_, a view which is developed ... to the effect that evil demons clothe themselves with flesh and blood in the human body to kindle evil desires. But Plutarch already speaks plainly of demons which undermine virtue. ... this view is then linked with astrology ... and on the other hand it can be argued that falsehood belongs to the very essence of demons. ... Philosophy incorporated these intermediaries  into its system and world view by ascribing _pathe_ to demons and by giving at least to evil demons a location close to the earth. ... Their wickedness is not simply that of implacably and causelessly evil will; it is due to their link with matter, and may thus be regarded as an impulsion by cravings which are not familiar to man, whether in the form of envy, or a self-seeking desire for honor, or the thirst for blood and the odor of sacrifice." Finally, in the NT [C.2] "Basically the NT stands in the OT succession. There is no reference to spirits of the dead; the dead sleep until the resurrection. _Daimon_, with its suggestion of an intermediary between God and man, is avoided. Angels and demons are antithetical. Indeed, it is only in the NT that we have a full and radical distinction. ... When we survey the passages mentioned, we note first how comparatively infrequent are the NT references to demons except in the case of the possessed. No trace whatever remains of the belief in ghosts, which is so important in the Rabbis. ... Nevertheless, the fact that demons are mentioned only with relative infrequency in the NT does not mean that their existence and operation are contested or doubted. For Paul witchcraft is meddling with demons. But there can also be intercourse with demons in the normal heathen cultus (1 Cor. 10:20 f.)." CD defines _worship_ as "to have or show a strong feeling of respect and admiration for God or a god," also "to go to a religious ceremony." Finally, _demon_ as "an evil spirit."
 
-**Xyz**,
+**Timid**,
 δειλός (_deilos_):
 Rev. 21:8;
+All Liddell, Thayer, and Gingrich agree on _timid_. Which is cowardice in relationship to believe for mighty miracles or dying to persecution. It is necessary to overcome human fearfulness in relation to the end-time sufferings under the tribulation. CD describes _timid_ as "shy and nervous; without much confidence; easily frightened."
 
 **Xyz**,
 διάβολος (_diabolos_):
