@@ -99,9 +99,9 @@ https://charlesloder.github.io/greekTransliteration/index.html
 
 "Knowing this, that the law is not made for a righteous man, but for..."  (1 Tim. 1:9 KJV)
 
-* 1 Tim 3:13 --- βλάσφημος (blasphēmos): insulting and blasphemious
-* 1 Tim 3:13 --- διώκτης (diōktēs): persecutor
-* 1 Tim 3:13 --- ὑβριστής (hybristēs) violent
+* 1 Tim 1:13 --- βλάσφημος (blasphēmos): insulting and blasphemious
+* 1 Tim 1:13 --- διώκτης (diōktēs): persecutor
+* 1 Tim 1:13 --- ὑβριστής (hybristēs) violent
 
 "I was before." (1 Tim. 1:13 KJV)
 
