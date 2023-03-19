@@ -313,10 +313,10 @@ Liddell calls ἀλίσγημα _pollution_, technically pollution from idols. 
 Tit. 3:3; 1 Pet. 4:3;
 According to Büchsel (TDNT 3:168–171), said term denotes "the direct impulse towards food, sexual satisfaction etc., and also desire in general. In the first instance there is nothing morally objectionable or even suspicious about them. From the time of Plato, and esp. the Stoics, the term acquires a distinctive sense in Gk. philosophy. ... In Plato _epithumia_ is still generally _vox media_. Reprehensible desire is called _epithumia kake_ [_evil cravings_, my translation]. To true philosophy, however, belongs theoretical and practical aloofness from the sensual world. ... Epicurus divides _epithumia_ into _phusikai_, or natural, and _kenai_, illegitimate. The first may be divided again into purely natural and those that are necessary to happiness, tp freedom from bodily pain, and to life. ... In Greek philosophy _epithumia_ is the waywardness of man in conflict with his rationality. It is estimated ethically rather than religiously. ... In Hebrew Judaism religion there is condemnation not merely of the evil act but also of the evil will. The Decalogue forbids stealing and the desire for the goods of others, including their wives. ... In the NT _epithumia_ and _epithumein_ are rare in the Gospels, more common in the Epistles. As in current speech, they are often _vox media_. Hence they may be used for the natural desire of hunger, ... or longing, ... or the desire of the **divine mysteries**, or for anything good. ... Mostly, however, they indicate evil desire in accordance with the Greek and Jewish development considered under A. They may be characterised  as such by information as to the object: ... a woman, ... or the direction, ... or the vehicle, ... the world, ... or the manner ... can be used for sinful desire without any such addition. ... For Paul, who alone in the NT offers an explicit doctrine of sinful man , _epithumia_ is a manifestation of the sin which  dwells in man and which controls him, but which is dead apart from the _epithumia_ stirred up by the Law, R. 7:7, 8. That desire is a result of the prohibition of sin reveals the carnality of man, Gl. 5:16, 24, his separation from God, his subjection to divine wrath, R. 1:18 ff. In James (1:14, 15)  _epithumia_ is regarded as the constant root in man of the individual acts of sin which the author's attention is mainly directed. The essential point in _epithumia_ is that it is desire as impulse, as motion of the will. It is, in fact, lust, since the thought of satisfaction gives pleasure and that of non-satisfaction pain. _epithumia_ is anxious self-seeking. Only exceptionally do we read of an _epithumein_ of love; _epithumein_ is normally used. In _epithumein_ man is seen as he really is, the more so because _epithumia_ bursts upon him with the force of immediacy. Even after the reception of the divine spirit [lower case], _epithumia_ is always a danger against which man must be warned and must fight." We need to understand that there are natural desires and cravings that are impulsive, they will only be overcome through sanctification which is the purpose of the Law to make us discover. Be aware of lusts overtaking your member and rather to the will of the Spirit. Lust is according to CD defined as "strong desire," and _craving_ defined as "a strong or uncontrollable desire".
 
-**Evil craving**,
+**Maleficent craving**,
 ἐπιθυμία κακός (_epithymia kakos_):
 Col. 3:5;
-Evil desires are also mentioned in Prov. 21:26 in the LXX. It counts as idolatry. See _idolatry_.
+Maleficent cravings are mentioned in Prov. 21:26 in the LXX, they count as idolatry. Cravings that cause harm to oneself over others, not the other way around. See _idolatry_, _craving_, and _malevolence_.
 
 **Perjured**,
 ἐπίορκος (_epiorkos_):
@@ -326,34 +326,32 @@ According to J. Schneider (TDNT 5:466), it states "to commit perjury," as well a
 **Self-seeking**,
 ἐριθεία (_eritheia_):
 Gal. 5:20; 2 Cor. 12:20;
-According to Büchsel (TDNT 2:660–1), said term denotes "_eritheia_ comes from _eritheuo_, 'to work as a day-labourer,' 'to conduct oneself as such,' 'to work for daily hire,' and this again comes from _erithos_, a 'day-labourer.' _eritheia_ thus means the 'work,' then the 'manner, attitude or disposition of the day-labourer.' … here are those who procure office by illegal manipulation, and therefore _eritheia_ is their attitude, i.e., not so much _ambitus_ as a action, but the personal manner connected with it … The adj. is used in the same sense in the civic oath of the Italians: … 'I will not on any pretext bring a charge of failure to keep civic law against any citizen for personal reasons.' _erithiotan_, the crucial point of the oath, defines such charges as unobjective and self-seeking. … He thus demands that leaders should be non-contentious and without personal ambition. … Eze. 23:5 … v. 11 _eritheia_ (LXX: _epithesis_),  of a harlot who offers herself to a man or who entices him. _eritheia_ is thus the attitude of self-seekers, harlots etc., i.e., those who demeaning themselves and their cause, are busy and active in their own interest, seeking their own gain or advantage. … For many it probably had no more than the general sense of baseness, self-intereset, ambition, contention. … For this reason, it is best to understand _eritheia_ as 'base self-seeking,' or simply as 'baseness,' the nature of those who cannot lift their gaze to higher things." CD defines _baseness_ as "a lack of any honor or morals," also _self-seeking_ as "interested in your own advantage in everything that you do."
+According to Büchsel (TDNT 2:660–1), said term denotes "_eritheia_ comes from _eritheuo_, 'to work as a day-labourer,' 'to conduct oneself as such,' 'to work for daily hire,' and this again comes from _erithos_, a 'day-labourer.' _eritheia_ thus means the 'work,' then the 'manner, attitude or disposition of the day-labourer.' … here are those who procure office by illegal manipulation, and therefore _eritheia_ is their attitude, i.e., not so much _ambitus_ as a action, but the personal manner connected with it … The adj. is used in the same sense in the civic oath of the Italians: … 'I will not on any pretext bring a charge of failure to keep civic law against any citizen for personal reasons.' _erithiotan_, the crucial point of the oath, defines such charges as unobjective and self-seeking. … He thus demands that leaders should be non-contentious and without personal ambition. … Eze. 23:5 … v. 11 _eritheia_ (LXX: _epithesis_),  of a harlot who offers herself to a man or who entices him. _eritheia_ is thus the attitude of self-seekers, harlots etc., i.e., those who demeaning themselves and their cause, are busy and active in their own interest, seeking their own gain or advantage. … For many it probably had no more than the general sense of baseness, self-interest, ambition, contention. … For this reason, it is best to understand _eritheia_ as 'base self-seeking,' or simply as 'baseness,' the nature of those who cannot lift their gaze to higher things." CD defines _baseness_ as "a lack of any honor or morals," also _self-seeking_ as "interested in your own advantage in everything that you do."
 
 **Quarrel**,
 ἔρις (_eris_):
-Gal. 5:20; Rom. 1:29; 2 Cor. 12:20; Tit. 3:9;
+Gal. 5:20; Rom. 1:29; 2 Cor. 12:20;
 All Liddell, Thayer, and Gingrich connote _strife_, _quarrel_, and _contention_, _wrangling_. It is  distinct from διχοστασία (_dichostasia_) _disunity_. It is rather about rivalry. CD says "violent or angry disagreement," about _strife_, "to have an angry disagreement with someone" about _quarrel_, and "to have an angry disagreement with someone" of _contention_. L. also mentions _rivalry_ described as "a serious and often continuing competition." It is about an open conflict regarding the upper hand or rivalry, doctrinal or usual but not _disunity_ as in settling with a side.
 
-**Ribaldry**,
+**Sex-slander**,
 εὐτραπελία (_eutrapelia_):
 Eph. 5:4;
-Liddell and Thayer agree in _ribaldry_, including Gingrich they all agree on _low/coarse jesting_. Probably it is about promiscuous talking. According to CD, _coarse jesting_ means "rude and offensive" and "something that is said or done in order to be funny," including, _ribaldry_ described as "language that refers to sex in a rude but humorous way."
+Liddell mentions " wit, liveliness, Lat. urbanitas, .... 2. in bad sense, jesting, ribaldry, N.T." Then Thayer says "(from εὐτράπελος, from εὖ, and τρέπω to turn: easily turning; nimble-witted, witty, sharp), pleasantry, humor, facetiousness ... in a bad sense, scurrility, ribaldry, low jesting (in which there is some acuteness): Eph. 5:4; in a milder sense." Also Gingrich mentions _coarse jesting_, _buffoonery_, then Danker mention _suggestive_, _risqué talk_. CD describes _wit_ as "the ability to use words in a clever and humorous way," and _risqué_ as "(of jokes or stories) slightly rude or shocking, especially because of being about sex," even _suggestive_ as "often used to describe something that makes people think about sex." The overall feeling is the negative understanding of some sexual undertones and probably very derogatory language in presence of others to be hit or disturbed by such a manner. Sweet talk in front of others for the sake of burning down a relationship, is also probable. CD describes _sexist_ as "suggesting that the members of one sex are less able, intelligent, etc. than the members of the other sex, or referring to that sex's bodies, behavior, or feelings in a negative way."
 
-**Xyz**,
+**Maleficent contriver**,
 ἐφευρετής κακός (_epheuretēs kakos_):
 Rom. 1:30;
+All Liddell, Thayer, and Gingrich agree that ἐφευρετής means both _inventor_, as well as _contriver_. Then κακός means _maleficent_. According to CD _inventor_ is described "someone who has invented something or whose job is to invent things," and _contrive_ is described "to arrange a situation or event, or arrange for something to happen, using clever planning." Technically we are talking about persons, which are maleficent, trying to invent harm and evil, and making it come true, wickedness personified in human beings. See _malevolence_.
 
 **Hostility**,
 ἔχθρα (_echthra_):
 Gal. 5:20;
-According to Foerster (TDNT 2:811–15), thus denotes "Of the related word groups ... denotes the inner disposition from which hostility arises, i.e., 'hatred,' _exthra_ means 'hostility' as such, irrespective of the underlying disposition or of its manifestation or otherwise in visible form. ... In the NT _exthra_ (in the plur. instances of _echthra_ ) as enmity between men is one of the works of the flesh along with _eris_, _zelos_, _thumos_." CD defines _hostility_ as "an occasion when someone is unfriendly or shows that they do not like something."
+According to Foerster (TDNT 2:811–5), thus denotes "Of the related word groups ... denotes the inner disposition from which hostility arises, i.e., 'hatred,' _exthra_ means 'hostility' as such, irrespective of the underlying disposition or of its manifestation or otherwise in visible form. ... In the NT _exthra_ (in the plur. instances of _echthra_ ) as enmity between men is one of the works of the flesh along with _eris_, _zelos_, _thumos_." CD defines _hostility_ as "an occasion when someone is unfriendly or shows that they do not like something."
 
-**Xyz**,
+**Fanaticism**,
 ζῆλος (_zēlos_):
 Gal. 5:20; 2 Cor. 12:20;
-
-**Xyz**,
-ζήτησις (_zētēsis_):
-Tit. 3:9;
+According to Stumpff (TDNT 2:877–8), the current term denotes "is usually translated 'zeal,' ... a. _zelos_ as the capacity or state of passionate committal to a person or cause is essentially _vox_media_ ... Thus the word is found in Plato in a list with partly good and partly bad emotions .,. It is also found in the plur. in a biographical and anthropological sense as a comprehensive word to denote the forces which motivate a personality, ... also the sense of 'taste' or 'interest,' ... 'the warlike spirit (of a tribe),' ... Occasionally it can mean 'style' in the literary sense, ... b. _zelos_ as orientated to a worthy goal  ... can have the sense of  the 'zeal of imitation,' ... and this may take on the heightened sense of 'passionate rivalry,' ... or with only a slight shift of meaning, 'zealous recognition,' 'praise' or 'fame,' ... or even 'enthusiasm,' ... The word here serves  to denote a noble ethical impulse towards the development of character, and to this degree it is to be distinguished from envy or jealousy. ... c. Zeal can also take a less reputable form ... 'passion which poisons human society' ... (miserable, pitiable) ... (shrieking discordantly, spreading evil rumors)." CD describes _zealot_ as "a person who has very strong opinions about something, and tries to make other people have them too," and _fanaticism_ as "extreme beliefs that may lead to unreasonable or violent behavior."
 
 **Indulgence**,
 ἡδονή (_hēdonē_):
@@ -361,24 +359,27 @@ Tit. 3:3;
 Stählin (TDNT 2:909 cf) denotes "… The word _hedone_ derives from the same root as _hedus_, 'sweet,' 'pleasant,' 'delightful' … and it shares with this adj. the original sense of what is pleasant to the senses, namely, to the sense of taste. … of superficial 'pleasure in rhetoric' (feasting the ears). The narrower basic meaning, which relates to what tastes good, was accompanied for many centuries by a subsidiary semasiological strand according to which _hedone_ denotes that which causes pleasure to the senses. The specific sense of 'pleasant taste' is first found in … Already in its earliest use, however, the term _hedone_ bears the broader sense of a general 'feeling of pleasure' or 'enjoyment.' The development from the sensual to the physical and then to the ethical, which we can trace in _hedone_, is often to be noted in the evolution of words and their meanings. Already at an early period the rise of a feeling of pleasure is both restricted to sensual perceptions but is linked with enjoyable experiences of all kinds, and esp. with desired communications." Liddell connotes to earlier mentioned "_enjoyment_, _pleasure_, … prop. of sensual pleasures, … of _malicious pleasure_, … to give way _to pleasure_, … shall I speak truly or _so as to humor you?_ … one feels _pleasure_ at the thought that … to be _satisfied with_ … to speak so as to please another, … it is a _pleasure_ or _delight_ to another, … to take _pleasure_ in them, … with pleasure, … concrete, _a pleasure_, … sweetmeats, … _desires after pleasure_, _pleasant lusts_." According to the Bible, illicit gratification is harmful to your walk with God (Luk. 8:14). CD describes _hedonism_ as "living and behaving in ways that mean you get as much pleasure out of life as possible, according to the belief that the most important thing in life is to enjoy yourself," also _indulgence_ as "an occasion when you allow someone or yourself to have something enjoyable, especially more than is good for you."
 
 **Sensuality**,
-see _indulgence_, the secondary meaning of _hēdonē_.
+CD describes _sensuality_ as "the expression or suggestion of physical, especially sexual, pleasure or satisfaction," see _indulgence_, the narrower meaning of _hēdonē_.
 
-**Xyz**,
+**God-hating**,
 θεοστυγής (_theostygēs_):
 Rom. 1:30;
+All Liddell, Thayer, and Gingrich are equally confused but distinct, either _godforsaken_ or _god-hating_. It is not clear whether God-forsaken, hating God, or both.
 
 **Outburst**,
 θυμός (_thymos_):
 Gal. 5:20; Eph. 4:31; 2 Cor. 12:20; Col. 3:8;
 According to Büchsel (TDNT 3:167), said term denotes "From the sense of 'to well up,' 'to boil up,' there seems to have developed that of 'to smoke,' and then 'to cause to go up in smoke,' 'to sacrifice.' The basic meaning of _thumos_ is thus similar to that of _pneuma_, namely, 'that which is moved and which moves,' 'vital force.' … _thumos_ then takes on the meaning sense of a. desire, impulse, inclination, b. spirit, c. anger, d. sensibility, e. disposition or mind, f. thought, consideration. … [for the writers] For them _thumos_ means spirit, anger, rage, agitation." According to CD, _outburst_  defines as "a sudden forceful expression of emotion, especially anger."
 
-**Xyz**,
+**Malevolence**,
 κακία (_kakia_):
 Rom. 1:29; Eph. 4:31; Tit. 3:3; Col. 3:8; 1 Pet. 2:1;
+To understand κακία we first much understand κακός. According to Grundmann (TDNT 3:469), κακός denotes as "The word _kakos_, already considered in relation to _agathos_, expresses the presence of the lack. It is not positive; it is an incapacity or weakness. Like 'evil,' it has more than purely moral significance . The wealth expressed in the developing concepts ... Thus _kakos_ means a. 'mean,' 'unserviceable,' 'incapable,' 'poor of its kind,' ... Greater precision is attained  by additions. ... It also means b. 'morally bad,' 'wicked.' ... It then means c. 'weak.' ... A final meaning d. is 'unhappy,' 'bad,' 'ruinous,' 'evil.' ... This fixes the meaning of the noun _to kakon_, _ta kaka_, 'evil,' 'suffering,' 'misfortune,' 'ruin.'" Maleficent as a concept based on being mean and harmful by ignorance and incompetence causing suffering and ruin. CD describes _maleficent_ as "bad or harmful." The said word κακία, then according to G. (TDNT 3:482) denotes "This word is related to _kakon_ ... It is the quality of a _kakos_, and it can also signify the outworking of this quality, sometimes in the plural." CD describes _malevolence_ as "the quality of causing or wanting to cause harm or evil."
 
-**Xyz**,
+**Malice**,
 κακοήθεια (_kakoētheia_):
 Rom. 1:29;
+According to Grundmann (TDNT 3:485), the current term denotes "It always means 'wickedness,' 'malice.' In the NT it occurs only at R. 1:29 ... The series shows that it is here conscious and intentional wickedness." Technically it is the intention to act in malignity towards  someone. CD describes _malice_ as "the intention to do something wrong and esp. to cause injury."
 
 **Slander**,
 καταλαλιά (_katalalia_):
@@ -432,10 +433,6 @@ According to Hanse (TDNT 4:293–4), it may include _reproach_, _insult_, _revil
 1 Cor. 6:9;
 
 **Xyz**,
-μάχη (_machē_):
-Tit. 3:9;
-
-**Xyz**,
 μέθη (_methē_):
 Gal. 5:21;
 
@@ -459,10 +456,6 @@ Mat. 15:19; Mar. 7:22;
 **Xyz**,
 μωρολογία (_mōrologia_):
 Eph. 5:4;
-
-**Xyz**,
-μωρός (_mōros_):
-Tit. 3:9;
 
 **Xyz**,
 οἶνος πολύς προσέχω (_oinos polys prosechō_):
