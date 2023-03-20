@@ -106,7 +106,7 @@ According to Rengstorf (TDNT 1:317), ἁμαρτωλός denotes the core connot
 According to Liddell and Gingrich, both say _kidnapper_ and _slave-dealer_, Thayer goes further and explains "(from ἀνδραποδίζω, and this from τό ἀνδράποδον – from ἀνήρ and πούς – a slave, a man taken in war and sold into slavery), a _slave-dealer_, _kidnapper_, _man-stealer_, i. e. as well one who unjustly reduces free men to slavery, as one who steals the slaves of others and sells them." CD defines _oppressor_ as "someone who treats people in an unfair and cruel way and prevents them from having opportunities and freedom." Further, _kidnapper_ as "someone who takes a person away illegally by force, usually in order to demand money in exchange for releasing them." Finally, _trafficker_ as "a person who buys and sells goods or people illegally." If anyone oppresses, kidnaps, or traffics somebody, they should fall out of the Grace of God unto the jurisdiction of the mosaic law. Not until fully repented of the oppression, including proven sound before the congregational elders.
 
 **Kidnapper**,
-see _oppressor_, secondary meaning of _andrapodistēs_.
+see _oppressor_, secondary meaning of _andrapodistēs_. Also see _fraudster_ from _κλέπτης_, as about man-stealing or, abduction.
 
 **Trafficker**,
 see _oppressor_, tertiary meaning of _andrapodistēs_.
@@ -311,12 +311,12 @@ Liddell calls ἀλίσγημα _pollution_, technically pollution from idols. 
 **Craving**,
 ἐπιθυμία (_epithymia_):
 Tit. 3:3; 1 Pet. 4:3;
-According to Büchsel (TDNT 3:168–171), said term denotes "the direct impulse towards food, sexual satisfaction etc., and also desire in general. In the first instance there is nothing morally objectionable or even suspicious about them. From the time of Plato, and esp. the Stoics, the term acquires a distinctive sense in Gk. philosophy. ... In Plato _epithumia_ is still generally _vox media_. Reprehensible desire is called _epithumia kake_ [_evil cravings_, my translation]. To true philosophy, however, belongs theoretical and practical aloofness from the sensual world. ... Epicurus divides _epithumia_ into _phusikai_, or natural, and _kenai_, illegitimate. The first may be divided again into purely natural and those that are necessary to happiness, tp freedom from bodily pain, and to life. ... In Greek philosophy _epithumia_ is the waywardness of man in conflict with his rationality. It is estimated ethically rather than religiously. ... In Hebrew Judaism religion there is condemnation not merely of the evil act but also of the evil will. The Decalogue forbids stealing and the desire for the goods of others, including their wives. ... In the NT _epithumia_ and _epithumein_ are rare in the Gospels, more common in the Epistles. As in current speech, they are often _vox media_. Hence they may be used for the natural desire of hunger, ... or longing, ... or the desire of the **divine mysteries**, or for anything good. ... Mostly, however, they indicate evil desire in accordance with the Greek and Jewish development considered under A. They may be characterised  as such by information as to the object: ... a woman, ... or the direction, ... or the vehicle, ... the world, ... or the manner ... can be used for sinful desire without any such addition. ... For Paul, who alone in the NT offers an explicit doctrine of sinful man , _epithumia_ is a manifestation of the sin which  dwells in man and which controls him, but which is dead apart from the _epithumia_ stirred up by the Law, R. 7:7, 8. That desire is a result of the prohibition of sin reveals the carnality of man, Gl. 5:16, 24, his separation from God, his subjection to divine wrath, R. 1:18 ff. In James (1:14, 15)  _epithumia_ is regarded as the constant root in man of the individual acts of sin which the author's attention is mainly directed. The essential point in _epithumia_ is that it is desire as impulse, as motion of the will. It is, in fact, lust, since the thought of satisfaction gives pleasure and that of non-satisfaction pain. _epithumia_ is anxious self-seeking. Only exceptionally do we read of an _epithumein_ of love; _epithumein_ is normally used. In _epithumein_ man is seen as he really is, the more so because _epithumia_ bursts upon him with the force of immediacy. Even after the reception of the divine spirit [lower case], _epithumia_ is always a danger against which man must be warned and must fight." We need to understand that there are natural desires and cravings that are impulsive, they will only be overcome through sanctification which is the purpose of the Law to make us discover. Be aware of lusts overtaking your member and rather to the will of the Spirit. Lust is according to CD defined as "strong desire," and _craving_ defined as "a strong or uncontrollable desire".
+According to Büchsel (TDNT 3:168–171), said term denotes "the direct impulse towards food, sexual satisfaction etc., and also desire in general. In the first instance there is nothing morally objectionable or even suspicious about them. From the time of Plato, and esp. the Stoics, the term acquires a distinctive sense in Gk. philosophy. … In Plato _epithumia_ is still generally _vox media_. Reprehensible desire is called _epithumia kake_ [_evil cravings_, my translation]. To true philosophy, however, belongs theoretical and practical aloofness from the sensual world. … Epicurus divides _epithumia_ into _phusikai_, or natural, and _kenai_, illegitimate. The first may be divided again into purely natural and those that are necessary to happiness, tp freedom from bodily pain, and to life. … In Greek philosophy _epithumia_ is the waywardness of man in conflict with his rationality. It is estimated ethically rather than religiously. … In Hebrew Judaism religion there is condemnation not merely of the evil act but also of the evil will. The Decalogue forbids stealing and the desire for the goods of others, including their wives. … In the NT _epithumia_ and _epithumein_ are rare in the Gospels, more common in the Epistles. As in current speech, they are often _vox media_. Hence they may be used for the natural desire of hunger, … or longing, … or the desire of the **divine mysteries**, or for anything good. … Mostly, however, they indicate evil desire in accordance with the Greek and Jewish development considered under A. They may be characterized  as such by information as to the object: … a woman, … or the direction, … or the vehicle, … the world, … or the manner … can be used for sinful desire without any such addition. … For Paul, who alone in the NT offers an explicit doctrine of sinful man , _epithumia_ is a manifestation of the sin which  dwells in man and which controls him, but which is dead apart from the _epithumia_ stirred up by the Law, R. 7:7, 8. That desire is a result of the prohibition of sin reveals the carnality of man, Gl. 5:16, 24, his separation from God, his subjection to divine wrath, R. 1:18 ff. In James (1:14, 15)  _epithumia_ is regarded as the constant root in man of the individual acts of sin which the author's attention is mainly directed. The essential point in _epithumia_ is that it is desire as impulse, as motion of the will. It is, in fact, lust, since the thought of satisfaction gives pleasure and that of non-satisfaction pain. _epithumia_ is anxious self-seeking. Only exceptionally do we read of an _epithumein_ of love; _epithumein_ is normally used. In _epithumein_ man is seen as he really is, the more so because _epithumia_ bursts upon him with the force of immediacy. Even after the reception of the divine spirit [lower case], _epithumia_ is always a danger against which man must be warned and must fight." We need to understand that there are natural desires and cravings that are impulsive, they will only be overcome through sanctification which is the purpose of the Law to make us discover. Be aware of lusts overtaking your member and rather to the will of the Spirit. Lust is according to CD defined as "strong desire," and _craving_ defined as "a strong or uncontrollable desire".
 
 **Maleficent craving**,
 ἐπιθυμία κακός (_epithymia kakos_):
 Col. 3:5;
-Maleficent cravings are mentioned in Prov. 21:26 in the LXX, they count as idolatry. Cravings that cause harm to oneself over others, not the other way around. See _idolatry_, _craving_, and _malevolence_.
+Maleficent cravings are mentioned in Prov. 21:26 in the LXX, they count as idolatry. Cravings to cause harm to oneself or others. See _idolatry_, _craving_, and _malevolence_.
 
 **Perjured**,
 ἐπίορκος (_epiorkos_):
@@ -336,7 +336,7 @@ All Liddell, Thayer, and Gingrich connote _strife_, _quarrel_, and _contention_,
 **Sex-slander**,
 εὐτραπελία (_eutrapelia_):
 Eph. 5:4;
-Liddell mentions " wit, liveliness, Lat. urbanitas, .... 2. in bad sense, jesting, ribaldry, N.T." Then Thayer says "(from εὐτράπελος, from εὖ, and τρέπω to turn: easily turning; nimble-witted, witty, sharp), pleasantry, humor, facetiousness ... in a bad sense, scurrility, ribaldry, low jesting (in which there is some acuteness): Eph. 5:4; in a milder sense." Also Gingrich mentions _coarse jesting_, _buffoonery_, then Danker mention _suggestive_, _risqué talk_. CD describes _wit_ as "the ability to use words in a clever and humorous way," and _risqué_ as "(of jokes or stories) slightly rude or shocking, especially because of being about sex," even _suggestive_ as "often used to describe something that makes people think about sex." The overall feeling is the negative understanding of some sexual undertones and probably very derogatory language in presence of others to be hit or disturbed by such a manner. Sweet talk in front of others for the sake of burning down a relationship, is also probable. CD describes _sexist_ as "suggesting that the members of one sex are less able, intelligent, etc. than the members of the other sex, or referring to that sex's bodies, behavior, or feelings in a negative way."
+Liddell mentions " wit, liveliness, Lat. urbanitas, … 2. in bad sense, jesting, ribaldry, N.T." Then Thayer says "(from εὐτράπελος, from εὖ, and τρέπω to turn: easily turning; nimble-witted, witty, sharp), pleasantry, humor, facetiousness … in a bad sense, scurrility, ribaldry, low jesting (in which there is some acuteness): Eph. 5:4; in a milder sense." Also Gingrich mentions _coarse jesting_, _buffoonery_, then Danker mention _suggestive_, _risqué talk_. CD describes _wit_ as "the ability to use words in a clever and humorous way," and _risqué_ as "(of jokes or stories) slightly rude or shocking, especially because of being about sex," even _suggestive_ as "often used to describe something that makes people think about sex." The overall feeling is the negative understanding of some sexual undertones and probably very derogatory language in presence of others to be hit or disturbed by such a manner. Sweet talk in front of others for the sake of burning down a relationship, is also probable. CD describes _sexist_ as "suggesting that the members of one sex are less able, intelligent, etc. than the members of the other sex, or referring to that sex's bodies, behavior, or feelings in a negative way."
 
 **Maleficent contriver**,
 ἐφευρετής κακός (_epheuretēs kakos_):
@@ -346,12 +346,12 @@ All Liddell, Thayer, and Gingrich agree that ἐφευρετής means both _in
 **Hostility**,
 ἔχθρα (_echthra_):
 Gal. 5:20;
-According to Foerster (TDNT 2:811–5), thus denotes "Of the related word groups ... denotes the inner disposition from which hostility arises, i.e., 'hatred,' _exthra_ means 'hostility' as such, irrespective of the underlying disposition or of its manifestation or otherwise in visible form. ... In the NT _exthra_ (in the plur. instances of _echthra_ ) as enmity between men is one of the works of the flesh along with _eris_, _zelos_, _thumos_." CD defines _hostility_ as "an occasion when someone is unfriendly or shows that they do not like something."
+According to Foerster (TDNT 2:811–5), thus denotes "Of the related word groups … denotes the inner disposition from which hostility arises, i.e., 'hatred,' _exthra_ means 'hostility' as such, irrespective of the underlying disposition or of its manifestation or otherwise in visible form. … In the NT _exthra_ (in the plur. instances of _echthra_ ) as enmity between men is one of the works of the flesh along with _eris_, _zelos_, _thumos_." CD defines _hostility_ as "an occasion when someone is unfriendly or shows that they do not like something."
 
 **Fanaticism**,
 ζῆλος (_zēlos_):
 Gal. 5:20; 2 Cor. 12:20;
-According to Stumpff (TDNT 2:877–8), the current term denotes "is usually translated 'zeal,' ... a. _zelos_ as the capacity or state of passionate committal to a person or cause is essentially _vox_media_ ... Thus the word is found in Plato in a list with partly good and partly bad emotions .,. It is also found in the plur. in a biographical and anthropological sense as a comprehensive word to denote the forces which motivate a personality, ... also the sense of 'taste' or 'interest,' ... 'the warlike spirit (of a tribe),' ... Occasionally it can mean 'style' in the literary sense, ... b. _zelos_ as orientated to a worthy goal  ... can have the sense of  the 'zeal of imitation,' ... and this may take on the heightened sense of 'passionate rivalry,' ... or with only a slight shift of meaning, 'zealous recognition,' 'praise' or 'fame,' ... or even 'enthusiasm,' ... The word here serves  to denote a noble ethical impulse towards the development of character, and to this degree it is to be distinguished from envy or jealousy. ... c. Zeal can also take a less reputable form ... 'passion which poisons human society' ... (miserable, pitiable) ... (shrieking discordantly, spreading evil rumors)." CD describes _zealot_ as "a person who has very strong opinions about something, and tries to make other people have them too," and _fanaticism_ as "extreme beliefs that may lead to unreasonable or violent behavior."
+According to Stumpff (TDNT 2:877–8), the current term denotes "is usually translated 'zeal,' … a. _zelos_ as the capacity or state of passionate committal to a person or cause is essentially _vox_media_ … Thus the word is found in Plato in a list with partly good and partly bad emotions .,. It is also found in the plur. in a biographical and anthropological sense as a comprehensive word to denote the forces which motivate a personality, … also the sense of 'taste' or 'interest,' … 'the warlike spirit (of a tribe),' … Occasionally it can mean 'style' in the literary sense, … b. _zelos_ as orientated to a worthy goal … can have the sense of  the 'zeal of imitation,' … and this may take on the heightened sense of 'passionate rivalry,' … or with only a slight shift of meaning, 'zealous recognition,' 'praise' or 'fame,' … or even 'enthusiasm,' … The word here serves  to denote a noble ethical impulse towards the development of character, and to this degree it is to be distinguished from envy or jealousy. … c. Zeal can also take a less reputable form … 'passion which poisons human society' … (miserable, pitiable) … (shrieking discordantly, spreading evil rumors)." CD describes _zealot_ as "a person who has very strong opinions about something, and tries to make other people have them too," and _fanaticism_ as "extreme beliefs that may lead to unreasonable or violent behavior."
 
 **Indulgence**,
 ἡδονή (_hēdonē_):
@@ -374,12 +374,12 @@ According to Büchsel (TDNT 3:167), said term denotes "From the sense of 'to wel
 **Malevolence**,
 κακία (_kakia_):
 Rom. 1:29; Eph. 4:31; Tit. 3:3; Col. 3:8; 1 Pet. 2:1;
-To understand κακία we first much understand κακός. According to Grundmann (TDNT 3:469), κακός denotes as "The word _kakos_, already considered in relation to _agathos_, expresses the presence of the lack. It is not positive; it is an incapacity or weakness. Like 'evil,' it has more than purely moral significance . The wealth expressed in the developing concepts ... Thus _kakos_ means a. 'mean,' 'unserviceable,' 'incapable,' 'poor of its kind,' ... Greater precision is attained  by additions. ... It also means b. 'morally bad,' 'wicked.' ... It then means c. 'weak.' ... A final meaning d. is 'unhappy,' 'bad,' 'ruinous,' 'evil.' ... This fixes the meaning of the noun _to kakon_, _ta kaka_, 'evil,' 'suffering,' 'misfortune,' 'ruin.'" Maleficent as a concept based on being mean and harmful by ignorance and incompetence causing suffering and ruin. CD describes _maleficent_ as "bad or harmful." The said word κακία, then according to G. (TDNT 3:482) denotes "This word is related to _kakon_ ... It is the quality of a _kakos_, and it can also signify the outworking of this quality, sometimes in the plural." CD describes _malevolence_ as "the quality of causing or wanting to cause harm or evil."
+To understand κακία we first much understand κακός. According to Grundmann (TDNT 3:469), κακός denotes as "The word _kakos_, already considered in relation to _agathos_, expresses the presence of the lack. It is not positive; it is an incapacity or weakness. Like 'evil,' it has more than purely moral significance . The wealth expressed in the developing concepts … Thus _kakos_ means a. 'mean,' 'unserviceable,' 'incapable,' 'poor of its kind,' … Greater precision is attained  by additions. … It also means b. 'morally bad,' 'wicked.' … It then means c. 'weak.' … A final meaning d. is 'unhappy,' 'bad,' 'ruinous,' 'evil.' … This fixes the meaning of the noun _to kakon_, _ta kaka_, 'evil,' 'suffering,' 'misfortune,' 'ruin.'" Maleficent as a concept based on being mean and harmful by ignorance and incompetence causing suffering and ruin. CD describes _maleficent_ as "bad or harmful." The said word κακία, then according to G. (TDNT 3:482) denotes "This word is related to _kakon_ … It is the quality of a _kakos_, and it can also signify the outworking of this quality, sometimes in the plural." CD describes _malevolence_ as "the quality of causing or wanting to cause harm or evil."
 
 **Malice**,
 κακοήθεια (_kakoētheia_):
 Rom. 1:29;
-According to Grundmann (TDNT 3:485), the current term denotes "It always means 'wickedness,' 'malice.' In the NT it occurs only at R. 1:29 ... The series shows that it is here conscious and intentional wickedness." Technically it is the intention to act in malignity towards  someone. CD describes _malice_ as "the intention to do something wrong and esp. to cause injury."
+According to Grundmann (TDNT 3:485), the current term denotes "It always means 'wickedness,' 'malice.' In the NT it occurs only at R. 1:29 … The series shows that it is here conscious and intentional wickedness." Technically it is the intention to act in malignity towards  someone. CD describes _malice_ as "the intention to do something wrong and esp. to cause injury."
 
 **Slander**,
 καταλαλιά (_katalalia_):
@@ -389,23 +389,30 @@ This word group, according to Kittel (TDNT 4:4), stands in contrast to _sordid c
 **Slanderer**,
 κατάλαλος (_katalalos_):
 Rom. 1:30;
-See _slander_.
+The one performing slander, see _slander_.
 
-**Xyz**,
+**Fraud**,
 κλέμμα (_klemma_):
 Rev. 9:21;
+Liddell, Thayer, and Gingrich generally agree on _theft_ and _fraud_. In the context of done in the past, in an end-times scenario. Also, see _fraudster_, _thief_, and _stealing_.
 
-**Xyz**,
+**Fraudster**,
 κλέπτης (_kleptēs_):
 1 Cor. 6:10;
+Preisker (TDNT 3:754–5), first explains κλέπτω, and denotes "a. 'To steal,' 'secretly and craftily to embezzle and appropriate,' … No blame is attached in these passages; indeed, cunning and skill displayed are recognized, hence gods, demigods and heroes steal (… deduces from Epicurean ethics that stealing is justifiable for this philosophy so long as is takes place … 'with craft and secrecy'). Later it's condemned as no less wrong than robbery, murder, and other serious offenses. _klepto_ denotes the secret and cunning act as compared with _arpazo_, which is characterized by violence (_bia_) … The objects may be articles of value, … animals, … or men (in the sense 'to abduct'), … The ref. might also be to places, … ('to seize with cunning, unnoticed') or to circumstances, … ('to provide for oneself surreptitiously'). b. More generally the word can mean 'to deceive,' 'to cheat,' 'to bewitch (by flattery),' … c. A further meaning is 'to hold secretly,' 'to put away,' 'to conceal,' 'to hide.' … d. 'To do something in secret or furtive manner.'" Then κλέπτης itself denotes as "is a. 'the theif,' … is also b. 'one who acts with subterfuge and secrecy,' … 'you are found as one who secretly stole the voices which otherwise would have been for him.'" Therefore it could be anything between _abducting_ defined by CD as "to take a person away by force," then _thievery_ described as "the crime of stealing things," also _trickery_ described as "the use of tricks intended to deceive, as a way of cheating someone," and _fraud_ described as "the crime of obtaining money or property by deceiving people."
 
-**Xyz**,
+**Thief**,
+see _fraudster_, the less secret understanding of _κλέπτης_.
+
+**Stealing (act of)**,
 κλοπή (_klopē_):
 Mat. 15:19; Mar. 7:21;
+see _thief_, _fraudster_, and _fraud_.
 
-**Xyz**,
+**Common**,
 κοινός (_koinos_):
 Rev. 21:27;
+Liddell, Thayer, and Gingrich, including Grundmann (TDNT 3:789) agree in _common_. However, generally, a good term when used in the Kingdom of God but derogatory when in the world. In a sinful context only, to be communized in the world before judgment day, they should not enter into the gates of Heavenly Jerusalem.
 
 **Nests (multiple)**,
 κοίταις (_koitais_, plural):
@@ -415,9 +422,13 @@ Rom 13:13;
 **Polygamy**,
 see _nests (multiple)_.
 
-**Xyz**,
+**Clamor**,
 κραυγή (_kraugē_):
 Eph. 4:31;
+In TDNT 3:898, Grundmann denotes "The meaning is a. 'to croak or cry with a loud and raucous voice' … (groan deeply) … (to be dissatisfied) … It is a war-cry … (of the capture of Jericho). … A second sense b. 'to demand with cries.'" Then Liddell, Thayer, and Gingrich almost agree in _clamor_ or _outcry_. CD defines _outcry_ as "a strong expression of anger and disapproval about something, made by a group of people or by the public," and _clamor_ as "a loud complaint about something or a demand for something."
+
+**Outcry**,
+see _clamor_, secondary meaning of _kraugē_, a single loud group complaint.
 
 **Xyz**,
 κῶμος (_kōmos_):
