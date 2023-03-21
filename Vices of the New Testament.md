@@ -430,39 +430,48 @@ In TDNT 3:898, Grundmann denotes "The meaning is a. 'to croak or cry with a loud
 **Outcry**,
 see _clamor_, secondary meaning of _kraugē_, a single loud group complaint.
 
-**Xyz**,
+**Revel**,
 κῶμος (_kōmos_):
 Gal. 5:21; 1 Pet. 4:3;
+All Liddell, Thayer, and Gingrich basically agree on _revelry_ and _carousal_. By analyzing the contexts given in L. it's found: "ὅσος ἦν ἐν τῷ ἄστεϊ σῖτος καὶ ἑωυτοῦ καὶ ἰδιωτικός, τοῦτον πάντα συγκομίσας ἐς τὴν ἀγορὴν προεῖπε Μιλησίοισι, ἐπεὰν αὐτὸς σημήνῃ, τότε πίνειν τε πάντας καὶ _κώμῳ_ χρᾶσθαι ἐς ἀλλήλους." translated as "he brought together into the marketplace all the food in the city, from private stores and his own, and told the men of Miletus all to _drink and celebrate_ together when he gave the word," from 3Hdt.1.21. Contextually a negotiator offers a truce, then collects everything eatable and drinkable for a big public festivity doing an official saying. "νόμους δὲ καὶ ψηφίσματα λεγόμενα ἢ γεγραμμένα οὔτε ὁρῶσιν οὔτε ἀκούουσι: σπουδαὶ δὲ ἑταιριῶν ἐπ᾽ ἀρχὰς καὶ σύνοδοι καὶ δεῖπνα καὶ σὺν αὐλητρίσι _κῶμοι_," translates as "and the strivings of political clubs after public offices, and meetings, and banquets, and _revelings_ with chorus girls" from Pl.Tht.173d. Contextually a poem or so about the majesty of a great city with its revellings and beautiful flute-girls. "οἶμαι γὰρ τὸ μετὰ τοῦτο ἑορταὶ γίγνονται παρ᾽ αὐτοῖς καὶ _κῶμοι_ καὶ θάλειαι καὶ ἑταῖραι καὶ τὰ τοιαῦτα πάντα, ὧν ἂν Ἔρως τύραννος ἔνδον οἰκῶν διακυβερνᾷ τὰ τῆς ψυχῆς ἅπαντα," translates as "for, I take it, next there are among them feasts and carousals and _revelings_ and courtesans and all the doings of those whose souls are entirely swayed by the indwelling tyrant Eros," from Id.R.573d. Contextually a fest to Eros with diverse celebration, indwelling of a tyrant as demon possession together with, among others, temple-prostitutes. "κωμάζει γὰρ ἡ πόλις πᾶσα τῇδε τῇ νυκτί," translates partially "in view of the revelry, it would not be at all surprising if the gates leading to the palace were open, for all the city is feasting this night," from X.Cyr.7.5.25. Contextually there is ongoing revelry in the palace, and the whole city is feasting all night. In total κῶμος is a festivity that builds on making pacts jointly with feasting and carousal publicly where the whole city is involved. That is an occult public celebration of a pact, or an occult covenant, which is statewide. Often sensuality and maybe even prostitution is common, especially with _hetairas_ temple prostitutes. CD describes _revel_ as "to dance, drink, sing, etc. at a party or in public, especially in a noisy way," and _festival_ as "a special day or period, usually in memory of a religious event, with its own social activities, food, or ceremonies."
+
+**Festival**,
+see _revel_, the whole meaning of _kōmos_. Also, see _idol worship_ and _idolatry_.
 
 **Defamatory**,
 λοίδορος (_loidoros_):
 1 Cor. 5:11, 6:10;
 According to Hanse (TDNT 4:293–4), it may include _reproach_, _insult_, _revile_, and even _blaspheme_. However, _defamation_ takes over where _mockery_ ends and denotes "The idea that abuse which injures the reputation is a preliminary form of murder…," thereby it is a form of persecution that the reviler practices, and which believers are said not to hang around this type of persons. CD defines _defamatory_ as "damaging the reputation of a person or group by saying or writing bad things about them that are not true." Simply the one who persecutes by defamatory means.
 
-**Xyz**,
+**Catamite (inconclusive)**,
 μαλακός (_malakos_):
 1 Cor. 6:9;
+Is a hard word to cover, it mostly blends with soft, weak, and effeminate according to Liddell, Thayer on the other hand mentions the Lat. _mollis_ which according to Lewis & Short can denote "_easily movable_, _pliant_, _flexible_, _supple_;_ soft_, _tender_, _delicate_, _gentle_, _mild_, _pleasant_ ... [further in II.A] ... _Tender_, _delicate_, _susceptible_ ... _in tender youth_, ... _easily blushing_, ...In a bad sense, _soft_, _effeminate_, _unmanly_, _weak_," also Danker mentions "_submissive_, as noun of one who is passive in a same-sex relationship." Conclusively it indicates some type _effeminate_ manly person but not enough meat on the bones to conclude when or how an actual sin.
 
-**Xyz**,
+**Intoxication**,
 μέθη (_methē_):
 Gal. 5:21;
-
-**Xyz**,
+According to Preisker (TDNT 4:545), μέθυσος denotes "'drunk' (with wine). In early lit. use is restricted to the feminine sex," then μέθη distinguishably denotes "'drink,' ... mostly 'over-rich drinking,' ... often 'intoxication,' 'drunkenness.'" CD describes _intoxication_ as "the condition of having lost some control of your actions or behavior under the influence of a drug."
+ 
+**Intoxication (woman)**,
 μέθυσος (_methysos_):
 1 Cor. 5:11, 6:10;
+see _intoxication_, same but about women and wine, specifically the alcohol culture among women.
 
 **Mother-murderer**,
 μητρολῴας (_mētrolōas_):
 1 Tim. 1:9;
 Liddell describes "striking one's mother, a matricide." CD defines _matricide_ as "a crime in which a person kills their mother." If anyone kills their mother, they have committed murder. If anyone kills their parent, they should fall out of the Grace of God unto the jurisdiction of the mosaic law. Not until fully repented of the thing, including proven sound before the congregational elders.
 
-**Xyz**,
+**Adultery**,
 μοιχεία (_moicheia_):
 Mat. 15:19; Mar. 7:22;
+In traditional catholic and protestant state religion, adultery happens when two persons, a man and a woman, where at least one is married, have intercourse with the one that is not the marital partner. It is not so in either NT or OT. In the OT, a man can divorce his wife if she behaves unseemly (Deu. 24:1) or stone her at said intercourse (Lev. 20:10) with another man. Thus the NT is sharpened compared to the OT (Mat. 5:32), he can only correctly divorce her if she commits _prostitution_, and he can verify it. In the NT, a man commits adultery when (Mat. 5:28) scouting for a _gynaika_ to have cravings for her. Equally, a woman moving in with (Rom. 7:3) another man without being properly divorced or separated is called an adulteress. Then if someone divorces, it’s not a sin by itself. Remarriage is adultery under the wrong circumstances, one-sided for the marital dumper and for the man who marries the woman being a marital dumper. When laying out all verses (Mat. 5:32, 19:9; Mar. 10:11–12; Luk. 15:18) alongside and summing up the doctrine, occasionally there will be different results even when using well-translated Bibles such as KJV, YLT, ASV, NASB, and similar.  Even when not mixing multiple versions in parallel.
 
-**Xyz**,
+**Adulterer**,
 μοιχός (_moichos_):
 1 Cor. 6:9; Heb. 13:4;
+In the Bible, according to BGM, both said occasions are in _masculine plural_, which means it is only male adulterers that God judges and excludes from heaven.
 
 **Xyz**,
 μωρολογία (_mōrologia_):
