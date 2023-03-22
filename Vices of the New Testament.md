@@ -60,7 +60,7 @@ Stems from two words: αἰσχρός _sordid_, and κέρδος, which accordin
 **Sordid calumny**,
 αἰσχρολογία (_aischrologia_):
 Col. 3:8;
-Stems from two words: αἰσχρός _sordid_, and λόγος which according to Debrunner (TDNT 4:73) aims for _assembling_, _reckoning_, _account_, _review_, and _narrative_. Delling (TDNT 4:4) describes the contrast of καταλαλιά which is: "evil report" and "calumny" as "malicious or unthinking gossip." Thereby sordid accusations or evil thought-through slander cunningly planted. CD defines sordid _calumny_ as "(the act of making) a statement about someone that is not true and is intended to damage the reputation of that person." Also, _see sordid_. Simply shameful calumny sordidly.
+Stems from two words: αἰσχρός _sordid_, and λόγος which according to Debrunner (TDNT 4:73) aims for _assembling_, _reckoning_, _account_, _review_, and _narrative_. Delling (TDNT 4:4) describes the contrast of καταλαλιά which is: "evil report" and "calumny" as "malicious or unthinking gossip." Thereby sordid accusations or evil thought-through slander cunningly planted. CD defines sordid _calumny_ as "(the act of making) a statement about someone that is not true and is intended to damage the reputation of that person." Also, _see sordid_. Simply calumny that portrays someone as sordid or shameful.
 
 **Sordid**,
 αἰσχρότης (_aischrotēs_):
@@ -316,7 +316,7 @@ According to Büchsel (TDNT 3:168–171), said term denotes "the direct impulse 
 **Maleficent craving**,
 ἐπιθυμία κακός (_epithymia kakos_):
 Col. 3:5;
-Maleficent cravings are mentioned in Prov. 21:26 in the LXX, they count as idolatry. Cravings to cause harm to oneself or others. See _idolatry_, _craving_, and _malevolence_.
+Maleficent cravings are mentioned in Prov. 21:26 in the LXX, they count as idolatry. Cravings to cause harm to oneself or others. See _idolatry_, _craving_, and _malevolence_, also _evil_, _maleficent eye_.
 
 **Perjured**,
 ἐπίορκος (_epiorkos_):
@@ -341,7 +341,7 @@ Liddell mentions " wit, liveliness, Lat. urbanitas, … 2. in bad sense, jesting
 **Maleficent contriver**,
 ἐφευρετής κακός (_epheuretēs kakos_):
 Rom. 1:30;
-All Liddell, Thayer, and Gingrich agree that ἐφευρετής means both _inventor_, as well as _contriver_. Then κακός means _maleficent_. According to CD _inventor_ is described "someone who has invented something or whose job is to invent things," and _contrive_ is described "to arrange a situation or event, or arrange for something to happen, using clever planning." Technically we are talking about persons, which are maleficent, trying to invent harm and evil, and making it come true, wickedness personified in human beings. See _malevolence_.
+All Liddell, Thayer, and Gingrich agree that ἐφευρετής means both _inventor_, as well as _contriver_. Then κακός means _maleficent_. According to CD _inventor_ is described "someone who has invented something or whose job is to invent things," and _contrive_ is described "to arrange a situation or event, or arrange for something to happen, using clever planning." Technically we are talking about persons, which are maleficent, trying to invent harm and evil, and making it come true, wickedness personified in human beings. See _malevolence_, also _maleficent eye_.
 
 **Hostility**,
 ἔχθρα (_echthra_):
@@ -446,17 +446,17 @@ According to Hanse (TDNT 4:293–4), it may include _reproach_, _insult_, _revil
 **Catamite (inconclusive)**,
 μαλακός (_malakos_):
 1 Cor. 6:9;
-Is a hard word to cover, it mostly blends with soft, weak, and effeminate according to Liddell, Thayer on the other hand mentions the Lat. _mollis_ which according to Lewis & Short can denote "_easily movable_, _pliant_, _flexible_, _supple_;_ soft_, _tender_, _delicate_, _gentle_, _mild_, _pleasant_ ... [further in II.A] ... _Tender_, _delicate_, _susceptible_ ... _in tender youth_, ... _easily blushing_, ...In a bad sense, _soft_, _effeminate_, _unmanly_, _weak_," also Danker mentions "_submissive_, as noun of one who is passive in a same-sex relationship." Conclusively it indicates some type _effeminate_ manly person but not enough meat on the bones to conclude when or how an actual sin.
+Is a hard word to cover, it mostly blends with soft, weak, and effeminate according to Liddell, Thayer on the other hand mentions the Lat. _mollis_ which according to Lewis & Short can denote "_easily movable_, _pliant_, _flexible_, _supple_;_ soft_, _tender_, _delicate_, _gentle_, _mild_, _pleasant_ … [further in II.A] … _Tender_, _delicate_, _susceptible_ … _in tender youth_, … _easily blushing_, … In a bad sense, _soft_, _effeminate_, _unmanly_, _weak_," also Danker mentions "_submissive_, as noun of one who is passive in a same-sex relationship." Conclusively it indicates some type _effeminate_ manly person but not enough meat on the bones to conclude when or how an actual sin.
 
-**Intoxication**,
+**Drunkenness**,
 μέθη (_methē_):
 Gal. 5:21;
-According to Preisker (TDNT 4:545), μέθυσος denotes "'drunk' (with wine). In early lit. use is restricted to the feminine sex," then μέθη distinguishably denotes "'drink,' ... mostly 'over-rich drinking,' ... often 'intoxication,' 'drunkenness.'" CD describes _intoxication_ as "the condition of having lost some control of your actions or behavior under the influence of a drug."
+According to Preisker (TDNT 4:545), μέθυσος denotes "'drunk' (with wine). In early lit. use is restricted to the feminine sex," then μέθη distinguishably denotes "'drink,' … mostly 'over-rich drinking,' … often 'intoxication,' 'drunkenness.'" CD describes _drunkenness_ as "the condition of having lost some control of your actions or behavior under the influence of a drug." Also _drunkenness_  as "the state of being drunk (= under the influence of alcohol)."
  
-**Intoxication (woman)**,
+**Drunkenness (woman)**,
 μέθυσος (_methysos_):
 1 Cor. 5:11, 6:10;
-see _intoxication_, same but about women and wine, specifically the alcohol culture among women.
+see _drunkenness_, same but about women and wine, specifically the alcohol culture among women.
 
 **Mother-murderer**,
 μητρολῴας (_mētrolōas_):
@@ -473,17 +473,20 @@ In traditional catholic and protestant state religion, adultery happens when two
 1 Cor. 6:9; Heb. 13:4;
 In the Bible, according to BGM, both said occasions are in _masculine plural_, which means it is only male adulterers that God judges and excludes from heaven.
 
-**Xyz**,
+**Absurd speech**,
 μωρολογία (_mōrologia_):
 Eph. 5:4;
+According to Bertram (TDNT 4:832), first μωρός denotes "_moros_ is related to the Sanskr. _muras_ ('dull-witted') and the Indo-European root mo[u]ro-. muro-. We also find the Attic _moros_. The Lat. _morus_, 'foolish,' 'absurd,' derives from the Gk. … _moros_ and cognates denote a physical or intellectual deficiency in animals or men, in their conduct and actions, also in things. The word can refer to physical sloth or dullness, but its main ref. is to the intellectual life," later μωρολογία denotes "[844 4.C] Among the warnings in Eph. 5 there is found in v. 4 that against _morologia_. The word occurs alongside _eutrapelia_, which means adroitness of speech both in the good sense and the bad. The reference is thus to sins of the tongue, … Hence one is to think in terms of offensive, equivocal and foolish speech. But the terms are taken up yet again in the … of v. 6, and this seems to carry a warning against heresy. … Jesus and early Christian exhortation are opposed to the empty verbal debates which are found in Jewish schools and also in Gnosticising Christianity … These are described as fools, …They are … foolish questions, like the problem whether Lot's wife as a pillar of salt, or one who has risen from the dead, will make unclean according to the uncleanliness through contact with the dead." It is serious talk about serious things but on the level of an imbecile, whether what religiously applies when the power and grace of God can resurrect the dead into life. CD describes _imbecile_ as the level of intelligence corresponding to "a person who behaves in an extremely stupid way." Also _absurd_ as "ridiculous or completely unreasonable."
 
-**Xyz**,
+**Wine abstinence**,
 οἶνος πολύς προσέχω (_oinos polys prosechō_):
 1 Tim. 3:8;
+All Liddell, Thayer, and Gingrich, including Danker, agree on πολύς meaning _great_. Then T. and G. basically denote προσέχω meaning _addicted to_. However, it is strange to prohibit deacons from having heavy addiction if  _drunkenness_ is a sin in general and lower to reach when he belongs higher up than the everyday members of the congregation. Both L. T. and G. agree with _to turn one's mind to_ which is very fortunate from a doctrinal point of view. Instead of focusing on great addiction, a different nuance, based on abstinence, can be addressed. Supposedly it can translate as _greatly turning one's mind to wine_, which would indicate abstinence from frequently drinking wine in smaller portions but without completely controlling it. CD declares _abstinence_ as "the act of not doing something, esp. something that gives you pleasure."
 
-**Xyz**,
+**Boozing**,
 οἰνοφλυγία (_oinophlygia_):
 1 Pet. 4:3;
+All Lidell, Thayer, and Gingrich agree on _drunkenness_, but T. and Danker. also mentions _bubble up_, _overflow_, then T. says _wine-bibbing_, and D. adds "'excessive indulgence in wine,' boozing." Contextually this mentions the hedonist’s old lifestyle since before salvation, thereby a plentiful amount of boozing, which should be heavier than _drunkenness_. CD defines _booze_ as "to drink alcohol."
 
 **Rage**,
 ὀργή (_orgē_):
@@ -493,13 +496,15 @@ According to Kleinknecht (TDNT 5:383–4 A.I), "_orge_, post-Homeric, first foun
 **Revenge**,
 see _rage_, the secondary meaning of _orgē_.
 
-**Xyz**,
+**Wrath**,
 ὀργίλος (_orgilos_):
 Tit. 1:7;
+According to Grether/Fichtner (TDNT 5:410), said term denotes "They mean 'wrathful,' 'angry,' and … they are used only for the human attribute." Thus it stands in relationship to _rage_ and _revenge_ with the difference of inner disposition. _Wrath_ happens between the offense and the outburst of rage or revenge. CD defines _anger_ as "a strong feeling that makes you want to hurt someone or be unpleasant because of something unfair or unkind that has happened," and _wrath_ as "extreme anger." Also see _rage_.
 
-**Xyz**,
+**Maleficent eye**,
 ὀφθαλμός πονηρός (_ophthalmos ponēros_):
 Mar. 7:22;
+In TDNT (5:375), Michaelis denotes that ὀφθαλμός means "first 'apple of the eye,' then 'eye,'" further, πονηρός means _evil_, totally, _apple of the maleficent eye_. See _evil_, also _malevolence_, _malice_, _maleficent craving_.
 
 **Xyz**,
 πάθος (_pathos_):
@@ -534,9 +539,10 @@ Mar. 7:22; Rom. 1:29; Eph. 5:3; Col. 3:5;
 πνικτός (_pniktos_):
 Acts 15:20, 29, 21:25;
 
-**Xyz**,
+**Evil**,
 πονηρία (_ponēria_):
 Mar. 7:22; Rom. 1:29;
+First we need to understand πονηρός, according to Harder (TDNT 6:546), which denotes "The original verb is _penomai_ from which come _penia_ 'poverty' and _penes_, _penichros_ 'poor,' 'needy' … Related to _ponos_, it has throughout class. Gk. the original sense 1. 'laden with care,' 'sorrowful,' 'unhappy.' … 'laden with the exercise and care of rule.' … 2. Then _poneros_ denote 'that which causes trouble and brings sorrow.' …  'speech which brings disaster,' …  'trouble which brings evil,' … 3. _poneros_ thus take the sense of 'pitiable,' 'incompetent,' 'wretched,' 'poor.' It can also mean 'badly contrived,' 'in poor shape,' 'unattractive,' 'unfit,' 'unserviceable,' 'pernicious, … 'unfavorably disposed,' … 'politically useless,' the 'parasite on the commonwealth,' even the 'enemy of state.' … 'morally reprehensible' … 'willingly and knowingly bad.' … 'full of trouble,' 'unfortunate' … 'useless,' 'false,' 'wrong,' 'harmful,' 'unfavorable,' 'offensive,' thus 'deceptive.' … Naturally there is a general use of _poneros_ in the moral sense for 'morally reprehensible,' 'useless,' 'bad,' 'evil.' … When _ho poneros_  is used for the devil, it is based on NT usage." Then built upon this, the understanding of πονηρία connotes as (p. 563) "_poneria_ is the 'intentionally practiced evil will,' … in contrast to conduct … 'unceasing baseness' is _mochtheria_, moral uselessness … Similarly _poneria_ is to be distinguished from _agnoia_ and _abelteria_ 'stupidity.' _poneria_ affects others, _abelteria_ only the one who acts. The original social signification of the term … may be discerned here. Its essential future acc. to Demetrius … us that it is always out for gain - something which may still be seen in the NT use." Therefore πονηρία is nothing but utter evil. CD defines _evil_ as "something that is very bad and harmful."
 
 **Prostitution**,
 πορνεία (_porneia_):
