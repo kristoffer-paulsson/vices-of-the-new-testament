@@ -35,7 +35,7 @@ D.
 
 ## Vices
 
-The vices described in the entries in the following list are compiled from: Gal. 5:19–21; Mat. 15:19; Mar. 7:21; Rom. 1:29–31, 13:13; 1 Tim. 1:9–10, 2:8–10, 3:3–11, 3:13; Eph. 4:31, 5:3–5; 2 Tim. 3:2–3; 1 Cor. 5:10–11, 6:9–10; 2 Cor. 12:20–21; Tit. 1:7, 2:3, 3:3, 3:9; Col. 3:5, 3:8–9; Heb. 12:15, 12:16, 13:4; 1 Pet. 2:1, 4:3; Acts 15:20, 15:29, 21:25; Rev. 9:20–21, 21:8, 21:27, 22:15;
+The vices described in the entries in the following list are compiled from: Gal. 5:19–21; Mat. 15:19; Mar. 7:21; Rom. 1:29–31, 13:13; 1 Tim. 1:9–10, 2:8–10, 3:3–11, 3:13; Eph. 4:31, 5:3–5; 2 Tim. 3:2–3; 1 Cor. 5:10–11, 6:9–10; 2 Cor. 12:20–21; Tit. 1:7, 2:3, 3:3, 3:9; Col. 3:5, 3:8–9; Heb. 12:15, 12:16, 13:4; 1 Pet. 2:1, 4:3; Acts 15:20, 15:29, 21:25; Rev. 9:20–21, 21:8, 21:27, 22:15.
 
 **Unrighteousness**,
 ἀδικία (_adikia_):
@@ -129,7 +129,7 @@ Both Liddell, Thayer, and Gingrich agree in the meaning _not tame_, _wild_, and 
 **Lunacy**,
 ἀνόητος (_anoētos_):
 Tit. 3:3;
-According to Behm (TDNT 4:961), is being "'unthought of', 'unsuspected,' 'unintelligible' … this word is predominantly act. 'unwise,' 'irrational,' 'foolish' … both intellectually and ethically, of persons lacking in understanding or judgment … whose folly is manifested in their acts, … but also of subjects, human thoughts, utterances etc." CD defines _deranged_ as "completely unable to think clearly or behave in a controlled way, especially because of mental illness." Specifically, defines _lunacy_ as "stupid behaviour that will have bad results," and "extreme foolishness or mental illness"
+According to Behm (TDNT 4:961), is being "'unthought of', 'unsuspected,' 'unintelligible' … this word is predominantly act. 'unwise,' 'irrational,' 'foolish' … both intellectually and ethically, of persons lacking in understanding or judgment … whose folly is manifested in their acts, … but also of subjects, human thoughts, utterances etc." CD defines _deranged_ as "completely unable to think clearly or behave in a controlled way, especially because of mental illness." Specifically, defines _lunacy_ as "stupid behavior that will have bad results," and "extreme foolishness or mental illness"
 
 **Lawless**,
 ἄνομος (_anomos_):
@@ -194,7 +194,7 @@ Liddell, Thayer, and Gingrich closely agree on _without natural affection_, both
 **Miscomprehension**,
 ἀσύνετος (_asynetos_):
 Rom. 1:31;
-According to Conzelmann (TDNT 7:), it denotes "The adj. _sunetos_ (similarly _asunetos_) means act. 'understanding' … pass. 'understandable' … Like the verb and noun it need closer definition … The charge of lack of understanding may have moral tinge, " The said term is negative as in lack of understanding. CD defines _miscomprehension_ as "failure to understand something, or an idea that is wrong because it is based on a lack of understanding."
+According to Conzelmann (TDNT 7:), it denotes "The adj. _sunetos_ (similarly _asunetos_) means act. 'understanding' … pass. 'understandable' … Like the verb and noun it need closer definition … The charge of lack of understanding may have moral tinge," The said term is negative as in lack of understanding. CD defines _miscomprehension_ as "failure to understand something, or an idea that is wrong because it is based on a lack of understanding."
 
 **Uncommitted**,
 ἀσύνθετος (_asynthetos_):
@@ -235,7 +235,7 @@ Liddell, Thayer, and Gingrich agree on _abominable_. In the NT this term is only
 **Worldly**,
 βέβηλος (_bebēlos_):
 1 Tim. 1:9; Heb. 12:16;
-According to Hauck (TDNT 1:604–5), it means "the place which may be entered by anyone … 'accessible.' It corresponds exactly to the Lat. _profanus_." Further, it denotes "it is used of persons  in the sense of 'unsanctified' or 'profane.'" Profane is the use of the world for a vessel that is supposed to be clean and used for holy purposes, therefore it's not allowed to use it for worldly purposes but for holy use in the world. Further from TDNT is "as applied to persons, _bebelos_ in Hb. 12:16 (alongside _pornos_ [whoremaster]) … denotes profane men who are far from God; their unholiness includes ethical deficiency in accordance with the NT approach." CD defines _worldly_ as "experienced in the ways of the world," and as "relating to or consisting of physical things and ordinary life rather than spiritual things." When in worldly use, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not turn away from it.
+According to Hauck (TDNT 1:604–5), it means "the place which may be entered by anyone … 'accessible.' It corresponds exactly to the Lat. _profanus_." Further, it denotes "it is used of persons  in the sense of 'unsanctified' or 'profane.'" Profane is the use of the world for a vessel that is supposed to be clean and used for holy purposes, therefore it's not allowed to use it for worldly purposes but for holy use in the world. Further from TDNT is "as applied to persons, _bebelos_ in Hb. 12:16 (alongside _pornos_ [**XYZ**]) … denotes profane men who are far from God; their unholiness includes ethical deficiency in accordance with the NT approach." CD defines _worldly_ as "experienced in the ways of the world," and as "relating to or consisting of physical things and ordinary life rather than spiritual things." When in worldly use, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not turn away from it.
 
 **Blasphemy**,
 βλασφημία, βλάσφημος (_blasphēmia_, _blasphēmos_):
@@ -353,10 +353,10 @@ According to Foerster (TDNT 2:811–5), thus denotes "Of the related word groups
 Gal. 5:20; 2 Cor. 12:20;
 According to Stumpff (TDNT 2:877–8), the current term denotes "is usually translated 'zeal,' … a. _zelos_ as the capacity or state of passionate committal to a person or cause is essentially _vox_media_ … Thus the word is found in Plato in a list with partly good and partly bad emotions .,. It is also found in the plur. in a biographical and anthropological sense as a comprehensive word to denote the forces which motivate a personality, … also the sense of 'taste' or 'interest,' … 'the warlike spirit (of a tribe),' … Occasionally it can mean 'style' in the literary sense, … b. _zelos_ as orientated to a worthy goal … can have the sense of  the 'zeal of imitation,' … and this may take on the heightened sense of 'passionate rivalry,' … or with only a slight shift of meaning, 'zealous recognition,' 'praise' or 'fame,' … or even 'enthusiasm,' … The word here serves  to denote a noble ethical impulse towards the development of character, and to this degree it is to be distinguished from envy or jealousy. … c. Zeal can also take a less reputable form … 'passion which poisons human society' … (miserable, pitiable) … (shrieking discordantly, spreading evil rumors)." CD describes _zealot_ as "a person who has very strong opinions about something, and tries to make other people have them too," and _fanaticism_ as "extreme beliefs that may lead to unreasonable or violent behavior."
 
-**Indulgence**,
+**Overindulgence**,
 ἡδονή (_hēdonē_):
 Tit. 3:3;
-Stählin (TDNT 2:909 cf) denotes "… The word _hedone_ derives from the same root as _hedus_, 'sweet,' 'pleasant,' 'delightful' … and it shares with this adj. the original sense of what is pleasant to the senses, namely, to the sense of taste. … of superficial 'pleasure in rhetoric' (feasting the ears). The narrower basic meaning, which relates to what tastes good, was accompanied for many centuries by a subsidiary semasiological strand according to which _hedone_ denotes that which causes pleasure to the senses. The specific sense of 'pleasant taste' is first found in … Already in its earliest use, however, the term _hedone_ bears the broader sense of a general 'feeling of pleasure' or 'enjoyment.' The development from the sensual to the physical and then to the ethical, which we can trace in _hedone_, is often to be noted in the evolution of words and their meanings. Already at an early period the rise of a feeling of pleasure is both restricted to sensual perceptions but is linked with enjoyable experiences of all kinds, and esp. with desired communications." Liddell connotes to earlier mentioned "_enjoyment_, _pleasure_, … prop. of sensual pleasures, … of _malicious pleasure_, … to give way _to pleasure_, … shall I speak truly or _so as to humor you?_ … one feels _pleasure_ at the thought that … to be _satisfied with_ … to speak so as to please another, … it is a _pleasure_ or _delight_ to another, … to take _pleasure_ in them, … with pleasure, … concrete, _a pleasure_, … sweetmeats, … _desires after pleasure_, _pleasant lusts_." According to the Bible, illicit gratification is harmful to your walk with God (Luk. 8:14). CD describes _hedonism_ as "living and behaving in ways that mean you get as much pleasure out of life as possible, according to the belief that the most important thing in life is to enjoy yourself," also _indulgence_ as "an occasion when you allow someone or yourself to have something enjoyable, especially more than is good for you."
+Stählin (TDNT 2:909 cf) denotes "… The word _hedone_ derives from the same root as _hedus_, 'sweet,' 'pleasant,' 'delightful' … and it shares with this adj. the original sense of what is pleasant to the senses, namely, to the sense of taste. … of superficial 'pleasure in rhetoric' (feasting the ears). The narrower basic meaning, which relates to what tastes good, was accompanied for many centuries by a subsidiary semasiological strand according to which _hedone_ denotes that which causes pleasure to the senses. The specific sense of 'pleasant taste' is first found in … Already in its earliest use, however, the term _hedone_ bears the broader sense of a general 'feeling of pleasure' or 'enjoyment.' The development from the sensual to the physical and then to the ethical, which we can trace in _hedone_, is often to be noted in the evolution of words and their meanings. Already at an early period the rise of a feeling of pleasure is both restricted to sensual perceptions but is linked with enjoyable experiences of all kinds, and esp. with desired communications." Liddell connotes to earlier mentioned "_enjoyment_, _pleasure_, … prop. of sensual pleasures, … of _malicious pleasure_, … to give way _to pleasure_, … shall I speak truly or _so as to humor you?_ … one feels _pleasure_ at the thought that … to be _satisfied with_ … to speak so as to please another, … it is a _pleasure_ or _delight_ to another, … to take _pleasure_ in them, … with pleasure, … concrete, _a pleasure_, … sweetmeats, … _desires after pleasure_, _pleasant lusts_." According to the Bible, illicit gratification is harmful to your walk with God (Luk. 8:14). CD describes _hedonism_ as "living and behaving in ways that mean you get as much pleasure out of life as possible, according to the belief that the most important thing in life is to enjoy yourself," also _overindulgence_ as "behavior in which you allow someone to have more of something enjoyable than is good for them.."
 
 **Sensuality**,
 CD describes _sensuality_ as "the expression or suggestion of physical, especially sexual, pleasure or satisfaction," see _indulgence_, the narrower meaning of _hēdonē_.
@@ -536,13 +536,15 @@ First, let's explore the core sentiments of πλέον ἔχειν. Delling (TD
 Mar. 7:22; Rom. 1:29; Eph. 5:3; Col. 3:5;
 First, we need to pick up the core sentiment of πλέον ἔχειν by reading _unscrupulous competition_. Then  Delling (TDNT 6:266–7) connotes "_pleonexia_ 'the will to press one's advantage' … The use of _pleonexia_ is more restricted. Formally it is 'excess,' … but the meaning is usually adverse: 'greed,' … 'insatiability' in respect of food and pleasures, … 'immoderation' with … 'desire,' erotically … finally the act of 'encroaching on what belongs to others,' … then esp. the desire for power etc., and esp. the 'urge to assert oneself.'" Finally, we conclude _unscrupulous encroaching_ by letting CD define _encroaching_ as "to take control or possession of something in a gradual way and often without being noticed."
 
-**Xyz**,
+**Abuser**,
 πλήκτης (_plēktēs_):
 1 Tim. 3:3; Tit. 1:7;
+Thayer denotes "(πλήσσω) ...,  (A. V. striker), bruiser, ready with a blow; a pugnacious, contentious, quarrelsome person." Then Gingrich denotes distinctly "pugnacious man, bully." Danker connotes to G. "[πλήσσω; ‘smiter’]  ‘one who is set on getting into a fight’, bully." Then when checking an array of cognates against Liddell, the following is denoted: πλήσσω _sting_, _strike_, _stamp_ as one does a coin, _receive a blow_, _to be smitten_ emotionally, πληκ-τέον _one must strike_, πλῆκ-τρον _instrument for striking the lyre_, _plectrum_, _spear-point_, of  lightning, a bee's _sting_, finally πλήκ-της _striker_, _brawler_, _violent_, _fierce_. The total sense here is, punching or beating someone, as in physical and potentially emotional abuse. Thereby looking at the possible person doing so, which supposedly can be called a _brawler_, _bully_, _bruiser_, or understood best as an _abuser_. CD defines _bullying_ as "the behavior of a person who hurts or frightens someone smaller or less powerful, often forcing that person to do something they do not want to do," and _abusive_ as "using physical violence or emotional cruelty."
 
-**Xyz**,
+**Choked**,
 πνικτός (_pniktos_):
 Acts 15:20, 29, 21:25;
+In current verses, the _choked_ stands in direct context with _blood_. Both Bietenhard (TDNT 6:457), Thayer, and Gingrich agree with what G. denotes: "_strangled_, _choked to death_ of animals killed for food without having the blood drained from them" The connection between _blood_ and the _choked_ is that blood can be used for more than eating, like ceremonial purposes, therefore, the _choked_ clarifies the eating part of _blood_ even clearer.
 
 **Evil**,
 πονηρία (_ponēria_):
@@ -565,17 +567,20 @@ According to Hauck/Schulz (TDNT 6:580), "_pornos_ … 'whoremonger' who has inte
 **Male-prostitute**,
 see _male-sex-buyer_, secondary meaning of _pornos_.
 
-**Xyz**,
+**Carouse**,
 πότος (_potos_):
 1 Pet. 4:3;
+All Goppelt (TDNT 6:145), Liddell, Thayer, and Gingrich mention _carouse_, _drinking-bout_, and _a drinking_. Formally, the focus is on getting drunk by alcohol, probably a wild party or festivity, and a wild night being drunk. CD defines _drinking game_ as "a game that involves players having to drink alcohol," and _carousing_ as "to enjoy yourself by drinking alcohol and speaking and laughing loudly in a group of people."
 
-**Xyz**,
+**Hateful**,
 στυγητός (_stygētos_):
 Tit. 3:3;
+Liddell agrees with Thayer and Gingrich on _hateful_ but also adds _abominated_. CD defines _hate_ as "filled with or causing strong dislike," and _abominate_ as "to hate something very much." As a disposition to the second command in the Law of Christ, we are not supposed to hate others: the Bible tells us that the world may hate us for Jesus living in our hearts, but also hate what is wicked, the deeds, not the sinner.
 
-**Xyz**,
+**Egomaniacal**,
 τυφόω (_typhoō_):
 1 Tim. 3:6;
+Thayer denotes "properly, _to raise a smoke_, _to wrap in a mist_; used only metaphorically:  1. _to make proud_, _puff up with pride_, _render insolent_; passive, _to be puffed up_ with haughtiness or pride." Then, Gingrich denotes: _be puffed up_, _be conceited_. Also, a range of cognates from Liddell goes: τύφω _raise a smoke_, _consume in smoke_, _burn slowly_, _smolder_; τυφόω _delude_, _to be crazy_, _demented_, _rendered vain_, _filled with insane arrogance_; τῦφος _vapor_, _conceit_, _vanity_; τυφογέρων _silly old man_, _dotard_; τυφομανία _delirium_, _mad delusion_; τυφοπλαστέω _invent a falsehood_, _deceiving_ himself; τυφοποιέω _construct an imaginary world_; τυφώδης a person in fever, _delirious_. A lot is mentioned about fever but being puffed up doesn't seem like normal pridefulness instead it seems to be a puffed-up delirious ego of vanity. CD defines _vanity_ as "used to describe something that is done with the aim of getting praise, fame, or approval rather than for serious or good reasons," and _egocentric_ as "thinking only about yourself and what is good for you," else _conceited_ as "too proud of yourself and your actions and abilities," and _egomaniacal_ as "relating to someone who considers themselves to be very important and able to do anything that they want."
 
 **Xyz**,
 ὑβριστής (_hybristēs_):
