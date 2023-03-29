@@ -1,131 +1,122 @@
-αὐθάδης (_authadēs_) arrogant
-αἷμα (_haima_) blood
-ἀσέλγεια (_aselgeia_) brutal (violence)
-
-βδελύσσω (_bdelyssō_) abominable
-βδέλυγμα (_bdelygma_) abomination
-βλασφημία (_blasphēmia_) i. blasphemy (conduct) ii. mockery
-βλάσφημος (_blasphēmos_) blasphemy (state)
-
-μαλακός (_malakos_) catamite (inconclusive)
-μωρολογία (_mōrologia_) absurd speech
-μοιχός (_moichos_) adulterer
-μοιχεία (_moicheia_) adultery
-
-πλήκτης (_plēktēs_) abuser
-πικρία (_pikria_) bitterness
-πνικτός (_pniktos_) choked
-πότος (_potos_) carouse
-
-ψεύδομαι (_pseudomai_) beguile
-
-οἰνοφλυγία (_oinophlygia_) boozing
-
-
-
-
- κραυγή (_kraugē_) i. clamor ii. outcry
- κοινός (_koinos_) common
- φθόνος (_phthonos_) covetousness
- ἐπιθυμία (_epithymia_) craving
- ψευδής (_pseudēs_) deceiving
- λοίδορος (_loidoros_) defamatory
- προσκυνέω ὁ δαιμόνιον (_proskyneō ho daimonion_) demon worship
- δίλογος (_dilogos_) disinforming
- γονεύς ἀπειθής (_goneus apeithēs_) disobedient to parents
- ἀπειθής (_apeithēs_) disobedient
- ἀκρατής (_akratēs_) dissipated
- διχοστασία (_dichostasia_) disunity
- μέθυσος (_methysos_) drunkenness (woman)
- μέθη (_methē_) drunkenness
- τυφόω (_typhoō_) egomaniacal
- φυσίωσις (_physiōsis_) egotist
- δόλος (_dolos_) ensnaring
- πάθος (_pathos_) erotic perversion
- πονηρία (_ponēria_) evil
- διώκτης (_diōktēs_) exterminator
- ἅρπαξ (_harpax_) extortionary
- ψευδομαρτυρία (_pseudomartyria_) false assertion
- ψεῦδος (_pseudos_) falsehood
- ζῆλος (_zēlos_) fanaticism
- πατρολῴας (_patrolōas_) father-murderer
- ἀφροσύνη (_aphrosynē_) foolishness
- ἀκαθαρσία foul (conduct)
- ἀκάθαρτος foul (state)
- κλέπτης (_kleptēs_) i. fraudster ii. thief
- κλέμμα (_klemma_) fraud
- ἀρσενοκοίτης (_arsenokoitēs_) gay-partner
- θεοστυγής (_theostygēs_) god-hating (inconclusive)
- ψιθυριστής (_psithyristēs_) gossipmonger
- ψιθυρισμός (_psithyrismos_) gossip
- στυγητός (_stygētos_) hateful
- ὑπερηφανία (_hyperēphania_) haughty disdain (conduct)
- ὑπερήφανος (_hyperēphanos_) haughty disdain (state)
- ἔχθρα (_echthra_) hostility
- ὑβριστής (_hybristēs_) hubris
- ἀνδροφόνος (_androphonos_) husband-murderer
- ὑπόκρισις (_hypokrisis_) hypocrisy
- εἰδωλολάτρης (_eidōlolatrēs_) idolater
- εἰδωλολατρία (_eidōlolatria_) idolatry
- εἰδωλόθυτος (_eidōlothytos_) idol meat
- ἀλίσγημα εἴδωλον (_alisgēma eidōlon_) idol pollution
- προσκυνέω ὁ εἴδωλον (_proskyneō ho eidōlon_) idol worship
- ἀνόσιος (_anosios_) impious
- ἄσπονδος (_aspondos_) irreconcilable
- ἀσεβής (_asebēs_) irreverent
- φόνος (_phonos_) killing
- ἄνομος (_anomos_) lawless
- ψεύστης (_pseustēs_) liar
- ἀνόητος (_anoētos_) lunacy
- φάρμακος (_pharmakos_) magician
- ἐφευρετής κακός (_epheuretēs kakos_) maleficent contriver
- ἐπιθυμία κακός (_epithymia kakos_) maleficent craving
- ὀφθαλμός πονηρός (_ophthalmos ponēros_) maleficent eye
- πόρνος (_pornos_) i. male-sex-buyer ii. male-prostitute
- κακία (_kakia_) malevolence
- κακοήθεια (_kakoētheia_) malice
- ἀσύνετος (_asynetos_) miscomprehension
- φιλάργυρος (_philargyros_) i. money-phile ii. avaricious iii. greed
- μητρολῴας (_mētrolōas_) mother-murderer
- φονεύς (_phoneus_) murderer
- κοίταις (_koitais_, plural) i. nests (multiple) ii. polygamy
- ἀνδραποδιστής (_andrapodistēs_) i. oppressor ii. kidnapper iii. trafficker
- θυμός (_thymos_) outburst
- ἡδονή (_hēdonē_) i. overindulgence ii. sensuality
- ἐπίορκος (_epiorkos_) perjured
- πορνεία (_porneia_) i. prostitution ii. sex-purchase
- ἔρις (_eris_) quarrel
- ὀργή (_orgē_) i. rageii. revenge
- ἀνυπότακτος (_anypotaktos_) rebellious
- κῶμος (_kōmos_) i. revel ii. festival
- αἵρεσις (_hairesis_) sectarianism
- φίλαυτος (_philautos_) selfishness
- ἀφιλάγαθος (_aphilagathos_) selfish triumph
- ἐριθεία (_eritheia_) self-seeking
- εὐτραπελία (_eutrapelia_) sex-slander
- διάβολος (_diabolos_) i. she-devil ii. calumniator
- ἁμαρτωλός (_hamartōlos_) sinner
- κατάλαλος (_katalalos_) slanderer
- καταλαλιά (_katalalia_) slander
- αἰσχρολογία (_aischrologia_) sordid calumny
- αἰσχροκερδής (_aischrokerdēs_) sordid gain
- αἰσχρότης (_aischrotēs_) sordid
- κλοπή (_klopē_) stealing (act of)
- δειλός (_deilos_) timid
- ἄστοργος (_astorgos_) unaffectionate
- ἀσύνθετος (_asynthetos_) uncommitted
- ἄπιστος (_apistos_) unfaithful
- ἀχάριστος (_acharistos_) ungrateful
- ἀνελεήμων (_aneleēmōn_) unmerciful
- ἀδικία (_adikia_) unrighteousness
- πλεονέκτης (_pleonektēs_) unscrupulous competition
- πλεονεξία (_pleonexia_) unscrupulous encroaching
- ἀκαταστασία (_akatastasia_) uproar
- ἀνήμερος (_anēmeros_) vicious
- ἀλαζών (_alazōn_) i. wannabe ii. pretender
- οἶνος πολύς προσέχω (_oinos polys prosechō_) wine abstinence
- πάροινος (_paroinos_) wine romp
- φαρμακεία (_pharmakeia_) i. witchcraft (use of) ii. abortifacient iii. drugs iv. potions v. spells
- βέβηλος (_bebēlos_) worldly
- ὀργίλος (_orgilos_) wrath
+ἀδικία (_adikia_) unrighteousness,
+αἷμα (_haima_) blood,
+αἵρεσις (_hairesis_) sectarianism,
+αἰσχροκερδής (_aischrokerdēs_) sordid gain,
+αἰσχρολογία (_aischrologia_) sordid calumny,
+αἰσχρότης (_aischrotēs_) sordid,
+ἀκαθαρσία foul (conduct),
+ἀκάθαρτος foul (state),
+ἀκαταστασία (_akatastasia_) uproar,
+ἀκρατής (_akratēs_) dissipated,
+ἀλαζών (_alazōn_) i. wannabe ii. pretender,
+ἀλίσγημα εἴδωλον (_alisgēma eidōlon_) idol pollution,
+ἁμαρτωλός (_hamartōlos_) sinner,
+ἀνδραποδιστής (_andrapodistēs_) i. oppressor ii. kidnapper iii. trafficker,
+ἀνδροφόνος (_androphonos_) husband-murderer,
+ἀνελεήμων (_aneleēmōn_) unmerciful,
+ἀνήμερος (_anēmeros_) vicious,
+ἀνόητος (_anoētos_) lunacy,
+ἄνομος (_anomos_) lawless,
+ἀνόσιος (_anosios_) impious,
+ἀνυπότακτος (_anypotaktos_) rebellious,
+ἀπειθής (_apeithēs_) disobedient,
+ἄπιστος (_apistos_) unfaithful,
+ἅρπαξ (_harpax_) extortionary,
+ἀρσενοκοίτης (_arsenokoitēs_) gay-partner,
+ἀσεβής (_asebēs_) irreverent,
+ἀσέλγεια (_aselgeia_) brutal (violence),
+ἄσπονδος (_aspondos_) irreconcilable,
+ἄστοργος (_astorgos_) unaffectionate,
+ἀσύνετος (_asynetos_) miscomprehension,
+ἀσύνθετος (_asynthetos_) uncommitted,
+αὐθάδης (_authadēs_) arrogant,
+ἀφιλάγαθος (_aphilagathos_) selfish triumph,
+ἀφροσύνη (_aphrosynē_) foolishness,
+ἀχάριστος (_acharistos_) ungrateful,
+βδέλυγμα (_bdelygma_) abomination,
+βδελύσσω (_bdelyssō_) abominable,
+βέβηλος (_bebēlos_) worldly,
+βλασφημία (_blasphēmia_) i. blasphemy (conduct) ii. mockery,
+βλάσφημος (_blasphēmos_) blasphemy (state),
+γονεύς ἀπειθής (_goneus apeithēs_) disobedient to parents,
+δειλός (_deilos_) timid,
+διάβολος (_diabolos_) i. she-devil ii. calumniator,
+δίλογος (_dilogos_) disinforming,
+διχοστασία (_dichostasia_) disunity,
+διώκτης (_diōktēs_) exterminator,
+δόλος (_dolos_) ensnaring,
+εἰδωλόθυτος (_eidōlothytos_) idol meat,
+εἰδωλολάτρης (_eidōlolatrēs_) idolater,
+εἰδωλολατρία (_eidōlolatria_) idolatry,
+ἐπιθυμία (_epithymia_) craving,
+ἐπιθυμία κακός (_epithymia kakos_) maleficent craving,
+ἐπίορκος (_epiorkos_) perjured,
+ἐριθεία (_eritheia_) self-seeking,
+ἔρις (_eris_) quarrel,
+εὐτραπελία (_eutrapelia_) sex-slander,
+ἐφευρετής κακός (_epheuretēs kakos_) maleficent contriver,
+ἔχθρα (_echthra_) hostility,
+ζῆλος (_zēlos_) fanaticism,
+ἡδονή (_hēdonē_) i. overindulgence ii. sensuality,
+θεοστυγής (_theostygēs_) god-hating (inconclusive),
+θυμός (_thymos_) outburst,
+κακία (_kakia_) malevolence,
+κακοήθεια (_kakoētheia_) malice,
+καταλαλιά (_katalalia_) slander,
+κατάλαλος (_katalalos_) slanderer,
+κλέμμα (_klemma_) fraud,
+κλέπτης (_kleptēs_) i. fraudster ii. thief iii. kidnapper,
+κλοπή (_klopē_) stealing (act of),
+κοινός (_koinos_) common,
+κοίταις (_koitais_, plural) i. nests (multiple) ii. polygamy,
+κραυγή (_kraugē_) i. clamor ii. outcry,
+κῶμος (_kōmos_) i. revel ii. festival,
+λοίδορος (_loidoros_) defamatory,
+μαλακός (_malakos_) catamite (inconclusive),
+μέθη (_methē_) drunkenness,
+μέθυσος (_methysos_) drunkenness (woman),
+μητρολῴας (_mētrolōas_) mother-murderer,
+μοιχεία (_moicheia_) adultery,
+μοιχός (_moichos_) adulterer,
+μωρολογία (_mōrologia_) absurd speech,
+οἶνος πολύς προσέχω (_oinos polys prosechō_) wine abstinence,
+οἰνοφλυγία (_oinophlygia_) boozing,
+ὀργή (_orgē_) i. rage ii. revenge,
+ὀργίλος (_orgilos_) wrath,
+ὀφθαλμός πονηρός (_ophthalmos ponēros_) maleficent eye,
+πάθος (_pathos_) erotic perversion,
+πάροινος (_paroinos_) wine romp,
+πατρολῴας (_patrolōas_) father-murderer,
+πικρία (_pikria_) bitterness,
+πλεονέκτης (_pleonektēs_) unscrupulous competition,
+πλεονεξία (_pleonexia_) unscrupulous encroaching,
+πλήκτης (_plēktēs_) abuser,
+πνικτός (_pniktos_) choked,
+πονηρία (_ponēria_) evil,
+πορνεία (_porneia_) i. prostitution ii. sex-purchase,
+πόρνος (_pornos_) i. male-sex-buyer ii. male-prostitute,
+πότος (_potos_) carouse,
+προσκυνέω ὁ δαιμόνιον (_proskyneō ho daimonion_) demon worship,
+προσκυνέω ὁ εἴδωλον (_proskyneō ho eidōlon_) idol worship,
+στυγητός (_stygētos_) hateful,
+τυφόω (_typhoō_) egomaniacal,
+ὑβριστής (_hybristēs_) hubris,
+ὑπερηφανία (_hyperēphania_) haughty disdain (conduct),
+ὑπερήφανος (_hyperēphanos_) haughty disdain (state),
+ὑπόκρισις (_hypokrisis_) hypocrisy,
+φαρμακεία (_pharmakeia_) i. witchcraft (use of) ii. abortifacient iii. drugs iv. potions v. spells,
+φάρμακος (_pharmakos_) magician,
+φθόνος (_phthonos_) covetousness,
+φιλάργυρος (_philargyros_) i. money-phile ii. avaricious iii. greed,
+φίλαυτος (_philautos_) selfishness,
+φονεύς (_phoneus_) murderer,
+φόνος (_phonos_) killing,
+φυσίωσις (_physiōsis_) egotist,
+ψευδής (_pseudēs_) deceiving,
+ψεύδομαι (_pseudomai_) beguile,
+ψευδομαρτυρία (_pseudomartyria_) false assertion,
+ψεῦδος (_pseudos_) falsehood,
+ψεύστης (_pseustēs_) liar,
+ψιθυρισμός (_psithyrismos_) gossip,
+ψιθυριστής (_psithyristēs_) gossipmonger.
 
