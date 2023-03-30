@@ -159,6 +159,11 @@ https://charlesloder.github.io/greekTransliteration/index.html
 * 2 Tim 3:3 --- ἀνήμερος (anēmeros): brutal
 * 2 Tim 3:3 --- ἀφιλάγαθος (aphilagathos): hating what is good
 
+* 2 Tim 3:4 --- προδότης (prodotēs): abandoner
+* 2 Tim 3:4 --- προπετής (propetēs):
+* 2 Tim 3:4 --- τυφόω (typhoō):
+* 2 Tim 3:4 --- φιλήδονος μᾶλλον ἤ φιλόθεος (philēdonos mallon ē philotheos):
+
 "that in the last days perilous times shall come...Having a form of godliness, but denying the power thereof: from such turn away." (2 Tim. 3:1,5 KJV)
 
 * 1 Cor 5:10 --- πόρνος (pornos): whoremongers buyer/abusee
@@ -322,7 +327,6 @@ Know ye not that the unrighteous shall not inherit the kingdom of God? (1 Cor. 6
 
 "And there shall in no wise enter into it any thing that"  (Rev. 21:27 KJV)
 
-* Rev 22:15 --- κύων (kyōn):
 * Rev 22:15 --- φάρμακος (pharmakos):
 * Rev 22:15 --- πόρνος (pornos): whoremongers buyer/abusee
 * Rev 22:15 --- φονεύς (phoneus): murderer
