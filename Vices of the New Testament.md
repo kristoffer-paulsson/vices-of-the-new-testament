@@ -23,7 +23,7 @@ CD
 
 ## Vices
 
-The vices described in the entries in the following list are compiled from: Gal. 5:19--21; Mat. 15:19; Mar. 7:21; Rom. 1:29--31, 13:13; 1 Tim. 1:9--10, 2:8--10, 3:3--11, 3:13; Eph. 4:31, 5:3--5; 2 Tim. 3:2--3; 1 Cor. 5:10--11, 6:9--10; 2 Cor. 12:20--21; Tit. 1:7, 2:3, 3:3, 3:9; Col. 3:5, 3:8--9; Heb. 12:15, 12:16, 13:4; 1 Pet. 2:1, 4:3; Acts 15:20, 15:29, 21:25; Rev. 9:20--21, 21:8, 21:27, 22:15.
+The vices described in the entries in the following list are compiled from: Gal. 5:19--21; Mat. 15:19; Mar. 7:21; Rom. 1:29--31, 13:13; 1 Tim. 1:9--10, 2:8--10, 3:3--11, 3:13; Eph. 4:31, 5:3--5; 2 Tim. 3:2--4; 1 Cor. 5:10--11, 6:9--10; 2 Cor. 12:20--21; Tit. 1:7, 2:3, 3:3, 3:9; Col. 3:5, 3:8--9; Heb. 12:15, 12:16, 13:4; 1 Pet. 2:1, 4:3; Acts 15:20, 15:29, 21:25; Rev. 9:20--21, 21:8, 21:27, 22:15.
 
 **Abominable**,
 βδελύσσω (_bdelyssō_):
@@ -71,6 +71,11 @@ see _money-phile_, another meaning of _philargyros_.
 ψεύδομαι (_pseudomai_):
 Col. 3:9.
 The term is a sin that contextually applies to brethren in the Body of Christ, not concerning the world. "to lie, speak false, play false, … to say that which is untrue, … which I do not speak falsely about him, … to be false, perjured or forsworn, … to belie, falsify, … to break them, … had broken their word about the money, … to deceive by lies, cheat, … to deceive one in a thing." Then Thayer also denotes "'to deceive', 'cheat'; hence, properly, to show oneself deceitful, to play false … to lie, to speak deliberate falsehoods … to deceive one by a lie, to lie to … like verbs of saying." Then Danker and Gingrich shortly repeats about not living in falsehood to one another. CD defines _beguile_ as "to persuade, attract, or interest someone, sometimes in order to deceive them," see _falsehood_, _deceiving_, and _liar_.
+
+**Betrayer**,
+προδότης (_prodotēs_):
+2 Tim. 3:4.
+All Liddell, Thayer, and Gingrich mention _betrayer_ together with _traitor_. According to CD _betrayer_ is "a person who is not loyal to their country or to another person, often doing something harmful such as giving information to an enemy."
 
 **Bitterness**,
 πικρία (_pikria_):
@@ -392,6 +397,11 @@ According to Gutbrod (TDNT 4:1086), the meaning is “having no law.” In 1 Cor
 1 Tim. 1:10.
 In John 14:6, we need to know that Jesus claims to be the truth with capital T. In John 8:44, The Devil is the father of lies with capital L. Technically, the term ψεύστης is used only 10 times in the NT, mostly by John and secondly by Paul. It is only used in contrast between the  truth of God and the lies of the Devil. All truthfulness is in regard to the Kingdom of God and Jesus with the Gospel. Conzelmann (TDNT 9:594 A.1.f) denotes the correct use of ψεύστης in profane greek as _liar_. But the meaning thereof is far away from protestant and catholic state religious connotation, instead, C. describes "Lying cannot be viewed merely as the opposite of truth. Basic to the general and philosophical use of the word group is the twofold sense, namely, objective and subjective appearance, untruth as non-breaking and error as false judgment of reality. The norm of the ethical assessment of lying is the firm bond between _aletheia_ and _dike_. At issue is the divinely protected order of the world." Further, C. states "Hence the worst lie is perjury … Subj. values enter in here. Lying esp. direct lying against others i.e., 'calumniation' _diabole_, is alien to the good man … It deprives honor and is an assault on human dignity … The aristocratic order demands esp. that one should not deceive those to whom one owes respect, … On the other hand the gods deceive (_dolos_) men." CD defines _lie_ as "to say or write something that is not true in order to deceive someone," and _liar_ as "someone who tells lies." When lying, it is applicable to fall away from the Grace of God into the mosaic jurisdiction if they do not stop it.
 
+**Loving pleasure rather than loving God**,
+φιλήδονος μᾶλλον ἤ φιλόθεος (_philēdonos mallon ē philotheos_):
+2 Tim. 3:4.
+Liddell, Thayer and Gingrich are confluent in _loving/fond of pleasure_, As well as _loving God_. Thereby the construction of whether a person loves God with their whole heart or has pleasures higher than him.
+
 **Lunacy**,
 ἀνόητος (_anoētos_):
 Tit. 3:3.
@@ -509,6 +519,11 @@ All Liddell, Thayer, and Gingrich connote _strife_, _quarrel_, and _contention_,
 ὀργή (_orgē_):
 1 Tim. 2:8; Col. 3:8.
 According to Kleinknecht (TDNT 5:383--4 A.I), "_orge_, post-Homeric, first found in Hes. Op., 304, then common in poetry and prose, is related in stem to _orgao_/_orgas_, and thus means the 'lavish swelling of sap and vigor,' 'thrusting and upsurging' in nature, originally gener. [#1] a. the 'impulsive nature' of man or beast, esp. the impulsive state of the human disposition, which in contrast to more inward and quiet _ethos_ … breaks forth actively in relation to what it is without. When _orge_ is used of the mind and nature of man, animal and other comparisons point expressly to the natural side of the concept … The female type which god [lower cased] created the fox … another is best likened to the changeable sea in its nature … The character of men are distinct … who sets _orge_, man's natural disposition, character and bent, in the category as his … In the general and broader sense of individual nature or disposition _orge_ is esp. important in Attic tragedy where it became a tragic element.  In _orge_ there is actualized the true or false insight of man which impels him to decisive deeds … Not blind anger, but demonic excess [Greek] of will in the nature of the tragic person, goes hand in hand with _ananke_, necessity and fate. As compared with older use, _orge_ in tragedy has already become more restricted and specialized. _orge_ now has more of the sense of a specific reaction of the human soul. It takes on the sense [#2] b. of anger as the most striking manifestation of powerful inner passion _thumos_. The two terms can now supplement one other … and yet on the other hand  _orge_, in distinction from _thumos_, is essentially and intentionally oriented to its content, namely, revenge or punishment … In virtue of this _orge_ itself acquired the meaning [#3] c. 'punishment'." Totally, rage can be impulsive on the outside like an _outburst_, however, on the inside, being long gone anger over unsettled issues and from the inside being intentional. CD describes _payback_ as "an action that punishes someone for something bad that the person did to you; revenge." Also, _revenge_ as "harm that you do to someone as a punishment for harm that the person has done to you," finally, _rage_ as "extreme or violent anger, or a period of feeling such anger."
+
+**Rashness**,
+προπετής (_propetēs_):
+2 Tim. 3:4.
+Both Thayer and Gingrich agree in common on _rash_ and _reckless_ and then differentiate on __precipitate_ and _thoughtless_. While Liddell gives a deeper insight, first the cognate προπέτομαι _fly forwards_, then the word denotes "out of control, … thrown away, … drooping, at the point of death, … untimely, … ready for, prone to a thing, … headlong, … precipitate, rash, reckless, … uncontrolled laughter, … of a lot, drawn at random, … of persons, … headlong, out of control, … headlong, hastily, … prematurely," CD defines _rashness_ as "the quality of being careless or unwise, without thought for what might happen or result."
 
 **Rebellious**,
 ἀνυπότακτος (_anypotaktos_):
@@ -691,18 +706,6 @@ According to Hauck (TDNT 1:604--5), it means "the place which may be entered by 
 ὀργίλος (_orgilos_):
 Tit. 1:7.
 According to Grether/Fichtner (TDNT 5:410), said term denotes "They mean 'wrathful,' 'angry,' and … they are used only for the human attribute." Thus it stands in relationship to _rage_ and _revenge_ with the difference of inner disposition. _Wrath_ happens between the offense and the outburst of rage or revenge. CD defines _anger_ as "a strong feeling that makes you want to hurt someone or be unpleasant because of something unfair or unkind that has happened," and _wrath_ as "extreme anger." Also see _rage_.
-
-**Xyz**,
-προδότης (_prodotēs_):
-2 Tim. 3:4.
-
-**Xyz**,
-προπετής (_propetēs_):
-2 Tim. 3:4.
-
-**Xyz**,
-φιλήδονος μᾶλλον ἤ φιλόθεος (_philēdonos mallon ē philotheos_):
-2 Tim. 3:4.
 
 ## Bibliography
 
@@ -1006,10 +1009,10 @@ According to 2 Tim 3:1--5 we are supposed to avoid religios hypocrits, those loo
 ἀκρατής (_akratēs_) dissipated,
 ἀνήμερος (_anēmeros_) vicious,
 ἀφιλάγαθος (_aphilagathos_) selfish triumph,
-προδότης (_prodotēs_) **XYZ**,
-προπετής (_propetēs_) **XYZ**,
+προδότης (_prodotēs_) betrayer,
+προπετής (_propetēs_) rashness,
 τυφόω (_typhoō_) egomaniacal,
-φιλήδονος μᾶλλον ἤ φιλόθεος (_philēdonos mallon ē philotheos_) **XYZ**.
+φιλήδονος μᾶλλον ἤ φιλόθεος (_philēdonos mallon ē philotheos_) Loving pleasure rather than loving God.
 
 ### Grace Exclusion
 
@@ -1072,15 +1075,15 @@ The following sins mentioned in Gal. 5:19--21; Eph. 5:5; 1 Cor. 6:9--10; Rev. 21
 
 ### Topic: Foul (state)
 
-Everything about uncleanliness related to foul spirits and the foul state. Read and study for yourself to understand better. ἀκάθαρτος: Matt. 10:1, 12:43; Mk. 1:23, 26, 27, 3:11, 30, 5:2, 8, 13, 6:7, 7:25, 9:25; Lk. 4:33, 36, 6:18, 8:29, 9:42, 11:24; Acts 5:16, 8:7, 10:14, 28, 11:8; 1 Cor. 7:14; 2 Cor. 6:17; Eph. 5:5; Rev. 16:13, 17:4, 18:2.
+Everything about uncleanliness related to foul spirits and the foul state. Read and study for yourself to understand better. _ἀκάθαρτος_: Matt. 10:1, 12:43; Mk. 1:23, 26, 27, 3:11, 30, 5:2, 8, 13, 6:7, 7:25, 9:25; Lk. 4:33, 36, 6:18, 8:29, 9:42, 11:24; Acts 5:16, 8:7, 10:14, 28, 11:8; 1 Cor. 7:14; 2 Cor. 6:17; Eph. 5:5; Rev. 16:13, 17:4, 18:2.
 
 ### Topic: Evil spirits
 
-Evil spirits are involved in everythong we do of evil, they are coordinated in the secret/invisible heavens above our heads, learn and be wise, then you will overcome the evil in your life. πονηρία: Matt. 22:18; Mk. 7:22; Lk. 11:39; Acts 3:26; Rom. 1:29; 1 Cor. 5:8; Eph. 6:12. πονηρός: Matt. 5:11, 37, 39, 45, 6:13, 23, 7:11, 17, 18, 9:4, 12:34, 35, 39, 45, 13:19, 38, 49, 15:19, 16:4, 18:32, 20:15, 22:10, 25:26; Mk. 7:22, 23; Lk. 3:19, 6:22, 35, 45, 7:21, 8:2, 11:13, 26, 29, 34, 19:22; Jn. 3:19, 7:7, 17:15; Acts 17:5, 18:14, 19:12, 13, 15, 16, 25:18, 28:21; Rom. 12:9; 1 Cor. 5:13; Gal. 1:4; Eph. 5:16, 6:13, 16; Col. 1:21; 1 Thess. 5:22; 2 Thess. 3:2, 3; 1 Tim. 6:4; 2 Tim. 3:13, 4:18; Heb. 3:12, 10:22; Jas. 2:4, 4:16; 1 Jn. 2:13, 14, 3:12, 5:18, 19; 2 Jn. 1:11; 3 Jn. 1:10; Rev. 16:2.
+Evil spirits are involved in everythong we do of evil, they are coordinated in the secret/invisible heavens above our heads, learn and be wise, then you will overcome the evil in your life. _πονηρία_: Matt. 22:18; Mk. 7:22; Lk. 11:39; Acts 3:26; Rom. 1:29; 1 Cor. 5:8; Eph. 6:12. _πονηρός_: Matt. 5:11, 37, 39, 45, 6:13, 23, 7:11, 17, 18, 9:4, 12:34, 35, 39, 45, 13:19, 38, 49, 15:19, 16:4, 18:32, 20:15, 22:10, 25:26; Mk. 7:22, 23; Lk. 3:19, 6:22, 35, 45, 7:21, 8:2, 11:13, 26, 29, 34, 19:22; Jn. 3:19, 7:7, 17:15; Acts 17:5, 18:14, 19:12, 13, 15, 16, 25:18, 28:21; Rom. 12:9; 1 Cor. 5:13; Gal. 1:4; Eph. 5:16, 6:13, 16; Col. 1:21; 1 Thess. 5:22; 2 Thess. 3:2, 3; 1 Tim. 6:4; 2 Tim. 3:13, 4:18; Heb. 3:12, 10:22; Jas. 2:4, 4:16; 1 Jn. 2:13, 14, 3:12, 5:18, 19; 2 Jn. 1:11; 3 Jn. 1:10; Rev. 16:2.
 
 ### Topic: Malice as evil
 
-Malice is a form of lesser evil than πονηρία (_ponēria_) but still very dangerous, give yourself time to cleanse your heart of evil thoughts. κακοήθεια: Rom. 1:29. κακός: Matt. 9:16, 12:45, 21:41, 24:48, 27:23, 64; Mk. 2:21, 5:26, 7:21, 15:14; Lk. 11:26, 16:25, 23:22; Jn. 5:14, 18:23, 30; Acts 9:13, 16:28, 23:9, 28:5; Rom. 1:30, 2:9, 3:8, 7:19, 21, 12:17, 21, 13:3, 4, 10, 14:20, 16:19; 1 Cor. 10:6, 13:5, 15:33; 2 Cor. 13:7; Phil. 3:2; Col. 3:5; 1 Thess. 5:15; 1 Tim. 5:8, 6:10; 2 Tim. 3:13, 4:14; Tit. 1:12; Heb. 5:14, 10:29; Jas. 1:13, 3:8; 1 Pet. 3:9, 10, 11, 12; 2 Pet. 2:20; 3 Jn. 1:11; Rev. 2:2, 16:2. κακία: Matt. 6:34; Acts 8:22; Rom. 1:29; 1 Cor. 5:8, 14:20; Eph. 4:31; Col. 3:8; Tit. 3:3; Jas. 1:21; 1 Pet. 2:1, 16.
+Malice is a form of lesser evil than πονηρία (_ponēria_) but still very dangerous, give yourself time to cleanse your heart of evil thoughts. _κακοήθεια_: Rom. 1:29. _κακός_: Matt. 9:16, 12:45, 21:41, 24:48, 27:23, 64; Mk. 2:21, 5:26, 7:21, 15:14; Lk. 11:26, 16:25, 23:22; Jn. 5:14, 18:23, 30; Acts 9:13, 16:28, 23:9, 28:5; Rom. 1:30, 2:9, 3:8, 7:19, 21, 12:17, 21, 13:3, 4, 10, 14:20, 16:19; 1 Cor. 10:6, 13:5, 15:33; 2 Cor. 13:7; Phil. 3:2; Col. 3:5; 1 Thess. 5:15; 1 Tim. 5:8, 6:10; 2 Tim. 3:13, 4:14; Tit. 1:12; Heb. 5:14, 10:29; Jas. 1:13, 3:8; 1 Pet. 3:9, 10, 11, 12; 2 Pet. 2:20; 3 Jn. 1:11; Rev. 2:2, 16:2. _κακία_: Matt. 6:34; Acts 8:22; Rom. 1:29; 1 Cor. 5:8, 14:20; Eph. 4:31; Col. 3:8; Tit. 3:3; Jas. 1:21; 1 Pet. 2:1, 16.
 
 
 
