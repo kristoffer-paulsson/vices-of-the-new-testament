@@ -55,7 +55,7 @@
 ἔρις (_eris_) i. quarrel ii. rivalry,
 εὐτραπελία (_eutrapelia_) sex-slander,
 ἐφευρετής κακός (_epheuretēs kakos_) maleficent contriver,
-ἔχθρα (_echthra_) hostility,
+ἔχθρα (_echthra_) i. hostility ii. enmity,
 ζῆλος (_zēlos_) fanaticism,
 ἡδονή (_hēdonē_) i. overindulgence ii. sensuality,
 θεοστυγής (_theostygēs_) god-hating (inconclusive),

@@ -196,7 +196,7 @@ see _drunkenness_, same but about women and wine, specifically the alcohol cultu
 **Drunkenness**,
 μέθη (_methē_):
 Gal. 5:21.
-According to Preisker (TDNT 4:545), μέθυσος denotes "'drunk' (with wine). In early lit. use is restricted to the feminine sex," then μέθη distinguishably denotes "'drink,' … mostly 'over-rich drinking,' … often 'intoxication,' 'drunkenness.'" CD describes _drunkenness_ as "the condition of having lost some control of your actions or behavior under the influence of a drug." Also _drunkenness_  as "the state of being drunk (= under the influence of alcohol)."
+According to Preisker (TDNT 4:545), μέθυσος denotes "'drunk' (with wine). In early lit. use is restricted to the feminine sex," then μέθη distinguishably denotes "'drink,' … mostly 'over-rich drinking,' … often 'intoxication,' 'drunkenness.'" CD describes _intoxication_ as "the condition of having lost some control of your actions or behavior under the influence of a drug." Also _drunkenness_  as "the state of being drunk (= under the influence of alcohol)."
 
 **Egomaniacal**,
 τυφόω (_typhoō_):

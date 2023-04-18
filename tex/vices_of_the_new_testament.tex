@@ -1,0 +1,250 @@
+\documentclass[a4paper,twocolumn,twoside,notitlepage,10pt]{article}
+\usepackage[margin=2cm,columnsep=.5cm]{geometry}
+\usepackage[greek,USenglish]{babel}
+\usepackage[english]{isodate}
+\languageattribute{greek}{ancient}% \usepackage[artemisia]{begingreek}  % https://ctan.math.illinois.edu/macros/latex/contrib/begingreek/begingreek.pdf
+\usepackage{imakeidx}
+%\usepackage[style=sbl]{biblatex}
+% \usepackage[babel]{csquotes}
+% \usepackage{achicago}
+
+\begin{filecontents}{\jobname.bib}
+% https://ftpmirror1.infania.net/mirror/CTAN/macros/latex/contrib/biblatex-contrib/biblatex-sbl/biblatex-sbl-examples.pdf
+%@mvlexicon{TDNT,
+%	editor = {Kittel, Gerhard and Friedrich, Gerhard},
+%	title = {Theological Dictionary of the New Testament},
+%	shorttitle = {TDNT},
+%	translator = {Bromiley, Geoffrey W.},
+%	volumes = {10},
+%	location = {Grand Rapids},
+%	publisher = {Eerdmans},
+%	date = {1964/1976},
+%	shorthand = {TDNT}
+%}
+
+\end{filecontents}
+
+\usepackage{enumitem}
+
+
+
+\title{Vices of the New Testament}
+\author{K.E.D. Paulsson}
+
+% \indexsetup{level=\section, toclevel=\section, noclearpage, headers={\indexname}{\indexname}}
+\indexsetup{level=\section*,toclevel=section}
+\makeindex[name=eng,title=Vices in English,columns=2]
+\makeindex[name=grc,title=Vices in Greek,columns=2]
+
+%\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{0}
+
+
+
+\begin{document}
+\frenchspacing
+\newcommand{\entlbl}[1]{\index[eng]{#1}\label{itm:#1}}
+\newcommand{\entref}[1]{\emph{#1} ~($\rightarrow$~p.~\pageref{itm:#1})}
+\newcommand{\grc}[1]{\greektext{#1}\latintext}
+\newcommand{\cdfoot}[2]{\footnote{\emph{CD}, s.v. ``{#1},'' accessed \printdate{#2}.}}
+%\newcommand{\cdfoot}[2]{\footnote{\emph{Cambridge Dictionary}, s.v. ``{#1},'' accessed \printdate{#2},\\https://dictionary.cambridge.org/dictionary/english/{#1}.}}
+
+\maketitle
+
+\section*{Abstract}
+
+Quotes are implicitly adjusted to follow SBLHS when referencing bible passages.
+
+\section{Abbreviations}
+\begin{description}
+	\item[NT] The New Testament of the Bible.
+	\item[OT] The Old Testament of the Bible.
+	\item[BNM] BibleWorks Greek New Testament Morphology.
+	\item[TDNT] Theological Dictionary of the New Testament (a.k.a. Big Kittels).
+	\item[CD] Cambridge Dictionary accessed online from https://dictionary.cambridge.org/dictionary\\/english/\textlangle entry\textrangle.
+	\item[EB] Encyclopedia Britannica accessed online from https://www.britannica.com/science/\textlangle article\textrangle.
+\end{description}
+
+\section{Introduction}
+
+When citing TDNT, in citation bible references are adapted to SBLHS, and longer Greek quotations have been Romanized for those who are not scholars. The vices described in the entries in the this report are compiled from: Gal 5:19--21; Matt 15:19; Mark 7:21; Rom 1:29--31, 13:13; 1~Tim 1:9--10, 2:8--10, 3:3--11, 3:13; Eph 4:31, 5:3--5; 2~Tim 3:2--4; 1~Cor 5:10--11, 6:9--10; 2~Cor 12:20--21; Titus 1:7, 2:3, 3:3, 3:9; Col 3:5, 3:8--9; Heb 12:15, 12:16, 13:4; 1~Pet 2:1, 4:3; Acts 15:20, 15:29, 21:25; Rev 9:20--21, 21:8, 21:27, 22:15.
+
+\section{List of Vices}
+\begin{description}[leftmargin=0pt]
+  \input{entry/abominable}
+  \input{entry/abomination}
+  \input{entry/abortifacient}
+  \input{entry/absurd_speech}
+  \input{entry/abuser}
+  \input{entry/adulterer}
+  \input{entry/adultery}
+  \input{entry/arrogant}
+  \input{entry/avaricious}
+  \input{entry/beguile}
+  \input{entry/betrayer}
+  \input{entry/bitterness}
+  \input{entry/blasphemy_conduct}
+  \input{entry/blasphemy_state}
+  \input{entry/blood}
+  \input{entry/boozing}
+  \input{entry/brutal_violence}
+  \input{entry/calumniator}
+  \input{entry/carouse}
+  \input{entry/catamite_inconclusive}
+  \input{entry/choked}
+  \input{entry/clamor}
+  \input{entry/common}
+  \input{entry/covetousness}
+  \input{entry/craving}
+  \input{entry/deceiving}
+  \input{entry/defamatory}
+  \input{entry/demon_worship}
+  \input{entry/disinforming}
+  \input{entry/disobedient_to_parents}
+  \input{entry/disobedient}
+  \input{entry/dissipated}
+  \input{entry/disunity}
+  \input{entry/drugs}
+  \input{entry/drunkenness_woman}
+  \input{entry/drunkenness}
+  \input{entry/egomaniacal}
+  \input{entry/egotist}
+  \input{entry/enmity}
+  \input{entry/ensnaring}
+  \input{entry/erotic_perversion}
+  \input{entry/evil}
+  \input{entry/exterminator}
+  \input{entry/extortionary}
+  \input{entry/false_assertion}
+  \input{entry/falsehood}
+  \input{entry/fanaticism}
+  \input{entry/father-murderer}
+  \input{entry/festival}
+  \input{entry/foolishness}
+  \input{entry/foul_conduct}
+  \input{entry/foul_state}
+  \input{entry/fraudster}
+  \input{entry/fraud}
+  \input{entry/gay-partner}
+  \input{entry/god-hating_inconclusive}
+  \input{entry/gossipmonger}
+  \input{entry/gossip}
+  \input{entry/greed}
+  \input{entry/hateful}
+  \input{entry/haughty_disdain_conduct}
+  \input{entry/haughty_disdain_state}
+  \input{entry/hostility}
+  \input{entry/hubris}
+  \input{entry/husband-murderer}
+  \input{entry/hypocrisy}
+  \input{entry/idolater}
+  \input{entry/idolatry}
+  \input{entry/idol_meat}
+  \input{entry/idol_pollution}
+  \input{entry/idol_worship}
+  \input{entry/impious}
+  \input{entry/irreconcilable}
+  \input{entry/irreverent}
+  \input{entry/kidnapper}
+  \input{entry/killing}
+  \input{entry/lawless}
+  \input{entry/liar}
+  \input{entry/loving_pleasure_rather_than_loving_God}
+  \input{entry/lunacy}
+  \input{entry/magician}
+  \input{entry/maleficent_contriver}
+  \input{entry/maleficent_craving}
+  \input{entry/maleficent_eye}
+  \input{entry/male-prostitute}
+  \input{entry/male-sex-buyer}
+  \input{entry/malevolence}
+  \input{entry/malice}
+  \input{entry/miscomprehension}
+  \input{entry/mockery}
+  \input{entry/money-phile}
+  \input{entry/mother-murderer}
+  \input{entry/murderer}
+  \input{entry/nests_multiple}
+  \input{entry/oppressor}
+  \input{entry/outburst}
+  \input{entry/outcry}
+  \input{entry/overindulgence}
+  \input{entry/perjured}
+  \input{entry/polygamy}
+  \input{entry/potions}
+  \input{entry/pretender}
+  \input{entry/prostitution}
+  \input{entry/quarrel}
+  \input{entry/rage}
+  \input{entry/rashness}
+  \input{entry/rebellious}
+  \input{entry/revel}
+  \input{entry/revenge}
+  \input{entry/rivalry}
+  \input{entry/sectarianism}
+  \input{entry/selfishness}
+  \input{entry/selfish_triumph}
+  \input{entry/self-seeking}
+  \input{entry/sensuality}
+  \input{entry/sex-purchase}
+  \input{entry/sex-slander}
+  \input{entry/she-devil}
+  \input{entry/sinner}
+  \input{entry/slanderer}
+  \input{entry/slander}
+  \input{entry/sordid_calumny}
+  \input{entry/sordid_gain}
+  \input{entry/sordid}
+  \input{entry/spells}
+  \input{entry/stealing_act_of}
+  \input{entry/thief}
+  \input{entry/timid}
+  \input{entry/trafficker}
+  \input{entry/unaffectionate}
+  \input{entry/uncommitted}
+  \input{entry/unfaithful}
+  \input{entry/ungrateful}
+  \input{entry/unmerciful}
+  \input{entry/unrighteousness}
+  \input{entry/unscrupulous_competition}
+  \input{entry/unscrupulous_encroaching}
+  \input{entry/uproar}
+  \input{entry/vicious}
+  \input{entry/wannabe}
+  \input{entry/wine_abstinence}
+  \input{entry/wine_romp}
+  \input{entry/witchcraft_use_of}
+  \input{entry/worldly}
+  \input{entry/wrath}
+\end{description}
+\clearpage
+
+
+\section{Congregational Protection}
+\section{Avoidance Exclusion}
+\section{Grace Exclusion}
+\section{Heavenly Exclusion}
+\section{Topic: Foul (state)}
+\section{Topic: Evil Spirits}
+\section{Topic: Malice as Evil}
+\section{Eschatological Vices}
+
+\section{Conclusion}
+
+\section{Bibliography}
+\begin{description}
+	\item Bushell, Michael S., Jean-Noel Aletti and Andrzej Gieniusz. \emph{BibleWorks Greek New Testament Morphology (BNM)}. 1999-2001. \emph{BibleWorks 10.0.8.755} BibleWorks, 2017.
+	\item Kittel, Gerhard, and Gerhard Friedrich, eds. \emph{Theological Dictionary of the New Testament}. Translated by Geoffrey W. Bromiley. 10 vols. Grand Rapids: Eerdmans, 1964--1976.
+	\item Henry George Liddell. Robert Scott.  \emph{A Greek-English Lexicon}. revised and augmented throughout by. Sir Henry Stuart Jones. with the assistance of. Roderick McKenzie. Oxford: Clarendon Press, 1940.
+	\item Thayer, Joseph Henry. \emph{Greek-English Lexicon of the New Testament}. 4th ed. Edinburgh: T. \& T. Clark, 1896.
+	\item Lewis, Charlton T., and Charles Short. \emph{A Latin Dictionary Founded on Andrew's Edition of Freund's Latin Dictionary}. LL.D. Oxford: Clarendon Press, 1879.
+	\item \emph{Cambridge Dictionary}, 2023 years edition. (Internet). Cambridge: Cambridge University Press \& Assessment, 2023.\\ https://dictionary.cambridge.org/.
+	\item  \emph{Encyclopedia Britannica}, T. Editors of Encyclopaedia, 2023 years edition. (Internet). Chicago: Encyclopædia Britannica, Inc, 2023.\\https://www.britannica.com/.
+\end{description}
+
+\onecolumn
+\printindex[eng]
+\printindex[grc]
+
+
+\end{document}
