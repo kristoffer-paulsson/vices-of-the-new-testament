@@ -1,2 +1,10 @@
 *.backup
 *.iml
+/out
+
+*.idx
+*.ilg
+*.ind
+*.aux
+*.bib
+*.log
