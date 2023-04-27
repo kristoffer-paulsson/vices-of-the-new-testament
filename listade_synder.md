@@ -5,8 +5,8 @@ Studier av ord relaterat utifrån bibelverser, passager och stycken.
 https://charlesloder.github.io/greekTransliteration/index.html
 https://codebeautify.org/remove-accents
 
-ē
-ō
+η = ē
+ω = ō
 
 * Gal 5:19 --- πορνεία (porneia): act of prostitution
 * Gal 5:19 --- ἀκαθαρσία (akatharsia): dirt/filth
