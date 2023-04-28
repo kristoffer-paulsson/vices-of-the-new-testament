@@ -4,26 +4,8 @@
 \usepackage[english]{isodate}
 \languageattribute{greek}{ancient}% \usepackage[artemisia]{begingreek}  % https://ctan.math.illinois.edu/macros/latex/contrib/begingreek/begingreek.pdf
 \usepackage{imakeidx}
-%\usepackage[style=sbl]{biblatex}
-% \usepackage[babel]{csquotes}
-% \usepackage{achicago}
-
-\begin{filecontents}{\jobname.bib}
-% https://ftpmirror1.infania.net/mirror/CTAN/macros/latex/contrib/biblatex-contrib/biblatex-sbl/biblatex-sbl-examples.pdf
-%@mvlexicon{TDNT,
-%	editor = {Kittel, Gerhard and Friedrich, Gerhard},
-%	title = {Theological Dictionary of the New Testament},
-%	shorttitle = {TDNT},
-%	translator = {Bromiley, Geoffrey W.},
-%	volumes = {10},
-%	location = {Grand Rapids},
-%	publisher = {Eerdmans},
-%	date = {1964/1976},
-%	shorthand = {TDNT}
-%}
-
-\end{filecontents}
-
+%\usepackage[nopostdot,nogroupskip,nonumberlist]{glossaries-extra}
+\usepackage[automake]{glossaries-extra}
 \usepackage{enumitem}
 
 
@@ -31,12 +13,14 @@
 \title{Vices of the New Testament}
 \author{K.E.D. Paulsson}
 
-% \indexsetup{level=\section, toclevel=\section, noclearpage, headers={\indexname}{\indexname}}
+\glsdisablehyper
+\makeglossaries
+
 \indexsetup{level=\section*,toclevel=section}
+\makeindex[name=vicelist,title=Lists with Vices,columns=2]
 \makeindex[name=eng,title=Vices in English,columns=2]
 \makeindex[name=grc,title=Vices in Greek,columns=2]
 
-%\setcounter{tocdepth}{1}
 \setcounter{secnumdepth}{0}
 
 
@@ -71,11 +55,17 @@
 \frenchspacing
 \newcommand{\entlbl}[1]{\index[eng]{#1}\label{itm:#1}}
 \newcommand{\entref}[1]{\emph{#1} ~($\rightarrow$~p.~\pageref{itm:#1})}
+\newcommand{\entrefgls}[1]{\emph{#1}$\rightarrow$\pageref{itm:#1}}
 \newcommand{\grc}[1]{\greektext{#1}\latintext}
 \newcommand{\cdfoot}[2]{\footnote{\emph{CD}, s.v. ``{#1},'' accessed \printdate{#2}.}}
 \newcommand{\bkfoot}[3]{\footnote{{#3}, ``{#1},'' \emph{TDNT} {#2}.}}
 \newcommand{\bksfoot}[2]{\footnote{{#2}, \emph{TDNT} {#1}.}}
 %\newcommand{\cdfoot}[2]{\footnote{\emph{Cambridge Dictionary}, s.v. ``{#1},'' accessed \printdate{#2},\\https://dictionary.cambridge.org/dictionary/english/{#1}.}}
+
+
+\newcommand{\entgls}[1]{\gls{#1} \glsdesc{#1}}
+
+
 
 \maketitle
 
@@ -131,8 +121,8 @@ The bible references inside the citations has also been adapted to the SBL Style
   \input{entry/deceiving}
   \input{entry/defamatory}
   \input{entry/demon_worship}
-  \input{entry/foul_state}
-  \input{entry/foul_conduct}
+  \input{entry/depravity}
+  \input{entry/depraved}
   \input{entry/disinforming}
   \input{entry/disobedient_to_parents}
   \input{entry/disobedient}
@@ -177,6 +167,7 @@ The bible references inside the citations has also been adapted to the SBL Style
   \input{entry/idol_pollution}
   \input{entry/idol_worship}
   \input{entry/impious}
+  \input{entry/ill-will}
   \input{entry/injure}
   \input{entry/insolent}
   \input{entry/insult}
@@ -255,6 +246,7 @@ The bible references inside the citations has also been adapted to the SBL Style
   \input{entry/wannabe}
   \input{entry/wine_abstinence}
   \input{entry/wine_alcoholic}
+  \input{entry/wine_enslavement}
   \input{entry/wine_romp}
   \input{entry/witchcraft_use_of}
   \input{entry/wrath}
@@ -270,6 +262,8 @@ The bible references inside the citations has also been adapted to the SBL Style
 \section{Topic: Evil Spirits}
 \section{Topic: Malice as Evil}
 \section{Eschatological Vices}
+
+\input{section/all_lists}
 
 \section{Conclusion}
 
@@ -313,8 +307,10 @@ The bible references inside the citations has also been adapted to the SBL Style
 \end{description}
 
 \onecolumn
+\printindex[vicelist]
 \printindex[eng]
 \printindex[grc]
 
+\printglossaries
 
 \end{document}

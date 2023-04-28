@@ -222,10 +222,11 @@ Know ye not that the unrighteous shall not inherit the kingdom of God? (1 Cor. 6
 "Bishops."
 
 * Tit 2:3 --- διαβόλους (diabolous): shedevils
-* Tit 2:3 --- οἴνῳ πολλῷ δεδουλωμένας (oinō pollō dedoulōmenas): heavily enclosed to wine
+* Tit 2:3 --- οἶνος πολύς δουλόω (oinō pollō dedoulōmenas): heavily enclosed to wine
 
 * Tit 3:3 --- ἀνόητος (anoētos): sensless
 * Tit 3:3 --- ἀπειθής (apeithēs): disobediance
+* Tit 3:3 --- πλανάω (): lead astray deceive
 * Tit 3:3 --- ἐπιθυμία (epithymia) thoughtless desire
 * Tit 3:3 --- ἡδονή (hēdonē): bodily pleasures
 * Tit 3:3 --- κακία (kakia): malignity
