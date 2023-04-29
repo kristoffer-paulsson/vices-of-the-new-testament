@@ -50,11 +50,12 @@
 \def \tdntRengstorf{Rengstorf, Karl Heinrich}
 \def \tdntKittel{Kittel, Gerhard}
 \def \tdntSchrenk{Schrenk, Gottlob}
+\def \tdntGoppelt{Goppelt, Leonhard}
 
 \begin{document}
 \frenchspacing
 \newcommand{\entlbl}[1]{\index[eng]{#1}\label{itm:#1}}
-\newcommand{\entref}[1]{\emph{#1} ~($\rightarrow$~p.~\pageref{itm:#1})}
+\newcommand{\entref}[1]{\emph{#1} ~($\rightarrow$~\pageref{itm:#1})}
 \newcommand{\entrefgls}[1]{\emph{#1}$\rightarrow$\pageref{itm:#1}}
 \newcommand{\grc}[1]{\greektext{#1}\latintext}
 \newcommand{\cdfoot}[2]{\footnote{\emph{CD}, s.v. ``{#1},'' accessed \printdate{#2}.}}
@@ -64,6 +65,7 @@
 
 
 \newcommand{\entgls}[1]{\gls{#1} \glsdesc{#1}}
+\newcommand{\entglos}[1]{\\\textbf{\gls{#1}} \glsdesc{#1}}
 
 
 
@@ -89,8 +91,10 @@ Quotes are implicitly adjusted to follow SBLHS when referencing bible passages.
 When citing TDNT, Liddell or Thayer it has been decided to within the quotation to use transliterated greek in italics, in citation bible references are adapted to SBLHS, and longer Greek quotations have been Romanized for those who are not scholars. The vices described in the entries in the this report are compiled from: Gal 5:19--21; Matt 15:19; Mark 7:21; Rom 1:29--31, 13:13; 1~Tim 1:9--10, 2:8--10, 3:3--11, 3:13; Eph 4:31, 5:3--5; 2~Tim 3:2--4; 1~Cor 5:10--11, 6:9--10; 2~Cor 12:20--21; Titus 1:7, 2:3, 3:3, 3:9; Col 3:5, 3:8--9; Heb 12:15, 12:16, 13:4; 1~Pet 2:1, 4:3; Acts 15:20, 15:29, 21:25; Rev 9:20--21, 21:8, 21:27, 22:15.
 The bible references inside the citations has also been adapted to the SBL Style Handbook.
  Also, the word \grc{πάροινος} is incorrectly cited by BibleWorks 10 compared to the real Liddell \& Scott.
+ 
+ Totally 126 unique original sins and not less than X ....
 
-\section{List of Vices}
+\section{Vice Entries}
 \begin{description}[leftmargin=0pt]
   \input{entry/abominable}
   \input{entry/abomination}
@@ -123,6 +127,7 @@ The bible references inside the citations has also been adapted to the SBL Style
   \input{entry/demon_worship}
   \input{entry/depravity}
   \input{entry/depraved}
+  \input{entry/devil}
   \input{entry/disinforming}
   \input{entry/disobedient_to_parents}
   \input{entry/disobedient}
@@ -222,7 +227,6 @@ The bible references inside the citations has also been adapted to the SBL Style
   \input{entry/shameful}
   \input{entry/shameful_gain}
   \input{entry/shameful_talk}
-  \input{entry/she-devil}
   \input{entry/sinner}
   \input{entry/slanderer}
   \input{entry/slander}
@@ -248,22 +252,22 @@ The bible references inside the citations has also been adapted to the SBL Style
   \input{entry/wine_alcoholic}
   \input{entry/wine_enslavement}
   \input{entry/wine_romp}
+  \input{entry/witchbrew}
   \input{entry/witchcraft_use_of}
   \input{entry/wrath}
 \end{description}
-\clearpage
 
-
-\section{Congregational Protection}
-\section{Avoidance Exclusion}
-\section{Grace Exclusion}
-\section{Heavenly Exclusion}
-\section{Topic: Foul (state)}
-\section{Topic: Evil Spirits}
-\section{Topic: Malice as Evil}
-\section{Eschatological Vices}
+\input{section/congregational_protection}
+\input{section/avoidance_exclusion}
+\input{section/grace_exclusion}
+\input{section/heavenly_exclusion}
+\input{section/topic_depravement}
+\input{section/topic_evil_spirits}
+\input{section/topic_malice_evil}
+\input{section/vices_of_eschatology}
 
 \input{section/all_lists}
+\input{section/vice_index}
 
 \section{Conclusion}
 
@@ -276,9 +280,10 @@ The bible references inside the citations has also been adapted to the SBL Style
 	\item Lewis, Charlton T., and Charles Short. \emph{A Latin Dictionary Founded on Andrew's Edition of Freund's Latin Dictionary}. LL.D. Oxford: Clarendon Press, 1879.
 	\item \emph{Cambridge Dictionary}, 2023 years edition. (Internet). Cambridge: Cambridge University Press \& Assessment, 2023.\\ https://dictionary.cambridge.org/.
 	\item \emph{Encyclopedia Britannica}, T. Editors of Encyclopaedia, 2023 years edition. (Internet). Chicago: Encyclopædia Britannica, Inc, 2023.\\https://www.britannica.com/.
-	\item Loder, Charles. \emph{Greek Transliteration}. (Internet). 2022. \emph{greek-transliteration v2.0.0} Greek Transliteration, 2023.\\https://charlesloder.github.io/greekTransliteration/index.html
+	\item Loder, Charles. \emph{Greek Transliteration}. (Internet). 2022. \emph{greek-transliteration v2.0.0} Greek Transliteration, 2023. https://charlesloder.github.io\\/greekTransliteration/index.html
 \end{description}
 
+\section{Greek Antiquities}
 \begin{description} % brutal (violence)
     \item Plato. \emph{Platonis Opera}, ed. John Burnet. Oxford University Press. 1903.
     \item Plato. \emph{Plato in Twelve Volumes, Vols. 5 \& 6 translated by Paul Shorey}. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1969.
@@ -307,10 +312,8 @@ The bible references inside the citations has also been adapted to the SBL Style
 \end{description}
 
 \onecolumn
-\printindex[vicelist]
-\printindex[eng]
-\printindex[grc]
-
-\printglossaries
+% \printindex[vicelist]
+% \printindex[eng]
+%\printindex[grc]
 
 \end{document}

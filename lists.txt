@@ -1,0 +1,396 @@
+Mat 15:19; Mar 7:21-22; Act 15:20; Act 15:29; Act 21:25; Rom 1:29-31; Rom 13:13; 1Co 5:10-11; 1Co 6:9-10; 2Co 12:20-21; Eph 4:31; Eph 5:3-5; Gal 5:19-21; 1Ti 1:9-10; 1Ti 1:13; 1Ti 3:3; 1Ti 3:6; 1Ti 3:8; 1Ti 3:11; 2Ti 3:2-4; Tit 1:7; Tit 2:3; Tit 3:3; Col 3:5; Col 3:8-9; Heb 12:15-16; Heb 13:4; 1Pe 2:1; 1Pe 4:3; Rev 9:20-21; Rev 21:8; Rev 21:27; Rev 22:15;
+
+______________________________
+
+ASV Matthew 15:19 For out of the heart come forth evil thoughts, murders, adulteries, fornications, thefts, false witness, railings:
+
+BGT Matthew 15:19 ἐκ γὰρ τῆς καρδίας ἐξέρχονται διαλογισμοὶ πονηροί, φόνοι, μοιχεῖαι, πορνεῖαι, κλοπαί, ψευδομαρτυρίαι, βλασφημίαι.
+
+BGM Matthew 15:19 ἐκ@pg γάρ@cc ὁ@dgfs καρδία@ngfsc ἐξέρχομαι@vipm3p διαλογισμός@nnmpc πονηρός@annmpn φόνος@nnmpc μοιχεία@nnfpc πορνεία@nnfpc κλοπή@nnfpc ψευδομαρτυρία@nnfpc βλασφημία@nnfpc
+
+______________________________
+
+ASV Mark 7:21 For from within, out of the heart of men, evil thoughts proceed, fornications, thefts, murders, adulteries,
+
+BGT Mark 7:21 ἔσωθεν γὰρ ἐκ τῆς καρδίας τῶν ἀνθρώπων οἱ διαλογισμοὶ οἱ κακοὶ ἐκπορεύονται, πορνεῖαι, κλοπαί, φόνοι,
+
+BGM Mark 7:21 ἔσωθεν@b γάρ@cc ἐκ@pg ὁ@dgfs καρδία@ngfsc ὁ@dgmp ἄνθρωπος@ngmpc ὁ@dnmp διαλογισμός@nnmpc ὁ@dnmp κακός@annmpn ἐκπορεύομαι@vipm3p πορνεία@nnfpc κλοπή@nnfpc φόνος@nnmpc
+
+______________________________
+
+ASV Mark 7:21 For from within, out of the heart of men, evil thoughts proceed, fornications, thefts, murders, adulteries, 22 covetings, wickednesses, deceit, lasciviousness, an evil eye, railing, pride, foolishness:
+
+BGT Mark 7:22 μοιχεῖαι, πλεονεξίαι, πονηρίαι, δόλος, ἀσέλγεια, ὀφθαλμὸς πονηρός, βλασφημία, ὑπερηφανία, ἀφροσύνη·
+
+BGM Mark 7:22 μοιχεία@nnfpc πλεονεξία@nnfpc πονηρία@nnfpc δόλος@nnmsc ἀσέλγεια@nnfsc ὀφθαλμός@nnmsc πονηρός@annmsn βλασφημία@nnfsc ὑπερηφανία@nnfsc ἀφροσύνη@nnfsc
+
+______________________________
+
+ASV Acts 15:20 but that we write unto them, that they abstain from the pollutions of idols, and from fornication, and from what is strangled, and from blood.
+
+BGT Acts 15:20 ἀλλ᾽ ἐπιστεῖλαι αὐτοῖς τοῦ ἀπέχεσθαι τῶν ἀλισγημάτων τῶν εἰδώλων καὶ τῆς πορνείας καὶ τοῦ πνικτοῦ καὶ τοῦ αἵματος.
+
+BGM Acts 15:20 ἀλλά@cc ἐπιστέλλω@vnaa αὐτός@rpdmp ὁ@dgns ἀπέχω@vnpm ὁ@dgnp ἀλίσγημα@ngnpc ὁ@dgnp εἴδωλον@ngnpc καί@cc ὁ@dgfs πορνεία@ngfsc καί@cc ὁ@dgns πνικτός@angnsn καί@cc ὁ@dgns αἷμα@ngnsc
+
+______________________________
+
+ASV Acts 15:29 that ye abstain from things sacrificed to idols, and from blood, and from things strangled, and from fornication; from which if ye keep yourselves, it shall be well with you. Fare ye well.
+
+BGT Acts 15:29 ἀπέχεσθαι εἰδωλοθύτων καὶ αἵματος καὶ πνικτῶν καὶ πορνείας, ἐξ ὧν διατηροῦντες ἑαυτοὺς εὖ πράξετε. Ἔρρωσθε.
+
+BGM Acts 15:29 ἀπέχω@vnpm εἰδωλόθυτος@angnpn καί@cc αἷμα@ngnsc καί@cc πνικτός@angnpn καί@cc πορνεία@ngfsc ἐκ@pg ὅς@rrgnp διατηρέω@vppanmp ἑαυτοῦ@rxamp εὖ@b πράσσω@vifa2p ῥώννυμι@vdxp2p
+
+______________________________
+
+ASV Acts 21:25 But as touching the Gentiles that have believed, we wrote, giving judgment that they should keep themselves from things sacrificed to idols, and from blood, and from what is strangled, and from fornication.
+
+BGT Acts 21:25 περὶ δὲ τῶν πεπιστευκότων ἐθνῶν ἡμεῖς ἐπεστείλαμεν κρίναντες φυλάσσεσθαι αὐτοὺς τό τε εἰδωλόθυτον καὶ αἷμα καὶ πνικτὸν καὶ πορνείαν.
+
+BGM Acts 21:25 περί@pg δέ@cc ὁ@dgnp πιστεύω@vpxagnp ἔθνος@ngnpc ἐγώ@rpn-p ἐπιστέλλω@viaa1p κρίνω@vpaanmp φυλάσσω@vnpm αὐτός@rpamp ὁ@dans τέ@cc εἰδωλόθυτος@anansn καί@cc αἷμα@nansc καί@cc πνικτός@anansn καί@cc πορνεία@nafsc
+
+______________________________
+
+ASV Romans 1:29 being filled with all unrighteousness, wickedness, covetousness, maliciousness; full of envy, murder, strife, deceit, malignity; whisperers,
+
+BGT Romans 1:29 πεπληρωμένους πάσῃ ἀδικίᾳ πονηρίᾳ πλεονεξίᾳ κακίᾳ, μεστοὺς φθόνου φόνου ἔριδος δόλου κακοηθείας, ψιθυριστὰς
+
+BGM Romans 1:29 πληρόω@vpxpamp πᾶς@aidfsn ἀδικία@ndfsc πονηρία@ndfsc πλεονεξία@ndfsc κακία@ndfsc μεστός@anampn φθόνος@ngmsc φόνος@ngmsc ἔρις@ngfsc δόλος@ngmsc κακοήθεια@ngfsc ψιθυριστής@nampc
+
+______________________________
+
+ASV Romans 1:30 backbiters, hateful to God, insolent, haughty, boastful, inventors of evil things, disobedient to parents,
+
+BGT Romans 1:30 καταλάλους θεοστυγεῖς ὑβριστὰς ὑπερηφάνους ἀλαζόνας, ἐφευρετὰς κακῶν, γονεῦσιν ἀπειθεῖς,
+
+BGM Romans 1:30 κατάλαλος@anampn θεοστυγής@anampn ὑβριστής@nampc ὑπερήφανος@anampn ἀλαζών@nampc ἐφευρετής@nampc κακός@angnpn γονεύς@ndmpc ἀπειθής@anampn
+
+______________________________
+
+ASV Romans 1:31 without understanding, covenant-breakers, without natural affection, unmerciful:
+
+BGT Romans 1:31 ἀσυνέτους ἀσυνθέτους ἀστόργους ἀνελεήμονας·
+
+BGM Romans 1:31 ἀσύνετος@anampn ἀσύνθετος@anampn ἄστοργος@anampn ἀνελεήμων@anampn
+
+______________________________
+
+ASV Romans 13:13 Let us walk becomingly, as in the day; not in revelling and drunkenness, not in chambering and wantonness, not in strife and jealousy.
+
+BGT Romans 13:13 ὡς ἐν ἡμέρᾳ εὐσχημόνως περιπατήσωμεν, μὴ κώμοις καὶ μέθαις, μὴ κοίταις καὶ ἀσελγείαις, μὴ ἔριδι καὶ ζήλῳ,
+
+BGM Romans 13:13 ὡς@cs ἐν@pd ἡμέρα@ndfsc εὐσχημόνως@b περιπατέω@vsaa1p μή@x κῶμος@ndmpc καί@cc μέθη@ndfpc μή@x κοίτη@ndfpc καί@cc ἀσέλγεια@ndfpc μή@x ἔρις@ndfsc καί@cc ζῆλος@ndmsc
+
+______________________________
+
+ASV 1 Corinthians 5:10 not at all meaning with the fornicators of this world, or with the covetous and extortioners, or with idolaters; for then must ye needs go out of the world:
+
+BGT 1 Corinthians 5:10 οὐ πάντως τοῖς πόρνοις τοῦ κόσμου τούτου ἢ τοῖς πλεονέκταις καὶ ἅρπαξιν ἢ εἰδωλολάτραις, ἐπεὶ ὠφείλετε ἄρα ἐκ τοῦ κόσμου ἐξελθεῖν.
+
+BGM 1 Corinthians 5:10 οὐ@b πάντως@b ὁ@ddmp πόρνος@ndmpc ὁ@dgms κόσμος@ngmsc οὗτος@rdgms ἤ@cc ὁ@ddmp πλεονέκτης@ndmpc καί@cc ἅρπαξ@andmpn ἤ@cc εἰδωλολάτρης@ndmpc ἐπεί@cs ὀφείλω@viia2p ἄρα@x ἐκ@pg ὁ@dgms κόσμος@ngmsc ἐξέρχομαι@vnaa
+
+______________________________
+
+ASV 1 Corinthians 5:11 but as it is, I wrote unto you not to keep company, if any man that is named a brother be a fornicator, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner; with such a one no, not to eat.
+
+BGT 1 Corinthians 5:11 νῦν δὲ ἔγραψα ὑμῖν μὴ συναναμίγνυσθαι ἐάν τις ἀδελφὸς ὀνομαζόμενος ᾖ πόρνος ἢ πλεονέκτης ἢ εἰδωλολάτρης ἢ λοίδορος ἢ μέθυσος ἢ ἅρπαξ, τῷ τοιούτῳ μηδὲ συνεσθίειν.
+
+BGM 1 Corinthians 5:11 νῦν@b δέ@cc γράφω@viaa1s σύ@rpd-p μή@x συναναμίγνυμι@vnpe ἐάν@cs τὶς@rinms ἀδελφός@nnmsc ὀνομάζω@vpppnms εἰμί@vspa3s πόρνος@nnmsc ἤ@cc πλεονέκτης@nnmsc ἤ@cc εἰδωλολάτρης@nnmsc ἤ@cc λοίδορος@nnmsc ἤ@cc μέθυσος@nnmsc ἤ@cc ἅρπαξ@annmsn ὁ@ddms τοιοῦτος@addmsn μηδέ@x συνεσθίω@vnpa
+
+______________________________
+
+ASV 1 Corinthians 6:9 Or know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with men,
+
+BGT 1 Corinthians 6:9 Ἢ οὐκ οἴδατε ὅτι ἄδικοι θεοῦ βασιλείαν οὐ κληρονομήσουσιν; μὴ πλανᾶσθε· οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται
+
+BGM 1 Corinthians 6:9 ἤ@cc οὐ@b οἶδα@vixa2p ὅτι@cs ἄδικος@annmpn θεός@ngmsc βασιλεία@nafsc οὐ@b κληρονομέω@vifa3p μή@x πλανάω@vdpp2p οὔτε@cc πόρνος@nnmpc οὔτε@cc εἰδωλολάτρης@nnmpc οὔτε@cc μοιχός@nnmpc οὔτε@cc μαλακός@annmpn οὔτε@cc ἀρσενοκοίτης@nnmpc
+
+______________________________
+
+ASV 1 Corinthians 6:10 nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
+
+BGT 1 Corinthians 6:10 οὔτε κλέπται οὔτε πλεονέκται, οὐ μέθυσοι, οὐ λοίδοροι, οὐχ ἅρπαγες βασιλείαν θεοῦ κληρονομήσουσιν.
+
+BGM 1 Corinthians 6:10 οὔτε@cc κλέπτης@nnmpc οὔτε@cc πλεονέκτης@nnmpc οὐ@b μέθυσος@nnmpc οὐ@b λοίδορος@nnmpc οὐ@b ἅρπαξ@annmpn βασιλεία@nafsc θεός@ngmsc κληρονομέω@vifa3p
+
+______________________________
+
+ASV 2 Corinthians 12:20 For I fear, lest by any means, when I come, I should find you not such as I would, and should myself be found of you such as ye would not; lest by any means there should be strife, jealousy, wraths, factions, backbitings, whisperings, swellings, tumults;
+
+BGT 2 Corinthians 12:20 φοβοῦμαι γὰρ μή πως ἐλθὼν οὐχ οἵους θέλω εὕρω ὑμᾶς κἀγὼ εὑρεθῶ ὑμῖν οἷον οὐ θέλετε· μή πως ἔρις, ζῆλος, θυμοί, ἐριθεῖαι, καταλαλιαί, ψιθυρισμοί, φυσιώσεις, ἀκαταστασίαι·
+
+BGM 2 Corinthians 12:20 φοβέω@vipm1s γάρ@cc μή@x πώς@b ἔρχομαι@vpaanms οὐ@b οἷος@rramp θέλω@vipa1s εὑρίσκω@vsaa1s σύ@rpa-p καί+ἐγώ@cc&rpn-s εὑρίσκω@vsap1s σύ@rpd-p οἷος@rrams οὐ@b θέλω@vipa2p μή@x πώς@b ἔρις@nnfsc ζῆλος@nnmsc/nnnsc θυμός@nnmpc ἐριθεία@nnfpc καταλαλιά@nnfpc ψιθυρισμός@nnmpc φυσίωσις@nnfpc ἀκαταστασία@nnfpc
+
+______________________________
+
+ASV 2 Corinthians 12:21 lest again when I come my God should humble me before you, and I should mourn for many of them that have sinned heretofore, and repented not of the uncleanness and fornication and lasciviousness which they committed.
+
+BGT 2 Corinthians 12:21 μὴ πάλιν ἐλθόντος μου ταπεινώσῃ με ὁ θεός μου πρὸς ὑμᾶς καὶ πενθήσω πολλοὺς τῶν προημαρτηκότων καὶ μὴ μετανοησάντων ἐπὶ τῇ ἀκαθαρσίᾳ καὶ πορνείᾳ καὶ ἀσελγείᾳ ᾗ ἔπραξαν.
+
+BGM 2 Corinthians 12:21 μή@x πάλιν@b ἔρχομαι@vpaagms ἐγώ@rpg-s ταπεινόω@vsaa3s ἐγώ@rpa-s ὁ@dnms θεός@nnmsc ἐγώ@rpg-s πρός@pa σύ@rpa-p καί@cc πενθέω@vsaa1s πολύς@anampn ὁ@dgmp προαμαρτάνω@vpxagmp καί@cc μή@x μετανοέω@vpaagmp ἐπί@pd ὁ@ddfs ἀκαθαρσία@ndfsc καί@cc πορνεία@ndfsc καί@cc ἀσέλγεια@ndfsc ὅς@rrdfs πράσσω@viaa3p
+
+______________________________
+
+ASV Ephesians 4:31 Let all bitterness, and wrath, and anger, and clamor, and railing, be put away from you, with all malice:
+
+BGT Ephesians 4:31 πᾶσα πικρία καὶ θυμὸς καὶ ὀργὴ καὶ κραυγὴ καὶ βλασφημία ἀρθήτω ἀφ᾽ ὑμῶν σὺν πάσῃ κακίᾳ.
+
+BGM Ephesians 4:31 πᾶς@ainfsn πικρία@nnfsc καί@cc θυμός@nnmsc καί@cc ὀργή@nnfsc καί@cc κραυγή@nnfsc καί@cc βλασφημία@nnfsc αἴρω@vdap3s ἀπό@pg σύ@rpg-p σύν@pd πᾶς@aidfsn κακία@ndfsc
+
+______________________________
+
+ASV Ephesians 5:3 But fornication, and all uncleanness, or covetousness, let it not even be named among you, as becometh saints;
+
+BGT Ephesians 5:3 Πορνεία δὲ καὶ ἀκαθαρσία πᾶσα ἢ πλεονεξία μηδὲ ὀνομαζέσθω ἐν ὑμῖν, καθὼς πρέπει ἁγίοις,
+
+BGM Ephesians 5:3 πορνεία@nnfsc δέ@cc καί@cc ἀκαθαρσία@nnfsc πᾶς@ainfsn ἤ@cc πλεονεξία@nnfsc μηδέ@x ὀνομάζω@vdpp3s ἐν@pd σύ@rpd-p καθώς@cs πρέπω@vipa3s ἅγιος@andmpn
+
+______________________________
+
+ASV Ephesians 5:4 nor filthiness, nor foolish talking, or jesting, which are not befitting: but rather giving of thanks.
+
+BGT Ephesians 5:4 καὶ αἰσχρότης καὶ μωρολογία ἢ εὐτραπελία, ἃ οὐκ ἀνῆκεν, ἀλλὰ μᾶλλον εὐχαριστία.
+
+BGM Ephesians 5:4 καί@cc αἰσχρότης@nnfsc καί@cc μωρολογία@nnfsc ἤ@cc εὐτραπελία@nnfsc ὅς@rrnnp οὐ@b ἀνήκω@viia3s ἀλλά@cc μᾶλλον@b εὐχαριστία@nnfsc
+
+______________________________
+
+ASV Ephesians 5:5 For this ye know of a surety, that no fornicator, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and God.
+
+BGT Ephesians 5:5 τοῦτο γὰρ ἴστε γινώσκοντες, ὅτι πᾶς πόρνος ἢ ἀκάθαρτος ἢ πλεονέκτης, ὅ ἐστιν εἰδωλολάτρης, οὐκ ἔχει κληρονομίαν ἐν τῇ βασιλείᾳ τοῦ Χριστοῦ καὶ θεοῦ.
+
+BGM Ephesians 5:5 οὗτος@rdans γάρ@cc οἶδα@vdxa2p/vixa2p γινώσκω@vppanmp ὅτι@cs πᾶς@ainmsn πόρνος@nnmsc ἤ@cc ἀκάθαρτος@annmsn ἤ@cc πλεονέκτης@nnmsc ὅς@rrnns εἰμί@vipa3s εἰδωλολάτρης@nnmsc οὐ@b ἔχω@vipa3s κληρονομία@nafsc ἐν@pd ὁ@ddfs βασιλεία@ndfsc ὁ@dgms Χριστός@ngmsp καί@cc θεός@ngmsc
+
+______________________________
+
+ASV Galatians 5:19 Now the works of the flesh are manifest, which are these: fornication, uncleanness, lasciviousness,
+
+BGT Galatians 5:19 φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια,
+
+BGM Galatians 5:19 φανερός@annnpn δέ@cc εἰμί@vipa3s ὁ@dnnp ἔργον@nnnpc ὁ@dgfs σάρξ@ngfsc ὅστις@rrnnp εἰμί@vipa3s πορνεία@nnfsc ἀκαθαρσία@nnfsc ἀσέλγεια@nnfsc
+
+______________________________
+
+ASV Galatians 5:20 idolatry, sorcery, enmities, strife, jealousies, wraths, factions, divisions, parties,
+
+BGT Galatians 5:20 εἰδωλολατρία, φαρμακεία, ἔχθραι, ἔρις, ζῆλος, θυμοί, ἐριθεῖαι, διχοστασίαι, αἱρέσεις,
+
+BGM Galatians 5:20 εἰδωλολατρία@nnfsc φαρμακεία@nnfsc ἔχθρα@nnfpc ἔρις@nnfsc ζῆλος@nnmsc/nnnsc θυμός@nnmpc ἐριθεία@nnfpc διχοστασία@nnfpc αἵρεσις@nnfpc
+
+______________________________
+
+ASV Galatians 5:21 envyings, drunkenness, revellings, and such like; of which I forewarn you, even as I did forewarn you, that they who practise such things shall not inherit the kingdom of God.
+
+BGT Galatians 5:21 φθόνοι, μέθαι, κῶμοι καὶ τὰ ὅμοια τούτοις, ἃ προλέγω ὑμῖν, καθὼς προεῖπον ὅτι οἱ τὰ τοιαῦτα πράσσοντες βασιλείαν θεοῦ οὐ κληρονομήσουσιν.
+
+BGM Galatians 5:21 φθόνος@nnmpc μέθη@nnfpc κῶμος@nnmpc καί@cc ὁ@dnnp ὅμοιος@annnpn οὗτος@rddnp ὅς@rranp προλέγω@vipa1s σύ@rpd-p καθώς@cs προλέγω@viaa1s ὅτι@cs ὁ@dnmp ὁ@danp τοιοῦτος@adanpn πράσσω@vppanmp βασιλεία@nafsc θεός@ngmsc οὐ@b κληρονομέω@vifa3p
+
+______________________________
+
+ASV 1 Timothy 1:9 as knowing this, that law is not made for a righteous man, but for the lawless and unruly, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
+
+BGT 1 Timothy 1:9 εἰδὼς τοῦτο, ὅτι δικαίῳ νόμος οὐ κεῖται, ἀνόμοις δὲ καὶ ἀνυποτάκτοις, ἀσεβέσιν καὶ ἁμαρτωλοῖς, ἀνοσίοις καὶ βεβήλοις, πατρολῴαις καὶ μητρολῴαις, ἀνδροφόνοις
+
+BGM 1 Timothy 1:9 οἶδα@vpxanms οὗτος@rdans ὅτι@cs δίκαιος@andmsn νόμος@nnmsc οὐ@b κεῖμαι@vipp3s ἄνομος@andmpn δέ@cc καί@cc ἀνυπότακτος@andmpn ἀσεβής@andmpn καί@cc ἁμαρτωλός@andmpn ἀνόσιος@andmpn καί@cc βέβηλος@andmpn πατρολῴας@ndmpc καί@cc μητρολῴας@ndmpc ἀνδροφόνος@ndmpc
+
+______________________________
+
+ASV 1 Timothy 1:10 for fornicators, for abusers of themselves with men, for menstealers, for liars, for false swearers, and if there be any other thing contrary to the sound doctrine;
+
+BGT 1 Timothy 1:10 πόρνοις ἀρσενοκοίταις ἀνδραποδισταῖς ψεύσταις ἐπιόρκοις, καὶ εἴ τι ἕτερον τῇ ὑγιαινούσῃ διδασκαλίᾳ ἀντίκειται
+
+BGM 1 Timothy 1:10 πόρνος@ndmpc ἀρσενοκοίτης@ndmpc ἀνδραποδιστής@ndmpc ψεύστης@ndmpc ἐπίορκος@andmpn καί@cc εἰ@cs τὶς@rinns ἕτερος@ainnsn ὁ@ddfs ὑγιαίνω@vppadfs διδασκαλία@ndfsc ἀντίκειμαι@vipm3s
+
+______________________________
+
+ASV 1 Timothy 1:13 though I was before a blasphemer, and a persecutor, and injurious: howbeit I obtained mercy, because I did it ignorantly in unbelief;
+
+BGT 1 Timothy 1:13 τὸ πρότερον ὄντα βλάσφημον καὶ διώκτην καὶ ὑβριστήν, ἀλλ᾽ ἠλεήθην, ὅτι ἀγνοῶν ἐποίησα ἐν ἀπιστίᾳ·
+
+BGM 1 Timothy 1:13 ὁ@dans πρότερος@anansc εἰμί@vppaams βλάσφημος@anamsn καί@cc διώκτης@namsc καί@cc ὑβριστής@namsc ἀλλά@cc ἐλεέω@viap1s ὅτι@cs ἀγνοέω@vppanms ποιέω@viaa1s ἐν@pd ἀπιστία@ndfsc
+
+______________________________
+
+ASV 1 Timothy 3:3 no brawler, no striker; but gentle, not contentious, no lover of money;
+
+BGT 1 Timothy 3:3 μὴ πάροινον μὴ πλήκτην, ἀλλ᾽ ἐπιεικῆ ἄμαχον ἀφιλάργυρον,
+
+BGM 1 Timothy 3:3 μή@x πάροινος@anamsn μή@x πλήκτης@namsc ἀλλά@cc ἐπιεικής@anamsn ἄμαχος@anamsn ἀφιλάργυρος@anamsn
+
+______________________________
+
+ASV 1 Timothy 3:6 not a novice, lest being puffed up he fall into the condemnation of the devil.
+
+BGT 1 Timothy 3:6 μὴ νεόφυτον, ἵνα μὴ τυφωθεὶς εἰς κρίμα ἐμπέσῃ τοῦ διαβόλου.
+
+BGM 1 Timothy 3:6 μή@x νεόφυτος@anamsn ἵνα@cs μή@x τυφόω@vpapnms εἰς@pa κρίμα@nansc ἐμπίπτω@vsaa3s ὁ@dgms διάβολος@ngmsc
+
+______________________________
+
+ASV 1 Timothy 3:8 Deacons in like manner must be grave, not double-tongued, not given to much wine, not greedy of filthy lucre;
+
+BGT 1 Timothy 3:8 Διακόνους ὡσαύτως σεμνούς, μὴ διλόγους, μὴ οἴνῳ πολλῷ προσέχοντας, μὴ αἰσχροκερδεῖς,
+
+BGM 1 Timothy 3:8 διάκονος@nampc ὡσαύτως@b σεμνός@anampn μή@x δίλογος@anampn μή@x οἶνος@ndmsc πολύς@andmsn προσέχω@vppaamp μή@x αἰσχροκερδής@anampn
+
+______________________________
+
+ASV 1 Timothy 3:11 Women in like manner must be grave, not slanderers, temperate, faithful in all things.
+
+BGT 1 Timothy 3:11 Γυναῖκας ὡσαύτως σεμνάς, μὴ διαβόλους, νηφαλίους, πιστὰς ἐν πᾶσιν.
+
+BGM 1 Timothy 3:11 γυνή@nafpc ὡσαύτως@b σεμνός@anafpn μή@x διάβολος@nafpc νηφάλιος@anafpn πιστός@anafpn ἐν@pd πᾶς@aidnpn
+
+______________________________
+
+ASV 2 Timothy 3:2 For men shall be lovers of self, lovers of money, boastful, haughty, railers, disobedient to parents, unthankful, unholy,
+
+BGT 2 Timothy 3:2 ἔσονται γὰρ οἱ ἄνθρωποι φίλαυτοι φιλάργυροι ἀλαζόνες ὑπερήφανοι βλάσφημοι, γονεῦσιν ἀπειθεῖς, ἀχάριστοι ἀνόσιοι
+
+BGM 2 Timothy 3:2 εἰμί@vifm3p γάρ@cc ὁ@dnmp ἄνθρωπος@nnmpc φίλαυτος@annmpn φιλάργυρος@annmpn ἀλαζών@nnmpc ὑπερήφανος@annmpn βλάσφημος@annmpn γονεύς@ndmpc ἀπειθής@annmpn ἀχάριστος@annmpn ἀνόσιος@annmpn
+
+______________________________
+
+ASV 2 Timothy 3:3 without natural affection, implacable, slanderers, without self-control, fierce, no lovers of good,
+
+BGT 2 Timothy 3:3 ἄστοργοι ἄσπονδοι διάβολοι ἀκρατεῖς ἀνήμεροι ἀφιλάγαθοι
+
+BGM 2 Timothy 3:3 ἄστοργος@annmpn ἄσπονδος@annmpn διάβολος@nnmpc ἀκρατής@annmpn ἀνήμερος@annmpn ἀφιλάγαθος@annmpn
+
+______________________________
+
+ASV 2 Timothy 3:4 traitors, headstrong, puffed up, lovers of pleasure rather than lovers of God;
+
+BGT 2 Timothy 3:4 προδόται προπετεῖς τετυφωμένοι, φιλήδονοι μᾶλλον ἢ φιλόθεοι,
+
+BGM 2 Timothy 3:4 προδότης@nnmpc προπετής@annmpn τυφόω@vpxpnmp φιλήδονος@annmpn μᾶλλον@b ἤ@cc φιλόθεος@annmpn
+
+______________________________
+
+ASV Titus 1:7 For the bishop must be blameless, as God's steward; not self-willed, not soon angry, no brawler, no striker, not greedy of filthy lucre;
+
+BGT Titus 1:7 δεῖ γὰρ τὸν ἐπίσκοπον ἀνέγκλητον εἶναι ὡς θεοῦ οἰκονόμον, μὴ αὐθάδη, μὴ ὀργίλον, μὴ πάροινον, μὴ πλήκτην, μὴ αἰσχροκερδῆ,
+
+BGM Titus 1:7 δεῖ@vipa3s γάρ@cc ὁ@dams ἐπίσκοπος@namsc ἀνέγκλητος@anamsn εἰμί@vnpa ὡς@cs θεός@ngmsc οἰκονόμος@namsc μή@x αὐθάδης@anamsn μή@x ὀργίλος@anamsn μή@x πάροινος@anamsn μή@x πλήκτης@namsc μή@x αἰσχροκερδής@anamsn
+
+______________________________
+
+ASV Titus 2:3 that aged women likewise be reverent in demeanor, not slanderers nor enslaved to much wine, teachers of that which is good;
+
+BGT Titus 2:3 πρεσβύτιδας ὡσαύτως ἐν καταστήματι ἱεροπρεπεῖς, μὴ διαβόλους μὴ οἴνῳ πολλῷ δεδουλωμένας, καλοδιδασκάλους,
+
+BGM Titus 2:3 πρεσβῦτις@nafpc ὡσαύτως@b ἐν@pd κατάστημα@ndnsc ἱεροπρεπής@anafpn μή@x διάβολος@nafpc μή@x οἶνος@ndmsc πολύς@andmsn δουλόω@vpxpafp καλοδιδάσκαλος@anafpn
+
+______________________________
+
+ASV Titus 3:3 For we also once were foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, hating one another.
+
+BGT Titus 3:3 Ἦμεν γάρ ποτε καὶ ἡμεῖς ἀνόητοι, ἀπειθεῖς, πλανώμενοι, δουλεύοντες ἐπιθυμίαις καὶ ἡδοναῖς ποικίλαις, ἐν κακίᾳ καὶ φθόνῳ διάγοντες, στυγητοί, μισοῦντες ἀλλήλους.
+
+BGM Titus 3:3 εἰμί@viia1p γάρ@cc ποτέ@b καί@b ἐγώ@rpn-p ἀνόητος@annmpn ἀπειθής@annmpn πλανάω@vpppnmp δουλεύω@vppanmp ἐπιθυμία@ndfpc καί@cc ἡδονή@ndfpc ποικίλος@andfpn ἐν@pd κακία@ndfsc καί@cc φθόνος@ndmsc διάγω@vppanmp στυγητός@annmpn μισέω@vppanmp ἀλλήλων@reamp
+
+______________________________
+
+ASV Colossians 3:5 Put to death therefore your members which are upon the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry;
+
+BGT Colossians 3:5 Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν ἀκαθαρσίαν πάθος ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν, ἥτις ἐστὶν εἰδωλολατρία,
+
+BGM Colossians 3:5 νεκρόω@vdaa2p οὖν@cc ὁ@danp μέλος@nanpc ὁ@danp ἐπί@pg ὁ@dgfs γῆ@ngfsc πορνεία@nafsc ἀκαθαρσία@nafsc πάθος@nansc ἐπιθυμία@nafsc κακός@anafsn καί@cc ὁ@dafs πλεονεξία@nafsc ὅστις@rrnfs εἰμί@vipa3s εἰδωλολατρία@nnfsc
+
+______________________________
+
+ASV Colossians 3:8 but now do ye also put them all away: anger, wrath, malice, railing, shameful speaking out of your mouth:
+
+BGT Colossians 3:8 νυνὶ δὲ ἀπόθεσθε καὶ ὑμεῖς τὰ πάντα, ὀργήν, θυμόν, κακίαν, βλασφημίαν, αἰσχρολογίαν ἐκ τοῦ στόματος ὑμῶν·
+
+BGM Colossians 3:8 νυνί@b δέ@cc ἀποτίθημι@vdam2p καί@b σύ@rpn-p ὁ@danp πᾶς@aianpn ὀργή@nafsc θυμός@namsc κακία@nafsc βλασφημία@nafsc αἰσχρολογία@nafsc ἐκ@pg ὁ@dgns στόμα@ngnsc σύ@rpg-p
+
+______________________________
+
+ASV Colossians 3:9 lie not one to another; seeing that ye have put off the old man with his doings,
+
+BGT Colossians 3:9 μὴ ψεύδεσθε εἰς ἀλλήλους, ἀπεκδυσάμενοι τὸν παλαιὸν ἄνθρωπον σὺν ταῖς πράξεσιν αὐτοῦ
+
+BGM Colossians 3:9 μή@x ψεύδομαι@vdpm2p εἰς@pa ἀλλήλων@reamp ἀπεκδύομαι@vpamnmp ὁ@dams παλαιός@anamsn ἄνθρωπος@namsc σύν@pd ὁ@ddfp πρᾶξις@ndfpc αὐτός@rpgms
+
+______________________________
+
+ASV Hebrews 12:15 looking carefully lest there be any man that falleth short of the grace of God; lest any root of bitterness springing up trouble you, and thereby the many be defiled;
+
+BGT Hebrews 12:15 ἐπισκοποῦντες μή τις ὑστερῶν ἀπὸ τῆς χάριτος τοῦ θεοῦ, μή τις ῥίζα πικρίας ἄνω φύουσα ἐνοχλῇ καὶ δι᾽ αὐτῆς μιανθῶσιν πολλοί,
+
+BGM Hebrews 12:15 ἐπισκοπέω@vppanmp μή@x τὶς@rinms ὑστερέω@vppanms ἀπό@pg ὁ@dgfs χάρις@ngfsc ὁ@dgms θεός@ngmsc μή@x τὶς@ainfsn ῥίζα@nnfsc πικρία@ngfsc ἄνω@b φύω@vppanfs ἐνοχλέω@vspa3s καί@cc διά@pg αὐτός@rpgfs μιαίνω@vsap3p πολύς@annmpn
+
+______________________________
+
+ASV Hebrews 12:16 lest there be any fornicator, or profane person, as Esau, who for one mess of meat sold his own birthright.
+
+BGT Hebrews 12:16 μή τις πόρνος ἢ βέβηλος ὡς Ἠσαῦ, ὃς ἀντὶ βρώσεως μιᾶς ἀπέδετο τὰ πρωτοτόκια ἑαυτοῦ.
+
+BGM Hebrews 12:16 μή@x τὶς@ainmsn πόρνος@nnmsc ἤ@cc βέβηλος@annmsn ὡς@cs Ἠσαῦ@nnmsp ὅς@rrnms ἀντί@pg βρῶσις@ngfsc εἷς@acgfsn ἀποδίδωμι@viam3s ὁ@danp πρωτοτόκια@nanpc ἑαυτοῦ@rxgms
+
+______________________________
+
+ASV Hebrews 13:4 Let marriage be had in honor among all, and let the bed be undefiled: for fornicators and adulterers God will judge.
+
+BGT Hebrews 13:4 Τίμιος ὁ γάμος ἐν πᾶσιν καὶ ἡ κοίτη ἀμίαντος, πόρνους γὰρ καὶ μοιχοὺς κρινεῖ ὁ θεός.
+
+BGM Hebrews 13:4 τίμιος@annmsn ὁ@dnms γάμος@nnmsc ἐν@pd πᾶς@aidmpn/aidnpn καί@cc ὁ@dnfs κοίτη@nnfsc ἀμίαντος@annfsn πόρνος@nampc γάρ@cc καί@cc μοιχός@nampc κρίνω@vifa3s ὁ@dnms θεός@nnmsc
+
+______________________________
+
+ASV 1 Peter 2:1 Putting away therefore all wickedness, and all guile, and hypocrisies, and envies, and all evil speakings,
+
+BGT 1 Peter 2:1 Ἀποθέμενοι οὖν πᾶσαν κακίαν καὶ πάντα δόλον καὶ ὑποκρίσεις καὶ φθόνους καὶ πάσας καταλαλιὰς
+
+BGM 1 Peter 2:1 ἀποτίθημι@vpamnmp οὖν@cc πᾶς@aiafsn κακία@nafsc καί@cc πᾶς@aiamsn δόλος@namsc καί@cc ὑπόκρισις@nafpc καί@cc φθόνος@nampc καί@cc πᾶς@aiafpn καταλαλιά@nafpc
+
+______________________________
+
+ASV 1 Peter 4:3 For the time past may suffice to have wrought the desire of the Gentiles, and to have walked in lasciviousness, lusts, winebibbings, revellings, carousings, and abominable idolatries:
+
+BGT 1 Peter 4:3 ἀρκετὸς γὰρ ὁ παρεληλυθὼς χρόνος τὸ βούλημα τῶν ἐθνῶν κατειργάσθαι πεπορευμένους ἐν ἀσελγείαις, ἐπιθυμίαις, οἰνοφλυγίαις, κώμοις, πότοις καὶ ἀθεμίτοις εἰδωλολατρίαις.
+
+BGM 1 Peter 4:3 ἀρκετός@annmsn γάρ@cc ὁ@dnms παρέρχομαι@vpxanms χρόνος@nnmsc ὁ@dans βούλημα@nansc ὁ@dgnp ἔθνος@ngnpc κατεργάζομαι@vnxm πορεύομαι@vpxmamp ἐν@pd ἀσέλγεια@ndfpc ἐπιθυμία@ndfpc οἰνοφλυγία@ndfpc κῶμος@ndmpc πότος@ndmpc καί@cc ἀθέμιτος@andfpn εἰδωλολατρία@ndfpc
+
+______________________________
+
+ASV Revelation 9:20 And the rest of mankind, who were not killed with these plagues, repented not of the works of their hands, that they should not worship demons, and the idols of gold, and of silver, and of brass, and of stone, and of wood; which can neither see, nor hear, nor walk:
+
+BGT Revelation 9:20 Καὶ οἱ λοιποὶ τῶν ἀνθρώπων, οἳ οὐκ ἀπεκτάνθησαν ἐν ταῖς πληγαῖς ταύταις, οὐδὲ μετενόησαν ἐκ τῶν ἔργων τῶν χειρῶν αὐτῶν, ἵνα μὴ προσκυνήσουσιν τὰ δαιμόνια καὶ τὰ εἴδωλα τὰ χρυσᾶ καὶ τὰ ἀργυρᾶ καὶ τὰ χαλκᾶ καὶ τὰ λίθινα καὶ τὰ ξύλινα, ἃ οὔτε βλέπειν δύνανται οὔτε ἀκούειν οὔτε περιπατεῖν,
+
+BGM Revelation 9:20 καί@cc ὁ@dnmp λοιπός@annmpn ὁ@dgmp ἄνθρωπος@ngmpc ὅς@rrnmp οὐ@b ἀποκτείνω@viap3p ἐν@pd ὁ@ddfp πληγή@ndfpc οὗτος@rddfp οὐδέ@cc μετανοέω@viaa3p ἐκ@pg ὁ@dgnp ἔργον@ngnpc ὁ@dgfp χείρ@ngfpc αὐτός@rpgmp ἵνα@cs μή@x προσκυνέω@vifa3p ὁ@danp δαιμόνιον@nanpc καί@cc ὁ@danp εἴδωλον@nanpc ὁ@danp χρυσοῦς@ananpn καί@cc ὁ@danp ἀργυροῦς@ananpn καί@cc ὁ@danp χαλκοῦς@ananpn καί@cc ὁ@danp λίθινος@ananpn καί@cc ὁ@danp ξύλινος@ananpn ὅς@rrnnp οὔτε@cc βλέπω@vnpa δύναμαι@vipm3p οὔτε@cc ἀκούω@vnpa οὔτε@cc περιπατέω@vnpa
+
+______________________________
+
+ASV Revelation 9:21 and they repented not of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
+
+BGT Revelation 9:21 καὶ οὐ μετενόησαν ἐκ τῶν φόνων αὐτῶν οὔτε ἐκ τῶν φαρμάκων αὐτῶν οὔτε ἐκ τῆς πορνείας αὐτῶν οὔτε ἐκ τῶν κλεμμάτων αὐτῶν.
+
+BGM Revelation 9:21 καί@cc οὐ@b μετανοέω@viaa3p ἐκ@pg ὁ@dgmp φόνος@ngmpc αὐτός@rpgmp οὔτε@cc ἐκ@pg ὁ@dgnp φάρμακον@ngnpc αὐτός@rpgmp οὔτε@cc ἐκ@pg ὁ@dgfs πορνεία@ngfsc αὐτός@rpgmp οὔτε@cc ἐκ@pg ὁ@dgnp κλέμμα@ngnpc αὐτός@rpgmp
+
+______________________________
+
+ASV Revelation 21:8 But for the fearful, and unbelieving, and abominable, and murderers, and fornicators, and sorcerers, and idolaters, and all liars, their part shall be in the lake that burneth with fire and brimstone; which is the second death.
+
+BGT Revelation 21:8 τοῖς δὲ δειλοῖς καὶ ἀπίστοις καὶ ἐβδελυγμένοις καὶ φονεῦσιν καὶ πόρνοις καὶ φαρμάκοις καὶ εἰδωλολάτραις καὶ πᾶσιν τοῖς ψευδέσιν τὸ μέρος αὐτῶν ἐν τῇ λίμνῃ τῇ καιομένῃ πυρὶ καὶ θείῳ, ὅ ἐστιν ὁ θάνατος ὁ δεύτερος.
+
+BGM Revelation 21:8 ὁ@ddmp δέ@cc δειλός@andmpn καί@cc ἄπιστος@andmpn καί@cc βδελύσσω@vpxmdmp καί@cc φονεύς@ndmpc καί@cc πόρνος@ndmpc καί@cc φάρμακος@ndmpc καί@cc εἰδωλολάτρης@ndmpc καί@cc πᾶς@aidmpn ὁ@ddmp ψευδής@andmpn ὁ@dnns μέρος@nnnsc αὐτός@rpgmp ἐν@pd ὁ@ddfs λίμνη@ndfsc ὁ@ddfs καίω@vpppdfs πῦρ@ndnsc καί@cc θεῖον@ndnsc ὅς@rrnns εἰμί@vipa3s ὁ@dnms θάνατος@nnmsc ὁ@dnms δεύτερος@aonmsn
+
+______________________________
+
+ASV Revelation 21:27 and there shall in no wise enter into it anything unclean, or he that maketh an abomination and a lie: but only they that are written in the Lamb's book of life.
+
+BGT Revelation 21:27 καὶ οὐ μὴ εἰσέλθῃ εἰς αὐτὴν πᾶν κοινὸν καὶ [ὁ] ποιῶν βδέλυγμα καὶ ψεῦδος εἰ μὴ οἱ γεγραμμένοι ἐν τῷ βιβλίῳ τῆς ζωῆς τοῦ ἀρνίου.
+
+BGM Revelation 21:27 καί@cc οὐ@b μή@x εἰσέρχομαι@vsaa3s εἰς@pa αὐτός@rpafs πᾶς@ainnsn κοινός@annnsn καί@cc ὁ@dnms ποιέω@vppanms βδέλυγμα@nansc καί@cc ψεῦδος@nansc εἰ@cs μή@x ὁ@dnmp γράφω@vpxpnmp ἐν@pd ὁ@ddns βιβλίον@ndnsc ὁ@dgfs ζωή@ngfsc ὁ@dgns ἀρνίον@ngnsc
+
+______________________________
+
+ASV Revelation 22:15 Without are the dogs, and the sorcerers, and the fornicators, and the murderers, and the idolaters, and every one that loveth and maketh a lie.
+
+BGT Revelation 22:15 ἔξω οἱ κύνες καὶ οἱ φάρμακοι καὶ οἱ πόρνοι καὶ οἱ φονεῖς καὶ οἱ εἰδωλολάτραι καὶ πᾶς φιλῶν καὶ ποιῶν ψεῦδος.
+
+BGM Revelation 22:15 ἔξω@b ὁ@dnmp κύων@nnmpc καί@cc ὁ@dnmp φάρμακος@nnmpc καί@cc ὁ@dnmp πόρνος@nnmpc καί@cc ὁ@dnmp φονεύς@nnmpc καί@cc ὁ@dnmp εἰδωλολάτρης@nnmpc καί@cc πᾶς@ainmsn φιλέω@vppanms καί@cc ποιέω@vppanms ψεῦδος@nansc
+
+______________________________
+
