@@ -15,3 +15,9 @@ Another view of **profane** is spoken profanity, (1 Tim 4:7) _βεβήλους 
 old ladies fables. Also in 1 Tim 6:20; 2 Tim 2:16 mentioning _βεβήλους κενοφωνίας_, as chatter of maybe sex slander 
 in terms of whoredom. Simply bebēlos should be strongly narrowed down presumably only in the sexual arena relatively to
 prostitution and similar.
+
+More can be added to **Abominable**, βδελύσσομαι (bdelyssomai). the analysis should go deeper, there are accompanying 
+information mentioned in the TDNT that should be valued and summed up, also a deeper understanding of the grammar of
+the participle verb should be analyzed, added perfect aspect and middle tense. By hermeneutically analyzing the word use
+around the bible, first it begins with the unsanitary which then defiles someone who becomes abhorred / the abominable.
+However, it seems it is the ones that practiced abhorring against others in the past. Maybe change to **Abhorrers**.
