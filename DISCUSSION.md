@@ -7,3 +7,11 @@ ever come into the new Jerusalem that means all the gentiles of the world are au
 supposed to be called koinos. in Acts 10:15 also v.29. Therefore, we will consider koinos a state, not a sin and being 
 the defilement and not persons being excluded from New Jerusalem if someone still has their name in the Book of Life 
 of the Lamb!  
+
+The entry **Profane**, βέβηλος (bebēlos) should be more strict and less generalized. Profaning is related to a 
+woman profaning herself by prostitution (Lev 21:9) in the OT and thereby profaning her father. In the NT (Heb 12:6) 
+Esau lost his inheritance due to a profane lifestyle where also **male-sex-buyer/seller** is mentioned.
+Another view of **profane** is spoken profanity, (1 Tim 4:7) _βεβήλους καὶ γραώδεις μύθους_ which warns for ungodly 
+old ladies fables. Also in 1 Tim 6:20; 2 Tim 2:16 mentioning _βεβήλους κενοφωνίας_, as chatter of maybe sex slander 
+in terms of whoredom. Simply bebēlos should be strongly narrowed down presumably only in the sexual arena relatively to
+prostitution and similar.
