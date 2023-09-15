@@ -21,3 +21,9 @@ information mentioned in the TDNT that should be valued and summed up, also a de
 the participle verb should be analyzed, added perfect aspect and middle tense. By hermeneutically analyzing the word use
 around the bible, first it begins with the unsanitary which then defiles someone who becomes abhorred / the abominable.
 However, it seems it is the ones that practiced abhorring against others in the past. Maybe change to **Abhorrers**.
+
+When it comes to **Abomination**, βδέλυγμα (bdelygma), it should be complemented with Luke 15:16, about the pharisees 
+being an abomination because they justify themselves before men pridefully.
+
+Presumably **Brutal (violence)**, ἀσέλγεια (aselgeia), should only use _brutal_ as it's upper boundary and have a range
+of riotous living as it's lower boundary.
