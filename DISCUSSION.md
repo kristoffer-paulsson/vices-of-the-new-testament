@@ -27,3 +27,16 @@ being an abomination because they justify themselves before men pridefully.
 
 Presumably **Brutal (violence)**, ἀσέλγεια (aselgeia), should only use _brutal_ as it's upper boundary and have a range
 of riotous living as it's lower boundary.
+
+Most likely **Erotic perversion**, πάθος (pathos), is not about kink or perversion per say.
+In order to make that conclusion there is the necessity to addhere to extrabiblical sources.
+Now pathos is used three times with a clear sexual connection but in all instances it's just a
+one word of a phrase. Those are used in Rom 1:26, Col 3:5, and 1 Thess 4:5. At the said place
+in Romans the phrase _πάθη ἀτιμίας_ which likely translates to _passions of disgrace_ is used in
+a context of God's twisting of peoples libido as in trans, queer and male gay behaviour.
+In Col 3:5 presumably the phrase _πάθος ἐπιθυμίαν_ could mean _passions of cravings_,
+but in Thess 4:5 _πάθει ἐπιθυμίας_ is used too. However, 4:5--7 Puts this into context,
+this is about men rivaling for women based on their lustful cravings and in that also commit
+the sins of _πλεονεκτέω_ and later _ἀκαθαρσία_. Both those words are also mentioned in
+Col 3:5 and thereby it may refer to the same behaviors in the last mentioned contexts.
+Presumably the post should be renamed __romantic rivalry__.
