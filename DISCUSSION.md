@@ -40,3 +40,17 @@ this is about men rivaling for women based on their lustful cravings and in that
 the sins of _πλεονεκτέω_ and later _ἀκαθαρσία_. Both those words are also mentioned in
 Col 3:5 and thereby it may refer to the same behaviors in the last mentioned contexts.
 Presumably the post should be renamed __romantic rivalry__.
+
+Presumably **Overindulgence** and **Sensuality**, ἡδονή (hēdonē) is not a very specific sin, it 
+refers mostly to all type of pleasures in any contexts, stretching from the pleasure of eating 
+when one is hungry to the largest possible overindulgence. Therefor it is impossible to fully 
+know what is included and excluded as a sin if it is interpreted as a sin. The word also only 
+appears once in a place that is similar to a list of sins but not clearly so. Therefor it is 
+questionable whether hēdonē in itself is a sin, maybe allowed but with some regulations in 
+extreme cases. This calls for a large hermeneutics interpretation and separate study. Therefor 
+hēdonē is excluded as a one-word vice. Hēdonē is mentioned 5 times in the NT where it is used 
+in context of spiritual suffocation, which is a warning in Luke 8:14. In Jas 4:1 and v3 a type 
+of pleasures causes conflict and prayers connected to pleasures are not answered by God. In 
+Tit 3:3 enslavement to pleasures in relationship to malice, envy and hate belongs to the 
+lifestyle of the old man before salvation. In 2 Pet 2:13 talks about taking pleasure in 
+rebellion against the apostolic leadership.
