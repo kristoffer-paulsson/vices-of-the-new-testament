@@ -1,5 +1,7 @@
 # Presumable corrections
 
+The vice list mentioned in Gal 5:26 doesn't seem to be enrolled on the list of vices yet, and needs an overhaul.
+
 Presumably **Common**, κοινός (koinos) should be removed as a sin of heavenly exclusion. Koinos is a state of 
 commonization which happens if certain sins are practiced (Matt 15:19; Mark 7:21-22). However, Revelations 21:27 
 mentions that what is koinos (defiled) will not enter into the Heavenly Jerusalem. If persons that are koinos won't 
