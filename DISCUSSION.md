@@ -56,3 +56,5 @@ of pleasures causes conflict and prayers connected to pleasures are not answered
 Tit 3:3 enslavement to pleasures in relationship to malice, envy and hate belongs to the 
 lifestyle of the old man before salvation. In 2 Pet 2:13 talks about taking pleasure in 
 rebellion against the apostolic leadership.
+
+Tit 1:10 mentions 3 vices with a chasticing consequence, those are recommended to adopt and extend.
