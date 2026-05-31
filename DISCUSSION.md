@@ -58,3 +58,10 @@ lifestyle of the old man before salvation. In 2 Pet 2:13 talks about taking plea
 rebellion against the apostolic leadership.
 
 Tit 1:10 mentions 3 vices with a chasticing consequence, those are recommended to adopt and extend.
+
+It is suggested that all words adn phrases describing vices are researched and described in such manner
+that a pastor could understand what they are by having them described based on what people have seen and
+heard with their own eyes and ears.
+
+It is also suggested that whenever possible vice phraces are first researched within the new covenant of 
+the New Testament
